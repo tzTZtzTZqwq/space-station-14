@@ -1,8 +1,8 @@
 - type: entity
   id: OperatingTable
   parent: Bed
-  name: operating table
-  description: Special medical table for surgery. This one just seems to be a useless prop, though.
+  name: 手术台
+  description: 特殊医疗手术台。不过，这个看起来只是个无用的道具罢了。
   components:
   - type: Sprite
     sprite: Structures/Furniture/Tables/optable.rsi

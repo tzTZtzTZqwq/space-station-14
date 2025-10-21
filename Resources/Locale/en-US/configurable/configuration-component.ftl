@@ -1,6 +1,6 @@
 ﻿
-configuration-menu-confirm = Confirm
-configuration-menu-device-title = Device Configuration
+configuration-menu-confirm = 确认
+configuration-menu-device-title = 设备配置
 
-## ConfigureVerb
-configure-verb-get-data-text = Open Configuration
+## 配置动词
+configure-verb-get-data-text = 打开配置

@@ -1,4 +1,4 @@
-zombie-transform = {CAPITALIZE(THE($target))} turned into a zombie!
+﻿zombie-transform = {CAPITALIZE(THE($target))} turned into a zombie!
 zombie-infection-greeting = You have become a zombie. Your goal is to seek out the living and to try to infect them.  Work together with the other zombies and remaining initial infected to overtake the station.
 
 zombie-generic = zombie

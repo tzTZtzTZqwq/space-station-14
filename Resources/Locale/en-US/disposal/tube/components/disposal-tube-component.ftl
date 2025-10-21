@@ -1,5 +1,5 @@
-disposal-tube-component-popup-directions-text = {$directions}
+﻿disposal-tube-component-popup-directions-text = {$directions}
 
-## TubeDirectionVerb
+## 管道方向动词
 
-tube-direction-verb-get-data-text = Tube Directions
+tube-direction-verb-get-data-text = 管道方向

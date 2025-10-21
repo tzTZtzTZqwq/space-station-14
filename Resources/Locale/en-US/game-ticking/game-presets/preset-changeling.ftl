@@ -1,4 +1,4 @@
-changeling-role-greeting =
+﻿changeling-role-greeting =
     You are a Changeling, a highly intelligent predator.
     Your primary goal is to escape the station alive via assuming the identities of the denizens of this station.
     You are hungry and will not make it long without sustenance...
@@ -8,6 +8,6 @@ changeling-briefing =
     You are a changeling.
     You are able to utilize and assume the identities of those you consume to evade a grim fate.
 
-objective-issuer-changeling = [color=#FA2A55]The Hivemind[/color]
+objective-issuer-changeling = [color=#FA2A55]蜂巢思维[/color]
 
-changeling-round-end-agent-name = changeling
+changeling-round-end-agent-name = 幻形灵

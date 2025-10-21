@@ -1,6 +1,6 @@
 - type: entity
   id: BaseCartridgePistol
-  name: cartridge (.35 auto)
+  name: 子弹（0.35英寸自动手枪弹）
   parent: [ BaseCartridge, BaseSecurityContraband ]
   abstract: true
   components:
@@ -19,8 +19,8 @@
 
 - type: entity
   id: CartridgePistol
-  name: cartridge (.35 auto)
-  description: Arguably the most popular caliber on the market, used by all manner of pistols and submachine guns. Standard kinetic ammunition is common and useful in most situations.
+  name: 子弹（0.35英寸自动手枪弹）
+  description: 可以说是市场上最流行的口径，被各种手枪和冲锋枪所使用。标准动能弹药在大多数情况下都很常见且实用。
   parent: BaseCartridgePistol
   components:
   - type: CartridgeAmmo
@@ -28,8 +28,8 @@
 
 - type: entity
   id: CartridgePistolPractice
-  name: cartridge (.35 auto practice)
-  description: Arguably the most popular caliber on the market, used by all manner of pistols and submachine guns. Chalk ammunition is generally non-harmful, used for practice.
+  name: 子弹（0.35英寸自动手枪练习弹）
+  description: 可以说是市场上最流行的口径，被各种手枪和冲锋枪所使用。粉笔弹药通常无害，用于练习。
   parent: BaseCartridgePistol
   components:
   - type: CartridgeAmmo
@@ -44,8 +44,8 @@
 
 - type: entity
   id: CartridgePistolIncendiary
-  name: cartridge (.35 auto incendiary)
-  description: Arguably the most popular caliber on the market, used by all manner of pistols and submachine guns. Incendiary ammunition contains a self-igniting compound that sets the target ablaze.
+  name: 子弹（0.35口径自动燃烧弹）
+  description: 可以说是市场上最流行的口径，各式手枪和冲锋枪均有使用。燃烧弹药内含自燃化合物，能迅速引燃目标。
   parent: BaseCartridgePistol
   components:
   - type: CartridgeAmmo
@@ -60,8 +60,8 @@
 
 - type: entity
   id: CartridgePistolUranium
-  name: cartridge (.35 auto uranium)
-  description: Arguably the most popular caliber on the market, used by all manner of pistols and submachine guns. Uranium core ammunition features a load of fissile material, irradiating the target from the inside.
+  name: 弹匣（.35自动铀弹）
+  description: 可以说是市场上最流行的口径，各式手枪和冲锋枪均有采用。铀芯弹药装有裂变材料，能从内部辐照目标。
   parent: BaseCartridgePistol
   components:
   - type: CartridgeAmmo
@@ -76,7 +76,7 @@
 
 - type: entity
   id: CartridgePistolSpent
-  name: cartridge (.35 auto)
+  name: 子弹（0.35英寸自动手枪弹）
   suffix: spent
   parent: BaseCartridgePistol
   components:

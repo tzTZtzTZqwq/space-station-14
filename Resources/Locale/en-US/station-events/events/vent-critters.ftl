@@ -1,1 +1,1 @@
-﻿station-event-vent-creatures-start-announcement = Attention. A large influx of unknown life forms have been detected residing within the station's ventilation systems. Please be rid of these creatures before it begins to affect productivity.
+﻿station-event-vent-creatures-start-announcement = 请注意。监测到大量未知生命体涌入空间站通风系统。请在影响生产效率前清除这些生物。

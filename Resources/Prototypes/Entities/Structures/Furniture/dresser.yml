@@ -1,8 +1,8 @@
 - type: entity
   id: Dresser
   parent: BaseStructure
-  name: dresser
-  description: Wooden dresser, can store things inside itself, ideal for underwear, and someone's kidneys?...
+  name: 梳妆台
+  description: 木质梳妆台，可存放物品于其内，适宜收纳内衣，以及某人的肾脏？……
   components:
   - type: Sprite
     sprite: Structures/Furniture/furniture.rsi

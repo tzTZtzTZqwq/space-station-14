@@ -1,2 +1,2 @@
-# Examine Text
-gas-thermomachine-system-examined = The {$machineName} thermostat is set to [color={$tempColor}]{$temp} K[/color].
+﻿#检查文本
+gas-thermomachine-system-examined = {$machineName} 温控器设置为 [color={$tempColor}]{$temp} K[/color]。

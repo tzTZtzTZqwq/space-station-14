@@ -1,17 +1,17 @@
-execution-verb-name = Execute
-execution-verb-message = Use your weapon to execute someone.
+﻿execution-verb-name = 执行
+execution-verb-message = 使用你的武器处决某人。
 
-# All the below localisation strings have access to the following variables
-# attacker (the person committing the execution)
-# victim (the person being executed)
-# weapon (the weapon used for the execution)
+#以下本地化字符串均可访问以下变量
+#攻击者（执行行为的人）
+#受害者（被处决的人）
+#武器（用于处决的武器）
 
-execution-popup-melee-initial-internal = You ready {THE($weapon)} against {THE($victim)}'s throat.
-execution-popup-melee-initial-external = { CAPITALIZE(THE($attacker)) } readies {POSS-ADJ($attacker)} {$weapon} against the throat of {THE($victim)}.
-execution-popup-melee-complete-internal = You slit the throat of {THE($victim)}!
-execution-popup-melee-complete-external = { CAPITALIZE(THE($attacker)) } slits the throat of {THE($victim)}!
+execution-popup-melee-initial-internal = 你已将{THE($weapon)}抵在{THE($victim)}的喉间。
+execution-popup-melee-initial-external = { CAPITALIZE(THE($attacker)) }将{POSS-ADJ($attacker)}的{$weapon}抵在{THE($victim)}的喉间。
+execution-popup-melee-complete-internal = 你割开了{THE($victim)}的喉咙！
+execution-popup-melee-complete-external = { CAPITALIZE(THE($attacker)) } 割开了 {THE($victim)} 的喉咙！
 
-execution-popup-self-initial-internal = You ready {THE($weapon)} against your own throat.
-execution-popup-self-initial-external = { CAPITALIZE(THE($attacker)) } readies {POSS-ADJ($attacker)} {$weapon} against their own throat.
-execution-popup-self-complete-internal = You slit your own throat!
-execution-popup-self-complete-external = { CAPITALIZE(THE($attacker)) } slits their own throat!
+execution-popup-self-initial-internal = 你准备好了{THE($weapon)}抵住自己的喉咙。
+execution-popup-self-initial-external = {CAPITALIZE(THE($attacker))}将{POSS-ADJ($attacker)}{$weapon}抵在了自己的喉间。
+execution-popup-self-complete-internal = 你割开了自己的喉咙！
+execution-popup-self-complete-external = { CAPITALIZE(THE($attacker)) }割开了自己的喉咙！

@@ -1,8 +1,8 @@
 - type: entity
   id: DecoratedFirTree
   parent: BaseStructure
-  name: decorated fir tree
-  description: A very festive tree for a very festive holiday.
+  name: 装饰过的冷杉树
+  description: 一棵为非常喜庆的节日准备的非常喜庆的树。
   components:
   - type: Sprite
     sprite: Structures/Decoration/decorated_fir_tree.rsi

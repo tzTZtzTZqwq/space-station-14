@@ -1,59 +1,59 @@
-salvage-expedition-type = Mission
-salvage-expedition-window-title = Salvage expeditions
-salvage-expedition-window-difficulty = Difficulty:
+﻿salvage-expedition-type = 任务
+salvage-expedition-window-title = 打捞远征
+salvage-expedition-window-difficulty = 难度：
 salvage-expedition-window-details = Details:
-salvage-expedition-window-hostiles = Hostiles:
-salvage-expedition-window-duration = Duration:
-salvage-expedition-window-biome = Biome:
-salvage-expedition-window-modifiers = Modifiers:
+salvage-expedition-window-hostiles = 敌对单位:
+salvage-expedition-window-duration = 时长：
+salvage-expedition-window-biome = 生物群系：
+salvage-expedition-window-modifiers = 修饰符：
 
-offering-window-claimed = Claimed
-offering-window-claim = Claim
+offering-window-claimed = 已领取
+offering-window-claim = 领取
 
-salvage-expedition-window-next = Next offer
+salvage-expedition-window-next = 下一个报价
 
-salvage-expedition-difficulty-Moderate = Moderate
-salvage-expedition-difficulty-Hazardous = Hazardous
-salvage-expedition-difficulty-Extreme = Extreme
+salvage-expedition-difficulty-Moderate = 中等
+salvage-expedition-difficulty-Hazardous = 危险
+salvage-expedition-difficulty-Extreme = 极端
 
-salvage-expedition-difficulty-players = Recommended salvagers:
+salvage-expedition-difficulty-players = 推荐回收者数量：
 
-# Runner
-salvage-expedition-not-all-present = Not all salvagers are aboard the shuttle!
+#奔跑者
+salvage-expedition-not-all-present = 并非所有打捞员都已登上穿梭机！
 
-salvage-expedition-announcement-countdown-minutes = {$duration} minutes remaining to complete the expedition.
-salvage-expedition-announcement-countdown-seconds = {$duration} seconds remaining to complete the expedition.
-salvage-expedition-announcement-dungeon = Dungeon is located {$direction}.
-salvage-expedition-completed = Expedition is completed.
-salvage-expedition-reward-description = Mission completion reward
+salvage-expedition-announcement-countdown-minutes = {$duration} 分钟完成远征。
+salvage-expedition-announcement-countdown-seconds = 距离完成远征还剩{$duration}秒。
+salvage-expedition-announcement-dungeon = Dungeon位于{$direction}。
+salvage-expedition-completed = 远征已完成。
+salvage-expedition-reward-description = 任务完成奖励
 
-# Salvage biome mod
-salvage-biome-mod-caves = Caves
-salvage-biome-mod-grasslands = Grasslands
-salvage-biome-mod-snow = Snow
-salvage-biome-mod-lava = Lava
+#打捞生态模组
+salvage-biome-mod-caves = 洞穴
+salvage-biome-mod-grasslands = 草原
+salvage-biome-mod-snow = 雪
+salvage-biome-mod-lava = 熔岩
 
-# Salvage mods
-salvage-light-mod-daylight = Daylight
-salvage-light-mod-evening = Evening
-salvage-light-mod-night = Night time
+#回收模组
+salvage-light-mod-daylight = 日光
+salvage-light-mod-evening = 夜晚
+salvage-light-mod-night = 夜间
 
-salvage-temperature-mod-room-temperature = Room temperature
-salvage-temperature-mod-hot = Hot
-salvage-temperature-mod-high-temperature = High temperature
-salvage-temperature-mod-extreme-heat = Extreme heat
-salvage-temperature-mod-cold = Cold
-salvage-temperature-mod-low-temperature = Low temperature
-salvage-temperature-mod-extreme-cold = Extreme cold
+salvage-temperature-mod-room-temperature = 室温
+salvage-temperature-mod-hot = 热
+salvage-temperature-mod-high-temperature = 高温
+salvage-temperature-mod-extreme-heat = 极端高温
+salvage-temperature-mod-cold = 寒冷
+salvage-temperature-mod-low-temperature = 低温
+salvage-temperature-mod-extreme-cold = 极寒
 
-salvage-air-mod-no-atmosphere = No atmosphere
-salvage-air-mod-breathable-atmosphere = Breathable atmosphere
-salvage-air-mod-dangerous-atmosphere = Dangerous atmosphere
-salvage-air-mod-toxic-atmosphere = Toxic atmosphere
-salvage-air-mod-volatile-atmosphere = Volatile atmosphere
+salvage-air-mod-no-atmosphere = 没有大气
+salvage-air-mod-breathable-atmosphere = 可呼吸大气
+salvage-air-mod-dangerous-atmosphere = 危险大气
+salvage-air-mod-toxic-atmosphere = 有毒大气
+salvage-air-mod-volatile-atmosphere = 不稳定大气
 
-salvage-dungeon-mod-lava-brig = Lava Brig
-salvage-dungeon-mod-snowy-labs = Snowy labs
-salvage-dungeon-mod-experiment = Experiment
-salvage-dungeon-mod-haunted = Haunted
-salvage-dungeon-mod-mineshaft = Mineshaft
+salvage-dungeon-mod-lava-brig = 熔岩狱吏
+salvage-dungeon-mod-snowy-labs = 雪域实验室
+salvage-dungeon-mod-experiment = 实验
+salvage-dungeon-mod-haunted = 闹鬼
+salvage-dungeon-mod-mineshaft = 矿道

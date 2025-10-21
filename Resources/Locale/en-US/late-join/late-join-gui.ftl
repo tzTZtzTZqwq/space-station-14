@@ -1,5 +1,5 @@
-late-join-gui-title = Late Join
-late-join-gui-jobs-amount-in-department-tooltip = Jobs in the {$departmentName} department
-late-join-gui-department-jobs-label = {$departmentName} jobs
-late-join-gui-job-slot-capped = {$jobName} ({$amount} open)
-late-join-gui-job-slot-uncapped = {$jobName} (∞ open)
+﻿late-join-gui-title = 稍后加入
+late-join-gui-jobs-amount-in-department-tooltip = {$departmentName}部门中的工作岗位
+late-join-gui-department-jobs-label = {$departmentName} 职位
+late-join-gui-job-slot-capped = {$jobName}（{$amount} 空缺）
+late-join-gui-job-slot-uncapped = {$jobName} (∞ 空缺)

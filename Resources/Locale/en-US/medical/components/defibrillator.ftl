@@ -1,4 +1,4 @@
-﻿defibrillator-not-on = The defibrillator isn't turned on.
-defibrillator-no-mind = No intelligence pattern can be detected in patient's brain. Further attempts futile.
-defibrillator-rotten = Body decomposition detected: resuscitation failed.
-defibrillator-unrevivable = This patient is unable to be revived due to a unique body composition.
+﻿defibrillator-not-on = 除颤器未开启。
+defibrillator-no-mind = 未检测到患者大脑中存在智能模式。进一步尝试无效。
+defibrillator-rotten = 检测到身体已腐烂：复苏失败。
+defibrillator-unrevivable = 该患者因独特的身体构造而无法被复苏。

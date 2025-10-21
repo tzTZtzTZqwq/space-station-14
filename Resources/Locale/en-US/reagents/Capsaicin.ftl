@@ -1,4 +1,4 @@
-﻿### Messages that pop up when metabolizing Capsaicin Oil.
+﻿### 代谢辣椒油时弹出的消息。
 
-capsaicin-effect-light-burn = You feel a slight tingle in your throat...
-capsaicin-effect-heavy-burn = You feel like hell threw up in your mouth!
+capsaicin-effect-light-burn = 你感觉喉咙微微发麻...
+capsaicin-effect-heavy-burn = 你感觉就像地狱在你嘴里呕吐一般！

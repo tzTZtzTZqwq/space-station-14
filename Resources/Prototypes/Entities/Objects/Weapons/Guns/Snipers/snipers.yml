@@ -1,8 +1,8 @@
 - type: entity
-  name: BaseWeaponSniper
+  name: 基础武器狙击枪
   parent: BaseItem
   id: BaseWeaponSniper
-  description: A rooty tooty point and shooty.
+  description: 一根根须突突的指指射射。
   abstract: true
   components:
   - type: Sprite
@@ -39,10 +39,10 @@
     price: 500
 
 - type: entity
-  name: Kardashev-Mosin
+  name: 卡尔达肖夫-莫辛
   parent: [BaseWeaponSniper, BaseGunWieldable, BaseMajorContraband]
   id: WeaponSniperMosin
-  description: A true relic, the Kardashev-Mosin has served in nearly every armed conflict since its creation 670 years ago. The bolt-action design of the rifle remains virtually identical to its original design, whether used for hunting, sniping, or endless trench warfare. Loads 10 rounds of .30 rifle.
+  description: 真正的老古董，卡达申-莫辛步枪自670年前诞生以来，几乎参与了历次武装冲突。无论是用于狩猎、狙击还是无休止的堑壕战，这款旋转后拉式枪机步枪始终保持着与原始设计几乎完全相同的构造。使用.30口径步枪弹，容弹量10发。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Snipers/bolt_gun_wood.rsi
@@ -90,10 +90,10 @@
     price: 500
 
 - type: entity
-  name: Hristov
+  name: 赫里斯托夫
   parent: [BaseWeaponSniper, BaseGunWieldable, BaseSyndicateContraband]
   id: WeaponSniperHristov
-  description: For when you absolutely, positively need to make someone regret their life choices from a safe distance. Uses .60 anti-materiel ammo.
+  description: 当你绝对、务必需要从安全距离外让某人为自己的人生选择后悔时所用。使用.60反物质弹药。
   components:
   - type: Item
     size: Huge
@@ -128,10 +128,10 @@
     price: 3500
 
 - type: entity
-  name: musket
+  name: 火枪
   parent: [ BaseWeaponSniper, BaseGunWieldable, BaseMajorContraband ]
   id: Musket
-  description: This should've been in a museum long before you were born. Uses .60 anti-materiel ammo.
+  description: 这件文物早在你出生前就该进博物馆了。它使用.60口径反器材弹药。
   components:
   - type: Sharp
   - type: Item
@@ -167,10 +167,10 @@
   - type: GunRequiresWield
 
 - type: entity
-  name: flintlock pistol
+  name: 燧发手枪
   parent: [BaseWeaponSniper, BaseMajorContraband]
   id: WeaponPistolFlintlock
-  description: A pirate's companion. Yarrr! Uses .45 magnum ammo.
+  description: 海盗的伙伴。呀！使用.45马格南子弹。
   components:
   - type: Gun
     minAngle: 0

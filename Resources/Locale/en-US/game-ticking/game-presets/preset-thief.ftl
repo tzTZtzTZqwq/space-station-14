@@ -1,4 +1,4 @@
-thief-role-greeting-human =
+﻿thief-role-greeting-human =
     You are criminal scum, a kleptomaniac
     previously arrested and on parole for petty theft.
     You need to add more to your collection.
@@ -16,6 +16,6 @@ thief-role-greeting-equipment =
     Choose your starting equipment,
     and do your work stealthily.
 
-objective-issuer-thief = [color=#746694]Criminal[/color]
+objective-issuer-thief = [color=#746694]罪犯[/color]
 
-thief-round-end-agent-name = thief
+thief-round-end-agent-name = 盗贼

@@ -1,16 +1,16 @@
-## Action menu stuff (left panel, with hotbars etc)
+﻿## 动作菜单相关内容（左侧面板，含快捷栏等）
 
-ui-actionmenu-title = Actions
-ui-actionmenu-filter-label = Filters: {$selectedLabels}
-ui-actionmenu-filter-button = Filter
-ui-actionmenu-search-bar-placeholder-text = Search
-ui-actionmenu-clear-button = Clear
+ui-actionmenu-title = 操作
+ui-actionmenu-filter-label = 筛选器: {$selectedLabels}
+ui-actionmenu-filter-button = 筛选
+ui-actionmenu-search-bar-placeholder-text = 搜索
+ui-actionmenu-clear-button = 清除
 
-ui-actionsui-function-lock-action-slots = (Un)lock dragging and clearing action slots
-ui-actionsui-function-open-abilities-menu = Open action menu
+ui-actionsui-function-lock-action-slots = 锁定/解锁拖动和清空动作槽
+ui-actionsui-function-open-abilities-menu = 打开动作菜单
 
-ui-actionmenu-enabled = Enabled
-ui-actionmenu-item = Item
-ui-actionmenu-innate = Innate
-ui-actionmenu-instant = Instant
-ui-actionmenu-targeted = Targeted
+ui-actionmenu-enabled = 启用
+ui-actionmenu-item = 物品
+ui-actionmenu-innate = 天赋
+ui-actionmenu-instant = 即时
+ui-actionmenu-targeted = 目标

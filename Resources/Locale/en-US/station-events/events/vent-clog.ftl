@@ -1,1 +1,1 @@
-﻿station-event-vent-clog-start-announcement = The scrubbers network is experiencing a backpressure surge. Some ejection of contents may occur.
+﻿station-event-vent-clog-start-announcement = 洗涤网络正经历一次反压力激增。可能会发生一些内容物喷出。

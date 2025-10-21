@@ -1,18 +1,17 @@
-apc-menu-title = APC
-apc-menu-breaker-label = Main Breaker
-apc-menu-breaker-button = Toggle
-apc-menu-power-label = Load
-apc-menu-external-label = External Power
-apc-menu-charge-label = {$percent} Charged
+﻿apc-menu-title = APC
+apc-menu-breaker-label = 主断路器
+apc-menu-breaker-button = 切换
+apc-menu-power-label = 负载
+apc-menu-external-label = 外部电源
+apc-menu-charge-label = {$percent} 已充电
 
-# For the power state label
+#对于电源状态标签
 
-apc-menu-power-state-good = Good
-apc-menu-power-state-low = Low
-apc-menu-power-state-none = None
-apc-menu-power-state-label-text = { POWERWATTS($power) }
+apc-menu-power-state-good = 良好
+apc-menu-power-state-low = 低
+apc-menu-power-state-none = 无
 
-# For the flavor text on the footer
+#页脚上的描述文本
 
-apc-menu-flavor-left = Contact an engineer for assistance.
+apc-menu-flavor-left = 联系工程师寻求协助。
 apc-menu-flavor-right = v1.2

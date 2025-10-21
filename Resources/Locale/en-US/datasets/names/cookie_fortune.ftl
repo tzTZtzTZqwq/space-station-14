@@ -1,4 +1,4 @@
-descriptions-cookie-fortune-dataset-1 = The end is near... and it's all your fault.
+﻿descriptions-cookie-fortune-dataset-1 = The end is near... and it's all your fault.
 descriptions-cookie-fortune-dataset-2 = We know what you did.
 descriptions-cookie-fortune-dataset-3 = Beware.
 descriptions-cookie-fortune-dataset-4 = Don't look back.

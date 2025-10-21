@@ -1,1 +1,1 @@
-make-sentient-verb-get-data-text = Make Sentient
+﻿make-sentient-verb-get-data-text = 使其获得感知

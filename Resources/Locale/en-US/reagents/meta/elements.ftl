@@ -1,65 +1,65 @@
-reagent-name-aluminium = aluminium
-reagent-desc-aluminium = A silver, soft, non-magnetic, and ductile metal.
+﻿reagent-name-aluminium = 铝
+reagent-desc-aluminium = 一种银色、柔软、无磁性且具有延展性的金属。
 
-reagent-name-ash = ash
-reagent-desc-ash = A light grey powdery residue
+reagent-name-ash = 灰
+reagent-desc-ash = 一种浅灰色的粉末状残留物
 
-reagent-name-carbon = carbon
-reagent-desc-carbon = A black, crystalline solid.
+reagent-name-carbon = 碳
+reagent-desc-carbon = 一种黑色的晶体固体。
 
-reagent-name-charcoal = charcoal
-reagent-desc-charcoal = A black, porous solid
+reagent-name-charcoal = 木炭
+reagent-desc-charcoal = 一种黑色多孔固体
 
-reagent-name-chlorine = chlorine
-reagent-desc-chlorine = A yellow-green gas which is toxic to humans.
+reagent-name-chlorine = 氯
+reagent-desc-chlorine = 一种对人类有毒的黄绿色气体。
 
-reagent-name-copper = copper
-reagent-desc-copper = A soft, malleable, and ductile metal with very high thermal and electrical conductivity.
+reagent-name-copper = 铜
+reagent-desc-copper = 一种柔软、可塑且具有延展性的金属，具有非常高的导热性和导电性。
 
-reagent-name-fluorine = fluorine
-reagent-desc-fluorine = A highly toxic pale yellow gas. Extremely reactive.
+reagent-name-fluorine = 氟
+reagent-desc-fluorine = 一种剧毒的淡黄色气体。极具反应性。
 
-reagent-name-gold = gold
-reagent-desc-gold = Gold is a dense, soft, shiny metal and the most malleable and ductile metal known.
+reagent-name-gold = 黄金
+reagent-desc-gold = 黄金是一种密度高、质地柔软、有光泽的金属，也是已知延展性和可塑性最强的金属。
 
-reagent-name-hydrogen = hydrogen
-reagent-desc-hydrogen = A light, flammable gas.
+reagent-name-hydrogen = 氢
+reagent-desc-hydrogen = 一种轻质的易燃气体。
 
-reagent-name-iodine = iodine
-reagent-desc-iodine = Commonly added to table salt as a nutrient. On its own it tastes far less pleasing.
+reagent-name-iodine = 碘
+reagent-desc-iodine = 通常作为营养素添加到食盐中。单独品尝时，其味道远不如食盐宜人。
 
-reagent-name-iron = iron
-reagent-desc-iron = A silvery-grey metal which forms iron oxides (rust) with contact with air. Commonly alloyed with other elements to create alloys such as steel.
+reagent-name-iron = 铁
+reagent-desc-iron = 一种银灰色金属，与空气接触会形成氧化铁（铁锈）。通常与其他元素合金化，以制造如钢等合金。
 
-reagent-name-lithium = lithium
-reagent-desc-lithium = A soft, silvery-white alkali metal. It's highly reactive, and ignites if it makes contact with water.
+reagent-name-lithium = 锂
+reagent-desc-lithium = 一种柔软、银白色的碱金属，化学性质极为活泼，遇水即燃。
 
-reagent-name-mercury = mercury
-reagent-desc-mercury = A silver metal which is liquid at room temperature. It's highly toxic to humans.
+reagent-name-mercury = 汞
+reagent-desc-mercury = 一种在室温下呈液态的银色金属，对人类具有剧毒。
 
-reagent-name-potassium = potassium
-reagent-desc-potassium = A soft, shiny grey metal. Even more reactive than lithium.
+reagent-name-potassium = 钾
+reagent-desc-potassium = 一种柔软、有光泽的灰色金属。反应性比锂更强。
 
-reagent-name-phosphorus = phosphorus
-reagent-desc-phosphorus = A reactive metal used in pyrotechnics and weapons.
+reagent-name-phosphorus = 磷
+reagent-desc-phosphorus = 一种用于烟火和武器的活性金属。
 
-reagent-name-radium = radium
-reagent-desc-radium = A radioactive metal, silvery-white in its pure form. It glows due to its radioactivity and is highly toxic.
+reagent-name-radium = 镭
+reagent-desc-radium = 一种放射性金属，纯态下呈银白色。因其放射性而发出幽光，且具有高度毒性。
 
-reagent-name-silicon = silicon
-reagent-desc-silicon = A hard and brittle crystalline solid with a blue-grey color.
+reagent-name-silicon = 硅
+reagent-desc-silicon = 一种坚硬易碎的蓝灰色晶体固体。
 
-reagent-name-silver = silver
-reagent-desc-silver = A soft, white, lustrous transition metal, it has the highest electrical conductivity of any element and the highest thermal conductivity of any metal.
+reagent-name-silver = 银
+reagent-desc-silver = 一种柔软、洁白且富有光泽的过渡金属，在所有元素中具有最高的导电性，并在所有金属中具有最高的导热性。
 
-reagent-name-sulfur = sulfur
-reagent-desc-sulfur = A yellow, crystalline solid.
+reagent-name-sulfur = 硫
+reagent-desc-sulfur = 一种黄色的晶体固体。
 
-reagent-name-sodium = sodium
-reagent-desc-sodium = A silvery-white alkali metal. Highly reactive in its pure form.
+reagent-name-sodium = 钠
+reagent-desc-sodium = 一种银白色的碱金属。其纯净形态具有高度反应性。
 
-reagent-name-uranium = uranium
-reagent-desc-uranium = A grey metallic chemical element in the actinide series, weakly radioactive.
+reagent-name-uranium = 铀
+reagent-desc-uranium = 一种锕系灰色金属化学元素，具有弱放射性。
 
-reagent-name-zinc = zinc
-reagent-desc-zinc = A silvery, brittle metal, often used in batteries to carry charge.
+reagent-name-zinc = 锌
+reagent-desc-zinc = 一种银色、易碎的金属，常用于电池中传输电荷。

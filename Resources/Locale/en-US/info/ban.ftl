@@ -1,88 +1,88 @@
-# ban
-cmd-ban-desc = Bans somebody
-cmd-ban-help = Usage: ban <name or user ID> <reason> [duration in minutes, leave out or 0 for permanent ban]
-cmd-ban-player = Unable to find a player with that name.
-cmd-ban-invalid-minutes = {$minutes} is not a valid amount of minutes!
-cmd-ban-invalid-severity = {$severity} is not a valid severity!
-cmd-ban-invalid-arguments = Invalid amount of arguments
+﻿#禁止
+cmd-ban-desc = 禁止某人
+cmd-ban-help = 用法：封禁 <名称或用户ID> <原因> [封禁时长（分钟），留空或填0表示永久封禁]
+cmd-ban-player = 无法找到该名称的玩家。
+cmd-ban-invalid-minutes = {$minutes} 不是有效的分钟数！
+cmd-ban-invalid-severity = {$severity} 不是有效的严重等级！
+cmd-ban-invalid-arguments = 参数数量无效
 cmd-ban-hint = <name/user ID>
 cmd-ban-hint-reason = <reason>
-cmd-ban-hint-duration = [duration]
-cmd-ban-hint-severity = [severity]
+cmd-ban-hint-duration = 时长
+cmd-ban-hint-severity = [严重性]
 
-cmd-ban-hint-duration-1 = Permanent
-cmd-ban-hint-duration-2 = 1 day
-cmd-ban-hint-duration-3 = 3 days
-cmd-ban-hint-duration-4 = 1 week
-cmd-ban-hint-duration-5 = 2 week
-cmd-ban-hint-duration-6 = 1 month
+cmd-ban-hint-duration-1 = 永久
+cmd-ban-hint-duration-2 = 1天
+cmd-ban-hint-duration-3 = 3天
+cmd-ban-hint-duration-4 = 1周
+cmd-ban-hint-duration-5 = 2 周
+cmd-ban-hint-duration-6 = 1个月
 
-# ban panel
-cmd-banpanel-desc = Opens the ban panel
-cmd-banpanel-help = Usage: banpanel [name or user guid]
-cmd-banpanel-server = This can not be used from the server console
-cmd-banpanel-player-err = The specified player could not be found
+#封禁面板
+cmd-banpanel-desc = 打开封禁面板
+cmd-banpanel-help = 用法：banpanel [名称或用户guid]
+cmd-banpanel-server = 这不能从服务器控制台使用
+cmd-banpanel-player-err = 未找到指定玩家
 
-# listbans
-cmd-banlist-desc = Lists a user's active bans.
-cmd-banlist-help = Usage: banlist <name or user ID>
-cmd-banlist-empty = No active bans found for {$user}
+#列出封禁
+cmd-banlist-desc = 列出用户的活跃封禁列表。
+cmd-banlist-help = 用法：banlist <名称或用户ID>
+cmd-banlist-empty = 未找到{$user}的生效封禁
 cmd-banlist-hint = <name/user ID>
 
-cmd-ban_exemption_update-desc = Set an exemption to a type of ban on a player.
-cmd-ban_exemption_update-help = Usage: ban_exemption_update <player> <flag> [<flag> [...]]
+cmd-ban_exemption_update-desc = 为玩家设置特定类型的封禁豁免。
+cmd-ban_exemption_update-help = 用法：ban_exemption_update <玩家> <标志> [<标志> [...]]
     Specify multiple flags to give a player multiple ban exemption flags.
     To remove all exemptions, run this command and give "None" as only flag.
 
-cmd-ban_exemption_update-nargs = Expected at least 2 arguments
-cmd-ban_exemption_update-locate = Unable to locate player '{$player}'.
-cmd-ban_exemption_update-invalid-flag = Invalid flag '{$flag}'.
-cmd-ban_exemption_update-success = Updated ban exemption flags for '{$player}' ({$uid}).
+cmd-ban_exemption_update-nargs = 期望至少2个参数
+cmd-ban_exemption_update-locate = 无法定位玩家'{$player}'。
+cmd-ban_exemption_update-invalid-flag = 无效标志'{$flag}'。
+cmd-ban_exemption_update-success = 已更新玩家'{$player}' ({$uid})的封禁豁免标记。
 cmd-ban_exemption_update-arg-player = <player>
 cmd-ban_exemption_update-arg-flag = <flag>
 
-cmd-ban_exemption_get-desc = Show ban exemptions for a certain player.
-cmd-ban_exemption_get-help = Usage: ban_exemption_get <player>
+cmd-ban_exemption_get-desc = 显示特定玩家的封禁豁免信息。
+cmd-ban_exemption_get-help = 用法：ban_exemption_get <player>
 
-cmd-ban_exemption_get-nargs = Expected exactly 1 argument
-cmd-ban_exemption_get-none = User is not exempt from any bans.
-cmd-ban_exemption_get-show = User is exempt from the following ban flags: {$flags}.
+cmd-ban_exemption_get-nargs = 预期恰好有 1 个参数
+cmd-ban_exemption_get-none = 用户未获得任何封禁豁免。
+cmd-ban_exemption_get-show = 用户豁免于以下封禁标志：{$flags}。
 cmd-ban_exemption_get-arg-player = <player>
 
-# Ban panel
+#封禁面板
 ban-panel-title = Banning panel
-ban-panel-player = Player
+ban-panel-player = 玩家
 ban-panel-ip = IP
-ban-panel-hwid = HWID
-ban-panel-reason = Reason
-ban-panel-last-conn = Use IP and HWID from last connection?
-ban-panel-submit = Ban
-ban-panel-confirm = Are you sure?
+ban-panel-hwid = 硬件ID
+ban-panel-reason = 原因
+ban-panel-last-conn = 使用上次连接的IP和HWID？
+ban-panel-submit = 封禁
+ban-panel-confirm = 你确定吗？
 ban-panel-tabs-basic = Basic info
-ban-panel-tabs-reason = Reason
-ban-panel-tabs-players = Player List
-ban-panel-tabs-role = Role ban info
-ban-panel-no-data = You must provide either a user, IP or HWID to ban
-ban-panel-invalid-ip = The IP address could not be parsed. Please try again
-ban-panel-select = Select type
-ban-panel-server = Server ban
-ban-panel-role = Role ban
-ban-panel-minutes = Minutes
-ban-panel-hours = Hours
-ban-panel-days = Days
-ban-panel-weeks = Weeks
-ban-panel-months = Months
-ban-panel-years = Years
-ban-panel-permanent = Permanent
-ban-panel-ip-hwid-tooltip = Leave empty and check the checkbox below to use last connection's details
-ban-panel-severity = Severity:
-ban-panel-erase = Erase chat messages and player from round
-ban-panel-expiry-error = err
+ban-panel-tabs-reason = 原因
+ban-panel-tabs-players = 玩家列表
+ban-panel-tabs-role = 角色封禁信息
+ban-panel-no-data = 您必须提供用户、IP或HWID才能执行封禁
+ban-panel-invalid-ip = 无法解析该IP地址，请重试
+ban-panel-select = 选择类型
+ban-panel-server = 服务器封禁
+ban-panel-role = 角色封禁
+ban-panel-minutes = 分钟
+ban-panel-hours = 小时
+ban-panel-days = 天数
+ban-panel-weeks = 周数
+ban-panel-months = 月份
+ban-panel-years = 年
+ban-panel-permanent = 永久
+ban-panel-ip-hwid-tooltip = 留空并勾选下方复选框以使用上次连接的详细信息
+ban-panel-severity = 严重程度：
+ban-panel-erase = 清除本轮聊天消息与玩家
+ban-panel-expiry-error = 错误
 
-# Ban string
-server-ban-string = {$admin} created a {$severity} severity server ban that expires {$expires} for [{$name}, {$ip}, {$hwid}], with reason: {$reason}
-server-ban-string-no-pii = {$admin} created a {$severity} severity server ban that expires {$expires} for {$name} with reason: {$reason}
-server-ban-string-never = never
+#封禁字符串
+server-ban-string = {$admin} 创建了一个{$severity}严重性的服务器封禁，将于{$expires}过期，针对[{$name}, {$ip}, {$hwid}]，原因为：{$reason}
+server-ban-string-no-pii = {$admin} 创建了一条{$severity}严重性的服务器禁令，对{$name}生效，到期时间为{$expires}，原因为：{$reason}
+server-ban-string-never = 从不
 
-# Kick on ban
-ban-kick-reason = You have been banned
+#封禁时踢出
+ban-kick-reason = 你已被封禁

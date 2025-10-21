@@ -1,7 +1,7 @@
-anomaly-spawn-event-announcement = Our readings have detected a dangerous interspacial anomaly. Please inform the research team about { $sighting }.
+﻿anomaly-spawn-event-announcement = 我们的读数侦测到一个危险的跨空间异常现象。请向研究团队报告有关{ $sighting }的情况。
 
-anomaly-spawn-sighting-1 = low pulsating sounds heard throughout the station
-anomaly-spawn-sighting-2 = strange sources of light
-anomaly-spawn-sighting-3 = inexplicable shapes
-anomaly-spawn-sighting-4 = forms causing severe mental distress
-anomaly-spawn-sighting-5 = strange effects on the local environment
+anomaly-spawn-sighting-1 = 站点各处听到低沉的脉动声
+anomaly-spawn-sighting-2 = 奇怪的光源
+anomaly-spawn-sighting-3 = 难以名状的形状
+anomaly-spawn-sighting-4 = 形态引发严重精神困扰
+anomaly-spawn-sighting-5 = 对当地环境产生的奇怪影响

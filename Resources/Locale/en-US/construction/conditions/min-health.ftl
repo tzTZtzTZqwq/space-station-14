@@ -1,2 +1,2 @@
-construction-examine-condition-low-health = First, repair it.
-construction-step-condition-low-health = It must be repaired.
+﻿construction-examine-condition-low-health = 首先，修复它。
+construction-step-condition-low-health = 它必须被修复。

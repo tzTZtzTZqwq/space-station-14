@@ -1,10 +1,10 @@
--damage-popup-component-type =
+﻿-damage-popup-component-type =
     { $setting ->
-        [combined] Combined
-        [total] Total
-        [delta] Delta
-        [hit] Hit
-       *[other] Unknown
+        [combined] 合并
+        [total] 总计
+        [delta] 德尔塔
+        [hit] 打击
+       *[other] 未知
     }
 
-damage-popup-component-switched = Target set to type: { -damage-popup-component-type(setting: $setting) }
+damage-popup-component-switched = 目标设定为类型：{ -damage-popup-component-type(setting: $setting) }

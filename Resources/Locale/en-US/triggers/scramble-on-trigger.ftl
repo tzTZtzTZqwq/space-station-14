@@ -1,1 +1,1 @@
-scramble-on-trigger-popup = Your appearance shifts and changes!
+﻿scramble-on-trigger-popup = 你的外貌开始变幻莫测！

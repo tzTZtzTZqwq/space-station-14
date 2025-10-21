@@ -1,16 +1,16 @@
-store-ui-default-title = Store
-store-ui-default-withdraw-text = Withdraw
-store-ui-refund-text = Refund
+﻿store-ui-default-title = 商店
+store-ui-default-withdraw-text = 提取
+store-ui-refund-text = 退款
 store-ui-balance-display = {$currency}: {$amount}
 store-ui-price-display = {$amount} {$currency}
-store-ui-discount-display-with-currency =  {$amount} off on {$currency}
-store-ui-discount-display =  ({$amount} off!)
+store-ui-discount-display-with-currency = {$amount} off on {$currency}
+store-ui-discount-display = ({$amount} off!)
 store-ui-traitor-flavor = Copyright (C) NT -30643
-store-ui-traitor-warning = Operatives must lock their uplinks after use to avoid detection.
+store-ui-traitor-warning = 特工们在使用后必须锁定他们的上行链路以避免被发现。
 
-store-withdraw-button-ui = Withdraw {$currency}
-store-ui-button-out-of-stock = {""} (Out of Stock)
-store-not-account-owner = This {$store} is not bound to you!
+store-withdraw-button-ui = 提取{$currency}
+store-ui-button-out-of-stock = {""} (缺货)
+store-not-account-owner = 这个{$store}未与您绑定！
 
 store-preset-name-uplink = Uplink
-store-preset-name-spellbook = Spellbook
+store-preset-name-spellbook = 法术书

@@ -1,8 +1,8 @@
 - type: entity
-  name: jug
+  name: 水壶
   parent: BaseItem
   id: Jug
-  description: Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+  description: 曾用于盛装大量化学品或溶液。强烈不建议一饮而尽。
   components:
     - type: SolutionContainerManager
       solutions:

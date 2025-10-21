@@ -1,8 +1,8 @@
 - type: entity
   parent: ReinforcedWindow
   id: XenoResinWindow
-  name: resin window
-  description: Transparent and hardened, yet slightly sticky to the touch. Slightly stronger than a normal reinforced window.
+  name: 树脂窗
+  description: 透明且坚硬，但触摸起来略带粘性。比普通的强化窗户略坚固一些。
   components:
   - type: Sprite
     drawdepth: WallTops

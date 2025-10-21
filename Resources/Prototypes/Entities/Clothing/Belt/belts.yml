@@ -3,8 +3,8 @@
 - type: entity
   parent: [ClothingBeltBase, ClothingSlotBase, BaseCommandContraband]
   id: ClothingBeltSheath
-  name: sabre sheath
-  description: An ornate sheath designed to hold an officer's blade.
+  name: 军刀鞘
+  description: 一把为军官刀量身打造的华丽刀鞘。
   components:
   - type: Sprite
     sprite: Clothing/Belt/sheath.rsi
@@ -16,7 +16,7 @@
   - type: ItemSlots
     slots:
       item:
-        name: Sabre
+        name: 军刀
         insertVerbText: sheath-insert-verb
         ejectVerbText: sheath-eject-verb
         insertSound: /Audio/Items/sheath.ogg
@@ -35,8 +35,8 @@
 - type: entity
   parent: ClothingBeltStorageBase
   id: ClothingBeltQuiver
-  name: quiver
-  description: Can hold up to 15 arrows, and fits snug around your waist.
+  name: 颤抖
+  description: 可容纳多达15支箭，并紧贴腰际。
   components:
   - type: Sprite
     sprite: Clothing/Belt/quiver.rsi
@@ -66,8 +66,8 @@
 - type: entity
   parent: [ClothingBeltAmmoProviderBase, BaseSecurityBartenderContraband]
   id: ClothingBeltBandolier
-  name: bandolier
-  description: A bandolier for holding shotgun ammunition.
+  name: 子弹带
+  description: 一条用于携带霰弹枪子弹的子弹带。
   components:
   - type: Sprite
     sprite: Clothing/Belt/bandolier.rsi
@@ -84,8 +84,8 @@
 - type: entity
   parent: [ ClothingBeltStorageBase, BaseMagicalContraband ]
   id: ClothingBeltWand
-  name: wand belt
-  description: A belt designed to hold various rods of power. A veritable fanny pack of exotic magic.
+  name: 腰带
+  description: 一条旨在容纳各种力量之杖的腰带。实为满载异域魔法的正宗腰包。
   components:
   - type: Sprite
     sprite: Clothing/Belt/wand.rsi
@@ -104,8 +104,8 @@
 - type: entity
   parent: ClothingBeltStorageBase
   id: ClothingBeltHolster
-  name: shoulder holster
-  description: 'A holster to carry a handgun and ammo. WARNING: Badasses only.'
+  name: 腋下枪套
+  description: 一个用于携带手枪和子弹的枪套。警告：仅限狠人使用。
   components:
   - type: Sprite
     sprite: Clothing/Belt/holster.rsi
@@ -118,8 +118,8 @@
 - type: entity
   parent: [ClothingBeltStorageBase, BaseSyndicateContraband]
   id: ClothingBeltSyndieHolster
-  name: syndicate shoulder holster
-  description: A deep shoulder holster capable of holding many types of ballistics.
+  name: 集团式肩挂枪套
+  description: 一个能容纳多种类型防弹护具的深肩枪套。
   components:
   - type: Sprite
     sprite: Clothing/Belt/syndieholster.rsi
@@ -144,8 +144,8 @@
 - type: entity
   parent: ClothingBeltSecurity
   id: ClothingBeltSecurityWebbing
-  name: security carrier
-  description: Unique and versatile chest rig, can hold security gear.
+  name: 安全载体
+  description: 独特且多功能的胸挂，可容纳安保装备。
   components:
   - type: Sprite
     sprite: Clothing/Belt/securitywebbing.rsi
@@ -155,8 +155,8 @@
 - type: entity
   parent: [ ClothingBeltStorageBase, BaseSecurityCargoContraband ]
   id: ClothingBeltMercWebbing
-  name: mercenary webbing
-  description: Ideal for storing everything from ammo to weapons and combat essentials.
+  name: 雇佣兵编织带
+  description: 非常适合存放从弹药到武器及战斗必需品的各类物品。
   components:
   - type: Sprite
     sprite: Clothing/Belt/mercwebbing.rsi
@@ -166,8 +166,8 @@
 - type: entity
   parent: ClothingBeltStorageBase
   id: ClothingBeltSalvageWebbing
-  name: salvage rig
-  description: Universal unloading system for work in space.
+  name: 打捞平台
+  description: 太空作业通用卸货系统。
   components:
   - type: Sprite
     sprite: Clothing/Belt/salvagewebbing.rsi
@@ -177,8 +177,8 @@
 - type: entity
   parent: [ClothingBeltStorageBase, ContentsExplosionResistanceBase, BaseSyndicateContraband]
   id: ClothingBeltMilitaryWebbing
-  name: chest rig
-  description: A set of tactical webbing worn by Syndicate boarding parties.
+  name: 胸挂
+  description: 一套辛迪加登船队使用的战术编织装备。
   components:
   - type: Sprite
     sprite: Clothing/Belt/militarywebbing.rsi
@@ -192,8 +192,8 @@
 - type: entity
   parent: ClothingBeltMilitaryWebbing
   id: ClothingBeltMilitaryWebbingMed
-  name: medical chest rig
-  description: A set of tactical webbing worn by Gorlex Marauder medic operatives.
+  name: 医疗胸挂
+  description: 戈勒克斯掠夺者医疗特工使用的一套战术织带。
   components:
   - type: Sprite
     sprite: Clothing/Belt/militarywebbingmed.rsi

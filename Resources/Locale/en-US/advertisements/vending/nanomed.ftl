@@ -1,9 +1,9 @@
-﻿advertisement-nanomed-1 = Go save some lives!
-advertisement-nanomed-2 = The best stuff for your medbay.
-advertisement-nanomed-3 = Only the finest tools.
-advertisement-nanomed-4 = Natural chemicals!
-advertisement-nanomed-5 = This stuff saves lives.
-advertisement-nanomed-6 = Don't you want some?
+﻿advertisement-nanomed-1 = 快去拯救生命吧！
+advertisement-nanomed-2 = 医疗湾的最佳用品。
+advertisement-nanomed-3 = 只有最好的工具。
+advertisement-nanomed-4 = 天然化学物质！
+advertisement-nanomed-5 = 这东西能救命。
+advertisement-nanomed-6 = 难道你不想要一些吗？
 advertisement-nanomed-7 = Ping!
-advertisement-nanomed-8 = Make sure not to overdose people!
-advertisement-nanomed-9 = Go overdose people!
+advertisement-nanomed-8 = 确保不要让人们用药过量！
+advertisement-nanomed-9 = 去嗑药吧人们！

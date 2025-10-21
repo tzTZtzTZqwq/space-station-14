@@ -1,4 +1,4 @@
-﻿sensor-monitoring-window-title = Sensor Monitoring Console
+﻿sensor-monitoring-window-title = 传感器监控控制台
 
 sensor-monitoring-value-display = {$unit ->
     [PressureKpa] { PRESSURE($value) }
@@ -10,4 +10,4 @@ sensor-monitoring-value-display = {$unit ->
     *[Other] { $value }
 }
 
-# ({ TOSTRING(SUB($value, 273.15), "N3") } °C)
+#({ TOSTRING(SUB($value, 273.15), "N3") } °C)

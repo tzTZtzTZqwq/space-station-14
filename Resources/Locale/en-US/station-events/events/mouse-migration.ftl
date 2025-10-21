@@ -1,1 +1,1 @@
-station-event-mouse-migration-announcement = We have detected an oncoming migration of rodents to the station. Please stay out of maintenance tunnels and try and avoid excessive contact.
+﻿station-event-mouse-migration-announcement = 我们检测到有啮齿动物即将向空间站迁徙。请远离维护隧道，并尽量避免过多接触。

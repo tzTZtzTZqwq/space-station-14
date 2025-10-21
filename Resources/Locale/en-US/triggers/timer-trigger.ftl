@@ -1,10 +1,10 @@
+﻿
+timer-trigger-verb-set = {$time}秒
+timer-trigger-verb-set-current = {$time} 秒（当前）
+timer-trigger-verb-cycle = 循环时间延迟
 
-timer-trigger-verb-set = {$time} Seconds
-timer-trigger-verb-set-current = {$time} Seconds (current)
-timer-trigger-verb-cycle = Cycle Time Delay
+timer-trigger-examine = 定时器设置为{$time}秒。
 
-timer-trigger-examine = The timer is set to {$time} seconds.
+timer-trigger-popup-set = 计时器设置为{$time}秒。
 
-timer-trigger-popup-set = Timer set to {$time} seconds.
-
-timer-trigger-activated = You activate {THE($device)}.
+timer-trigger-activated = 你激活了{THE($device)}。

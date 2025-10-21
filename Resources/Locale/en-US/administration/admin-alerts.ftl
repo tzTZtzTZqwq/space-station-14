@@ -1,4 +1,4 @@
-﻿admin-alert-shared-connection = {$player} is sharing a connection with {$otherCount} connected player(s): {$otherList}
-admin-alert-ipintel-blocked = {$player} was rejected from joining due to their IP having a {TOSTRING($percent, "P2")} confidence of being a VPN/Datacenter.
-admin-alert-ipintel-warning = {$player} IP has a {TOSTRING($percent, "P2")} confidence of being a VPN/Datacenter. Please watch them.
+﻿admin-alert-shared-connection = {$player} 正与 {$otherCount} 位在线玩家共享连接：{$otherList}
+admin-alert-ipintel-blocked = {$player} 因IP地址被判定为VPN/数据中心的置信度高达{TOSTRING($percent, "P2")}而被拒绝加入。
+admin-alert-ipintel-warning = {$player}的IP有{TOSTRING($percent, "P2")}的置信度属于VPN/数据中心，请留意其行为。
 admin-alert-antag-label = {$message} [ANTAG: {$name}, {$subtype}]

@@ -1,37 +1,37 @@
-## UI
+﻿## 界面
 
-injector-draw-text = Draw
-injector-inject-text = Inject
-injector-invalid-injector-toggle-mode = Invalid
+injector-draw-text = 绘制
+injector-inject-text = 注入
+injector-invalid-injector-toggle-mode = 无效
 injector-volume-label = Volume: [color=white]{$currentVolume}/{$totalVolume}[/color]
     Mode: [color=white]{$modeString}[/color] ([color=white]{$transferVolume}u[/color])
 
-## Entity
+## 实体
 
-injector-component-drawing-text = Now drawing
-injector-component-injecting-text = Now injecting
-injector-component-cannot-transfer-message = You aren't able to transfer into {THE($target)}!
-injector-component-cannot-transfer-message-self = You aren't able to transfer into yourself!
-injector-component-cannot-draw-message = You aren't able to draw from {THE($target)}!
-injector-component-cannot-draw-message-self = You aren't able to draw from yourself!
-injector-component-cannot-inject-message = You aren't able to inject into {THE($target)}!
-injector-component-cannot-inject-message-self = You aren't able to inject into yourself!
-injector-component-inject-success-message = You inject {$amount}u into {THE($target)}!
-injector-component-inject-success-message-self = You inject {$amount}u into yourself!
-injector-component-transfer-success-message = You transfer {$amount}u into {THE($target)}.
-injector-component-transfer-success-message-self = You transfer {$amount}u into yourself.
-injector-component-draw-success-message = You draw {$amount}u from {THE($target)}.
-injector-component-draw-success-message-self = You draw {$amount}u from youself.
-injector-component-target-already-full-message = {CAPITALIZE(THE($target))} is already full!
-injector-component-target-already-full-message-self = You are already full!
-injector-component-target-is-empty-message = {CAPITALIZE(THE($target))} is empty!
-injector-component-target-is-empty-message-self = You are empty!
-injector-component-cannot-toggle-draw-message = Too full to draw!
-injector-component-cannot-toggle-inject-message = Nothing to inject!
+injector-component-drawing-text = 正在抽取
+injector-component-injecting-text = 正在注入
+injector-component-cannot-transfer-message = 你无法转移到{THE($target)}中！
+injector-component-cannot-transfer-message-self = 你无法转移到自己体内！
+injector-component-cannot-draw-message = 你无法从{THE($target)}中抽取！
+injector-component-cannot-draw-message-self = 你无法从自己身上抽取！
+injector-component-cannot-inject-message = 你无法向{THE($target)}注射！
+injector-component-cannot-inject-message-self = 你无法对自己进行注射！
+injector-component-inject-success-message = 你将{$amount}u注入{THE($target)}！
+injector-component-inject-success-message-self = 你将{$amount}u注入到自己体内！
+injector-component-transfer-success-message = 你将{$amount}u转移进了{THE($target)}。
+injector-component-transfer-success-message-self = 你将{$amount}u转移到了自己体内。
+injector-component-draw-success-message = 你从{THE($target)}中抽取了{$amount}单位。
+injector-component-draw-success-message-self = 你从自己身上抽出了{$amount}单位。
+injector-component-target-already-full-message = {CAPITALIZE(THE($target))}已经满了！
+injector-component-target-already-full-message-self = 你已经满了！
+injector-component-target-is-empty-message = {CAPITALIZE(THE($target))}是空的！
+injector-component-target-is-empty-message-self = 你是空的！
+injector-component-cannot-toggle-draw-message = 太满了，抽不出来了！
+injector-component-cannot-toggle-inject-message = 没有可注入物！
 
-## mob-inject doafter messages
+## mob-inject 注入延迟消息
 
-injector-component-drawing-user = You start drawing the needle.
-injector-component-injecting-user = You start injecting the needle.
-injector-component-drawing-target = {CAPITALIZE(THE($user))} is trying to use a needle to draw from you!
-injector-component-injecting-target = {CAPITALIZE(THE($user))} is trying to inject a needle into you!
+injector-component-drawing-user = 你开始抽取针剂。
+injector-component-injecting-user = 你开始注射针剂。
+injector-component-drawing-target = {CAPITALIZE(THE($user))}正试图用针管从您身上抽血！
+injector-component-injecting-target = {CAPITALIZE(THE($user))} 正试图将针管刺入您的身体！

@@ -92,10 +92,10 @@
       - Lead
 
 - type: entity
-  name: strange pill
+  name: 奇怪的药丸
   parent: Pill
   id: StrangePill
-  description: This unusual pill bears no markings. There's no telling what it contains.
+  description: 这颗不同寻常的药丸上没有任何标记，无法判断其成分。
   components:
   - type: SolutionContainerManager
     solutions:

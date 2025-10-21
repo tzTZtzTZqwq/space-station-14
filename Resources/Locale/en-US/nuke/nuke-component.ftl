@@ -1,50 +1,50 @@
-nuke-component-cant-anchor-floor = The anchoring bolts fail to lock into the floor!
-nuke-component-cant-anchor-toggle = The nuclear authentication disk is required to toggle the floor bolts!
-nuke-component-announcement-sender = Nuclear Fission Explosive
-nuke-component-announcement-armed = Attention! The station's self-destruct mechanism has been engaged {$location}. {$time} seconds until detonation. If this was made in error, the mechanism may still be disarmed.
-nuke-component-announcement-unarmed = The station's self-destruct was deactivated! Have a nice day!
-nuke-component-announcement-send-codes = Attention! Self-destruction codes have been sent to designated fax machines.
-nuke-component-doafter-warning = You start fiddling with wires and knobs in order to disarm the nuke.. This may take a while.
+﻿nuke-component-cant-anchor-floor = 锚定螺栓无法锁定到地板中！
+nuke-component-cant-anchor-toggle = 需要核认证盘才能切换地脚螺栓！
+nuke-component-announcement-sender = 核裂变炸药
+nuke-component-announcement-armed = 注意！空间站自毁装置{$location}已被启动。距引爆剩余{$time}秒。若系误操作，该装置仍可解除武装。
+nuke-component-announcement-unarmed = 空间站的自毁系统已被停用！祝您有愉快的一天！
+nuke-component-announcement-send-codes = 注意！自毁代码已发送至指定传真机。
+nuke-component-doafter-warning = 你开始摆弄电线与旋钮试图拆除核弹...这可能需要一些时间。
 
-nuke-disk-component-microwave = The disk sparks and fizzles a bit, but seems mostly unharmed?
+nuke-disk-component-microwave = 磁盘迸发出火花并发出嘶嘶声，但似乎基本完好无损？
 
-# Nuke UI
-nuke-user-interface-title = Nuclear Fission Explosive
-nuke-user-interface-arm-button = ARM
-nuke-user-interface-disarm-button = DISARM
-nuke-user-interface-anchor-button = ANCHOR
-nuke-user-interface-eject-button = EJECT
+#核弹UI
+nuke-user-interface-title = 核裂变炸药
+nuke-user-interface-arm-button = 武装
+nuke-user-interface-disarm-button = 解除
+nuke-user-interface-anchor-button = 锚点
+nuke-user-interface-eject-button = 弹出
 
-## Upper status
-nuke-user-interface-first-status-device-locked = DEVICE LOCKED
-nuke-user-interface-first-status-input-code = INPUT CODE
-nuke-user-interface-first-status-input-time = INPUT TIME
-nuke-user-interface-first-status-device-ready = DEVICE READY
-nuke-user-interface-first-status-device-armed = DEVICE ARMED
-nuke-user-interface-first-status-device-cooldown = DEACTIVATED
-nuke-user-interface-status-error = ERROR
+## 上层状态
+nuke-user-interface-first-status-device-locked = 设备已锁定
+nuke-user-interface-first-status-input-code = 输入代码
+nuke-user-interface-first-status-input-time = 输入时间
+nuke-user-interface-first-status-device-ready = 设备就绪
+nuke-user-interface-first-status-device-armed = 设备已就绪
+nuke-user-interface-first-status-device-cooldown = 已停用
+nuke-user-interface-status-error = 错误
 
-## Lower status
-nuke-user-interface-second-status-await-disk = AWAIT DISK
+## 较低状态
+nuke-user-interface-second-status-await-disk = 等待磁盘
 nuke-user-interface-second-status-time = TIME: {$time}
-nuke-user-interface-second-status-current-code = CODE: {$code}
-nuke-user-interface-second-status-cooldown-time = WAIT: {$time}
+nuke-user-interface-second-status-current-code = 代码: {$code}
+nuke-user-interface-second-status-cooldown-time = 等待: {$time}
 
-## Nuke labels
+## 核武器标签
 nuke-label-nanotrasen = NT-{$serial}
 
-# do you even need this one? It's more funnier to say that
-# the Syndicate stole a NT nuke
+#你真的需要这个吗？说那个更有趣
+#辛迪加偷走了一个NT核弹
 nuke-label-syndicate = SYN-{$serial}
 
-# Codes
-nuke-codes-message = [color=red]TOP SECRET![/color]
-nuke-codes-list = {$name} code: {$code}
-nuke-codes-fax-paper-name = nuclear authentication codes
+#代码
+nuke-codes-message = [color=red]最高机密！[/color]
+nuke-codes-list = {$name} 代码：{$code}
+nuke-codes-fax-paper-name = 核认证代码
 
-# Nuke disk slot
-nuke-slot-component-slot-name-disk = Disk
+#核弹磁盘槽
+nuke-slot-component-slot-name-disk = 磁盘
 
-## Examine
-nuke-examine-armed = Hey uh, why's that [color=red]red light[/color] blinking?
-nuke-examine-exploding = Yeah... I think it's too late buddy.
+## 检查
+nuke-examine-armed = 嘿呃，为什么那个[color=red]红灯[/color]在闪？
+nuke-examine-exploding = 是啊…我觉得现在太迟了，哥们儿。

@@ -1,8 +1,8 @@
 - type: entity
   id: SpeedLoaderLightRifle
-  name: "speed loader (.30 rifle)"
+  name: 快速装弹器（适用于0.30口径步枪）
   parent: [ BaseItem, BaseSecurityContraband ]
-  description: 5-round 'stripper clip' for quickly reloading the Kardashev-Mosin. Holds 5 rounds of .30 rifle.
+  description: 5发快速装填弹夹，用于快速装填卡尔达舍夫-莫辛步枪，可容纳5发.30口径步枪弹。
   components:
   - type: Tag
     tags:

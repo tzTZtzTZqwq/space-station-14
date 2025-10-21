@@ -1,4 +1,4 @@
-marking-LizardFrillsShort-frills_short = Lizard Frills (Short)
+﻿marking-LizardFrillsShort-frills_short = Lizard Frills (Short)
 marking-LizardFrillsShort = Lizard Frills (Short)
 
 marking-LizardFrillsSimple-frills_simple = Lizard Frills (Simple)

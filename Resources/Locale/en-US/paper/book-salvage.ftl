@@ -1,15 +1,15 @@
-book-text-demonomicon1 = How To Summon a Demon
-          - by J.G. Wizgerald
+﻿book-text-demonomicon1 = 如何召唤恶魔
+          - by J.G. 威兹杰拉德
 
-          1. todo finish writing demon summoning guide
+          1. todo finish writing demon summoning 指南
 
-book-text-demonomicon2 = How To Summon a Lemon
-          - by J.G. Wizgerald
+book-text-demonomicon2 = 如何召唤一只柠檬
+          - by J.G. 威兹杰拉德
 
-          1. todo finish writing lemon summoning guide
-          2. WAit. Typo. Oh shit. Sorry guys
+          1. todo finish writing lemon summoning 指南
+          2. WAit. Typo. Oh shit. Sorry 伙计们
 
-book-text-demonomicon3 = Cool Demon Names I Found
+book-text-demonomicon3 = 我找到的酷炫恶魔名字
       - by Ms. Mossrock
 
       Abraxas
@@ -21,7 +21,7 @@ book-text-demonomicon3 = Cool Demon Names I Found
       Scylla
       Phenex
 
-book-text-chemistry-insane = IGOR CHEMISTRY GUIDE TO CHEMISTRY
+book-text-chemistry-insane = 伊戈尔化学指南
 
       TITLE: GUIDE TO CHEMISTRY
 
@@ -40,7 +40,7 @@ book-text-chemistry-insane = IGOR CHEMISTRY GUIDE TO CHEMISTRY
 
       CONCLUSION: IGOR CHEMISTRY
 
-book-text-botanics = ** Applications of Botanical Specimens Found In Nanotrasen Territories **
+book-text-botanics = **在纳星领域发现的植物标本应用**
 
       Many plants, when ground, yield useful chemicals. S. (spessmens) papaver and S. aloe vera
       are known for their basic healing properties.
@@ -57,7 +57,7 @@ book-text-botanics = ** Applications of Botanical Specimens Found In Nanotrasen 
 
       - penned by James Alacaster and Golzuk Amaranth
 
-book-text-gnome = All Hail Our Gnome King
+book-text-gnome = 向我们的地精国王致敬
 
       He who is the grand cartographer who placed our kind into the world of the Island!
 
@@ -67,7 +67,7 @@ book-text-gnome = All Hail Our Gnome King
 
       Our revenge will be dealt in full! He will Rise once more! hee Hoo!
 
-book-text-fishing = When I grow up, I want to be one of the harvesters of the space sea!
+book-text-fishing = 当我长大后，我想成为太空海洋的收获者之一！
 
       I think before my days are done I want to catch the fabled space fish!
 
@@ -77,7 +77,7 @@ book-text-fishing = When I grow up, I want to be one of the harvesters of the sp
 
       - Sgt. John Baker Aclopoly
 
-book-text-detective = CHAPTER 1: SMALL ADVENTURES IN A BIG STATION
+book-text-detective = 第一章：大车站里的小冒险
 
       This station is filled with crime and grime...
 

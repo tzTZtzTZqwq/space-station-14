@@ -1,7 +1,7 @@
-### Interaction Messages
+﻿### 交互消息
 
-# Shown when repairing something
-comp-repairable-repair = You repair {PROPER($target) ->
+#在修复某物时显示
+comp-repairable-repair = 你开始修复 {PROPER($target) ->
   [true] {""}
   *[false] the{" "}
 }{$target} with {PROPER($tool) ->

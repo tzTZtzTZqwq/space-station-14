@@ -1,5 +1,5 @@
-# Examine Text
+﻿#检查文本
 gas-valve-system-examined = The valve is [color={$statusColor}]{$open ->
-    [true]  open
-   *[false] closed
+    [true] 打开
+   *[false] 已关闭
 }[/color].

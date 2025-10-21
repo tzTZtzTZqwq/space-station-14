@@ -2,8 +2,8 @@
   abstract: true
   parent: BaseStructure
   id: BaseGateway
-  name: gateway
-  description: A mysterious gateway built by unknown hands, it allows for faster than light travel to far-flung locations.
+  name: 网关
+  description: 一座由未知之手建造的神秘门户，它能实现超光速旅行，将人瞬间带往遥远之地。
   components:
   - type: Sprite
     sprite: Structures/Machines/gateway.rsi

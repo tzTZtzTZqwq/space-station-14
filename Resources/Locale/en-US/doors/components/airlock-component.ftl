@@ -1,4 +1,4 @@
-## AirlockComponent
+﻿## 气闸组件
 
-airlock-component-cannot-pry-is-bolted-message = The airlock's bolts prevent it from being forced!
-airlock-component-cannot-pry-is-powered-message = The powered motors block your efforts!
+airlock-component-cannot-pry-is-bolted-message = 气闸门的螺栓让它无法被强行打开！
+airlock-component-cannot-pry-is-powered-message = 通电的电机阻碍了你的努力！

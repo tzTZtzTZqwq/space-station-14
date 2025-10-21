@@ -1,5 +1,5 @@
-voice-trigger-lock-verb-record = Record lock phrase
-voice-trigger-lock-verb-message = Locking the item will disable features that reveal its true nature!
+﻿voice-trigger-lock-verb-record = 录制锁定短语
+voice-trigger-lock-verb-message = 锁定该物品将禁用揭示其真实性质的功能！
 
-voice-trigger-lock-on-uninitialized = The display is blank
-voice-trigger-lock-on-examine = The display shows the passphrase: "{$keyphrase}"
+voice-trigger-lock-on-uninitialized = 显示屏是空白的
+voice-trigger-lock-on-examine = 显示器上显示的口令是："{$keyphrase}"

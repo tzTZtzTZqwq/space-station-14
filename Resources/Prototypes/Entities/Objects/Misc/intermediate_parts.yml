@@ -2,8 +2,8 @@
 - type: entity
   parent: BaseItem
   id: MoproachShoes
-  name: moproach shoes
-  description: Three pairs of tiny mopshoes, perfectly fit for a moproach.
+  name: 摩普奇鞋
+  description: 三双小巧的莫普鞋，与莫普装束完美相配。
   components:
   - type: Sprite
     sprite: Objects/Misc/moproach_shoes.rsi

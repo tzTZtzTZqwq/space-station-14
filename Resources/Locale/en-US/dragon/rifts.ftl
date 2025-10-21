@@ -1,9 +1,9 @@
-carp-rift-warning = A rift is causing an unnaturally large energy flux {$location}. Stop it at all costs!
-carp-rift-duplicate = Cannot have 2 charging rifts at the same time!
-carp-rift-examine = It is [color=yellow]{$percentage}%[/color] charged!
-carp-rift-max = You have reached your maximum amount of rifts
-carp-rift-anchor = Rifts require a stable surface to spawn.
-carp-rift-proximity = Too close to a nearby rift! Need to be at least {$proximity}m away.
-carp-rift-space-proximity = Too close to space! Need to be at least {$proximity}m away.
-carp-rift-weakened = You are unable to summon more rifts in your weakened state.
-carp-rift-destroyed = A rift has been destroyed! You are now weakened temporarily.
+﻿carp-rift-warning = 裂隙正在{$location}引发异常巨大的能量流。不惜一切代价阻止它！
+carp-rift-duplicate = 无法同时拥有2个充能裂隙！
+carp-rift-examine = 它已经充能了[color=yellow]{$percentage}%[/color]！
+carp-rift-max = 你已达到裂隙的最大数量
+carp-rift-anchor = 裂隙需要稳定的表面才能生成。
+carp-rift-proximity = 距离裂隙太近了！需要至少保持{$proximity}米的距离。
+carp-rift-space-proximity = 距离空间太近！需要至少{$proximity}米远。
+carp-rift-weakened = 你无法在虚弱状态下召唤更多裂隙。
+carp-rift-destroyed = 一道裂隙已被摧毁！你现在暂时被削弱了。

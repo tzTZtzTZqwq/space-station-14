@@ -1,8 +1,8 @@
 - type: entity
   id: SyndicateBusinessCard
-  name: syndicate business card
+  name: 集团名片
   parent: [ Paper, BaseSyndicateContraband ]
-  description: A black card with the syndicate's logo. There's something written on the back.
+  description: 一张印有财团标志的黑色卡片。背面还写着几行字。
   components:
     - type: Sprite
       sprite: Objects/Misc/bureaucracy.rsi

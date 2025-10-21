@@ -1,20 +1,20 @@
-station-map-window-title = Station map
-station-map-user-interface-flavor-left = Don't panic
+﻿station-map-window-title = 站点地图
+station-map-user-interface-flavor-left = 不要惊慌
 station-map-user-interface-flavor-right = v1.42
-station-map-filter-placeholder = Search by name
-station-map-unknown-station = Unknown station
+station-map-filter-placeholder = 按名称搜索
+station-map-unknown-station = 未知站点
 
-nav-beacon-window-title = Station Beacon
-nav-beacon-toggle-visible = Visible
-nav-beacon-toggle-invisible = Invisible
-nav-beacon-text-label = Label:
-nav-beacon-button-apply = Apply
+nav-beacon-window-title = 站点信标
+nav-beacon-toggle-visible = 可见
+nav-beacon-toggle-invisible = 不可见
+nav-beacon-text-label = 标签：
+nav-beacon-button-apply = 应用
 nav-beacon-examine-text = It is [color={$enabled ->
-    [true] forestgreen]on
-    *[false] crimson]off
-}[/color] and the display reads [color={$color}]"{$label}"[/color]
+    [true] 森林绿]开启
+    *[false] 深红]关闭
+}[/color] and the display reads [color = {$color}]"{$label}"[/color]
 
-nav-beacon-pos-no-beacons = in the middle of nowhere
-nav-beacon-pos-format = [color={$color}]near {$marker}[/color]
-nav-beacon-pos-format-direction = [color={$color}]{$modifier}{$direction} of {$marker}[/color]
-nav-beacon-pos-format-direction-mod-far = far {""}
+nav-beacon-pos-no-beacons = 在荒无人烟的地方
+nav-beacon-pos-format = [color={$color}]靠近 {$marker}[/color]
+nav-beacon-pos-format-direction = [color={$color}]{$modifier}{$direction}方向 位于{$marker}[/color]
+nav-beacon-pos-format-direction-mod-far = 远{""}

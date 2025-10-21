@@ -1,5 +1,5 @@
+﻿
+### 用户界面
 
-### UI
-
-# Shown when the battery is examined in details range
-examinable-battery-component-examine-detail = The battery is [color={$markupPercentColor}]{$percent}%[/color] full.
+#在详细检查电池范围时显示
+examinable-battery-component-examine-detail = 电池电量为[color={$markupPercentColor}]{$percent}%[/color]。

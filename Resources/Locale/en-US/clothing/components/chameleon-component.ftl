@@ -1,7 +1,7 @@
 ﻿
-## UI
+## 界面
 chameleon-component-ui-window-name = Chameleon Settings
-chameleon-component-ui-search-placeholder = Search...
+chameleon-component-ui-search-placeholder = 搜索...
 
-## Verb
-chameleon-component-verb-text = Chameleon
+## 动词
+chameleon-component-verb-text = 变色龙

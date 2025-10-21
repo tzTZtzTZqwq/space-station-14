@@ -1,72 +1,72 @@
-# Traitor single items
-steal-target-groups-hypospray = hypospray
-steal-target-groups-handheld-crew-monitor = handheld crew monitor
-steal-target-groups-clothing-outer-hardsuit-rd = experimental research hardsuit
-steal-target-groups-hand-teleporter = hand teleporter
-steal-target-groups-clothing-shoes-boots-mag-adv = advanced magboots
-steal-target-groups-box-folder-qm-clipboard = requisition digi-board
-steal-target-groups-clothing-hands-knuckledusters-qm = golden knuckledusters
-steal-target-groups-food-meat-corgi = prime-cut corgi meat
-steal-target-groups-captain-id-card = captain ID card
-steal-target-groups-jetpack-captain-filled = captain's jetpack
-steal-target-groups-weapon-antique-laser = antique laser pistol
-steal-target-groups-nuke-disk = nuclear authentication disk
-steal-target-groups-weapon-energy-magnum = energy magnum
+﻿#叛徒单件物品
+steal-target-groups-hypospray = 注射枪
+steal-target-groups-handheld-crew-monitor = 手持船员监视器
+steal-target-groups-clothing-outer-hardsuit-rd = 实验研究防护服
+steal-target-groups-hand-teleporter = 手持传送器
+steal-target-groups-clothing-shoes-boots-mag-adv = 高级磁力靴
+steal-target-groups-box-folder-qm-clipboard = 征用数位板
+steal-target-groups-clothing-hands-knuckledusters-qm = 金指虎
+steal-target-groups-food-meat-corgi = 上等柯基肉
+steal-target-groups-captain-id-card = 队长ID卡
+steal-target-groups-jetpack-captain-filled = 船长的喷气背包
+steal-target-groups-weapon-antique-laser = 古董激光手枪
+steal-target-groups-nuke-disk = 核认证磁盘
+steal-target-groups-weapon-energy-magnum = 能量麦格农
 
-# Thief Collection
-steal-target-groups-figurines = figurine
+#盗贼收藏
+steal-target-groups-figurines = 小雕像
 steal-target-groups-heads-cloaks = head's cloak
 steal-target-groups-heads-bedsheets = head's bedsheet
-steal-target-groups-stamps = stamp
-steal-target-groups-door-remotes = door remote
-steal-target-groups-encryption-keys = encryption key
-steal-target-groups-technology-disks = technology disk
-steal-target-groups-mail = mail
-steal-target-groups-id-cards = ID Card
-steal-target-groups-officer-handguns = security officer's handgun
-steal-target-groups-lamps = LAMP
+steal-target-groups-stamps = 图章
+steal-target-groups-door-remotes = 门遥控器
+steal-target-groups-encryption-keys = 加密密钥
+steal-target-groups-technology-disks = 技术磁盘
+steal-target-groups-mail = 邮件
+steal-target-groups-id-cards = 身份证
+steal-target-groups-officer-handguns = 保安的手枪
+steal-target-groups-lamps = 灯
 
-# Thief single item
-steal-target-groups-forensic-scanner = forensic scanner
-steal-target-groups-flippo-engraved-lighter = detective's Flippo engraved lighter
-steal-target-groups-ammo-tech-fab-circuitboard = ammo techfab circuit board
+#盗贼单件物品
+steal-target-groups-forensic-scanner = 法医扫描器
+steal-target-groups-flippo-engraved-lighter = 侦探的Flippo刻字打火机
+steal-target-groups-ammo-tech-fab-circuitboard = 弹药 制造台 电路板
 steal-target-groups-clothing-head-hat-warden = warden's cap
-steal-target-groups-clothing-outer-hardsuit-void-paramed = paramedic void suit
-steal-target-groups-medical-tech-fab-circuitboard = medical techfab machine board
-steal-target-groups-clothing-headset-alt-medical = chief medical officer's over-ear headset
-steal-target-groups-research-and-development-server-machine-circuitboard = R&D server machine board
-steal-target-groups-fire-axe = fireaxe
-steal-target-groups-ame-part-flatpack =  AME flatpack
-steal-target-groups-salvage-expeditions-computer-circuitboard = salvage expeditions computer board
-steal-target-groups-cargo-shuttle-console-circuitboard = cargo shuttle console board
-steal-target-groups-clothing-eyes-hud-beer = beer goggles
-steal-target-groups-bible = bible
-steal-target-groups-clothing-neck-goldmedal = gold medal of crewmanship
-steal-target-groups-clothing-neck-clownmedal = clown medal
-steal-target-groups-wanted-list-cartridge = wanted list cartridge
-steal-target-groups-belt-ce = chief engineer's toolbelt
-steal-target-groups-captain-sword = captain's sabre
+steal-target-groups-clothing-outer-hardsuit-void-paramed = 护理人员防护服
+steal-target-groups-medical-tech-fab-circuitboard = 医疗科技制造机电路板
+steal-target-groups-clothing-headset-alt-medical = 首席医务官的罩耳式耳机
+steal-target-groups-research-and-development-server-machine-circuitboard = 研发服务器机板
+steal-target-groups-fire-axe = 消防斧
+steal-target-groups-ame-part-flatpack = AME平板封装
+steal-target-groups-salvage-expeditions-computer-circuitboard = 打捞远征电脑板
+steal-target-groups-cargo-shuttle-console-circuitboard = 货物穿梭机控制台板
+steal-target-groups-clothing-eyes-hud-beer = 啤酒护目镜
+steal-target-groups-bible = 圣经
+steal-target-groups-clothing-neck-goldmedal = 船员资格金牌
+steal-target-groups-clothing-neck-clownmedal = 小丑奖章
+steal-target-groups-wanted-list-cartridge = 通缉名单盒式磁带
+steal-target-groups-belt-ce = 总工程师的工具带
+steal-target-groups-captain-sword = 船长的军刀
 
-# Thief structures
+#盗贼建筑
 steal-target-groups-teg = teg generator part
-steal-target-groups-freezer-heater = freezer or heater
+steal-target-groups-freezer-heater = 冷冻箱或加热器
 steal-target-groups-altar-nanotrasen = nanotrasen altar (any)
 
-steal-target-groups-nuclear-bomb = nuclear fission explosive
+steal-target-groups-nuclear-bomb = 核裂变爆炸物
 steal-target-groups-fax-machine-captain = captain long range fax machine
-steal-target-groups-chem-dispenser = chemical dispenser
-steal-target-groups-xeno-artifact = alien artifact
-steal-target-groups-booze-dispenser = booze dispenser
-steal-target-groups-plant-rd = "RD's potted plant"
-steal-target-groups-toilet-golden-dirty-water = golden toilet
+steal-target-groups-chem-dispenser = 化学分配器
+steal-target-groups-xeno-artifact = 外星文物
+steal-target-groups-booze-dispenser = 酒水分配器
+steal-target-groups-plant-rd = "RD的盆栽植物"
+steal-target-groups-toilet-golden-dirty-water = 金色马桶
 
-# Thief Animal
-steal-target-groups-animal-named-cat = CMO's Cat
+#盗贼动物
+steal-target-groups-animal-named-cat = CMO的猫
 
-steal-target-groups-animal-ian = Ian
-steal-target-groups-animal-mc-griff = McGriff
-steal-target-groups-animal-walter = Walter
-steal-target-groups-animal-morty = Morty
-steal-target-groups-animal-renault = Renault
-steal-target-groups-animal-shiva = Shiva
-steal-target-groups-animal-tropico = Tropico
+steal-target-groups-animal-ian = 伊恩
+steal-target-groups-animal-mc-griff = 麦格里夫
+steal-target-groups-animal-walter = 沃尔特
+steal-target-groups-animal-morty = 莫蒂
+steal-target-groups-animal-renault = 雷诺
+steal-target-groups-animal-shiva = 希瓦
+steal-target-groups-animal-tropico = 热带岛国

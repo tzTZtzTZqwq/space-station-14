@@ -1,1 +1,1 @@
-flash-protection = It provides protection from [color=lightblue]bright flashes[/color].
+﻿flash-protection = 它提供对[color=lightblue]强闪光[/color]的防护。

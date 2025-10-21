@@ -1,7 +1,7 @@
-### Interaction Messages
+﻿### 交互消息
 
-# Shown when someone flashes you with a flash
-flash-component-user-blinds-you = {$user} blinds you with the flash!
+#当有人用闪光灯闪你时显示
+flash-component-user-blinds-you = {$user}用闪光灯闪瞎了你！
 
-# Shown when a flash runs out of uses
-flash-component-becomes-empty = The flash burns out!
+#当闪光次数用尽时显示
+flash-component-becomes-empty = 闪光灯烧坏了！

@@ -1,1 +1,1 @@
-construction-use-tool-entity = Next, use a [color=cyan]{$toolName}[/color].
+﻿construction-use-tool-entity = 下一步，使用一把[color=cyan]{$toolName}[/color]。

@@ -1,7 +1,7 @@
-﻿advertisement-chang-1 = Taste 5000 years of culture!
-advertisement-chang-2 = Mr. Chang, approved for safe consumption in over 10 sectors!
-advertisement-chang-3 = Chinese food is great for a date night, or a lonely night!
-advertisement-chang-4 = You can't go wrong with Mr. Chang's authentic Chinese food!
-advertisement-chang-5 = 100% authentic Chinese food!
-thankyou-chang-1 = Mr. Chang says thank you!
-thankyou-chang-2 = Enjoy your authentic meal!
+﻿advertisement-chang-1 = 品味五千年文化！
+advertisement-chang-2 = 常先生，已在10多个行业获准安全食用！
+advertisement-chang-3 = 中餐是约会之夜或独自消遣的绝佳选择！
+advertisement-chang-4 = 常先生的纯正中餐，绝对错不了！
+advertisement-chang-5 = 100% 正宗中国美食！
+thankyou-chang-1 = 常先生说谢谢您！
+thankyou-chang-2 = 享用您的地道美食！

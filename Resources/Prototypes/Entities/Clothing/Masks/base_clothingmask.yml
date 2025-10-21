@@ -22,8 +22,8 @@
 - type: entity
   parent: BaseAction
   id: ActionToggleMask
-  name: Toggle Mask
-  description: Handy, but prevents insertion of pie into your pie hole.
+  name: 切换遮罩
+  description: 方便，但妨碍你把馅饼塞进嘴里。
   components:
   - type: Action
     icon: { sprite: Clothing/Mask/gas.rsi, state: icon }

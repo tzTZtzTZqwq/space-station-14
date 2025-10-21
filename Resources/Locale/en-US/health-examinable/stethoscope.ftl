@@ -1,15 +1,15 @@
-stethoscope-verb = Listen with stethoscope
+﻿stethoscope-verb = 使用听诊器听诊
 
-stethoscope-nothing = You don't hear anything.
+stethoscope-nothing = 你什么也没听到。
 
-stethoscope-normal = You hear normal breathing.
-stethoscope-raggedy = You hear raggedy breathing.
-stethoscope-hyper = You hear hyperventilation.
-stethoscope-irregular = You hear hyperventilation with an irregular pattern.
-stethoscope-fucked = You hear twitchy, labored breathing interspersed with short gasps.
+stethoscope-normal = 你听到正常呼吸声。
+stethoscope-raggedy = 你听到不规则的呼吸声。
+stethoscope-hyper = 你听到急促的呼吸声。
+stethoscope-irregular = 你听到呼吸急促且节律不规则。
+stethoscope-fucked = 你听到一阵阵急促、费力的呼吸，间杂着短促的抽气声。
 
-stethoscope-delta-steady = It's steady.
-stethoscope-delta-improving = It's improving.
-stethoscope-delta-worsening = It's getting worse.
+stethoscope-delta-steady = 它很稳定。
+stethoscope-delta-improving = 它正在改善。
+stethoscope-delta-worsening = 情况正在恶化。
 
 stethoscope-combined-status = {$absolute} {$delta}

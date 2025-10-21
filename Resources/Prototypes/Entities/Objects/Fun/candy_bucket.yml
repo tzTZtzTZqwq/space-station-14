@@ -1,8 +1,8 @@
 - type: entity
-  name: "candy bucket"
+  name: 糖果桶
   parent: BaseItem
   id: CandyBucket
-  description: A festive bucket for all your treats.
+  description: 一个节日桶，盛放您所有的美味佳肴。
   components:
   - type: Sprite
     sprite: Objects/Fun/candy_bucket.rsi

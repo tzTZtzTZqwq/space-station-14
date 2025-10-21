@@ -1,7 +1,7 @@
-bwoink-user-title = Admin Message
-bwoink-admin-title = Admin Help
+﻿bwoink-user-title = 管理员消息
+bwoink-admin-title = 管理员帮助
 
-bwoink-system-starmute-message-no-other-users = *System: Nobody is available to receive your message. Try pinging Game Admins on Discord.
+bwoink-system-starmute-message-no-other-users = *System：没有其他用户可接收你的消息。请尝试在Discord上联系游戏管理员。
 
 bwoink-system-messages-being-relayed-to-discord =
     All messages are relayed to game administrators via Discord.
@@ -14,22 +14,22 @@ bwoink-system-introductory-message =
     Misuse of this message system may result in disciplinary action.
 
 bwoink-system-typing-indicator = {$players} {$count ->
-[one] is
-*[other] are
+[one] 是
+*[other] 是
 } typing...
 
-admin-ahelp-admin-only = Admin Only
-admin-ahelp-admin-only-tooltip = If checked, then the message won't be visible for the player,
+admin-ahelp-admin-only = 仅限管理员
+admin-ahelp-admin-only-tooltip = 若勾选，玩家将无法看到此消息。
     but will be visible for other admins and still will be Discord relayed.
 
 admin-bwoink-play-sound = Bwoink?
 
-bwoink-title-none-selected = None selected
+bwoink-title-none-selected = 未选中
 
-bwoink-system-rate-limited = System: you are sending messages too quickly.
-bwoink-system-player-disconnecting = has disconnected.
-bwoink-system-player-reconnecting = has reconnected.
-bwoink-system-player-banned = has been banned for: {$banReason}
+bwoink-system-rate-limited = 系统：你发送消息过于频繁。
+bwoink-system-player-disconnecting = 已断开连接。
+bwoink-system-player-reconnecting = 已重新连接。
+bwoink-system-player-banned = 已被封禁，原因如下：{$banReason}
 
-bwoink-message-admin-only = (Admin Only)
+bwoink-message-admin-only = （仅管理员）
 bwoink-message-silent = (S)

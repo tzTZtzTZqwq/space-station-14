@@ -1,8 +1,8 @@
 - type: entity
   id: InflatableWallStack
   parent: BaseItem
-  name: inflatable barricade
-  description: A folded membrane which rapidly expands into a large cubical shape on activation.
+  name: 充气路障
+  description: 激活时，折叠膜会迅速展开为立方体结构。
   suffix: Full
   components:
   - type: Stack
@@ -28,8 +28,8 @@
 - type: entity
   id: InflatableDoorStack
   parent: BaseItem
-  name: inflatable door
-  description: A folded membrane which rapidly expands into a large cubical shape on activation.
+  name: 充气门
+  description: 激活时，折叠膜会迅速展开为巨大的立方体结构。
   suffix: Full
   components:
   - type: Stack

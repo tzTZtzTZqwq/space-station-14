@@ -1,31 +1,31 @@
+﻿
+### 用户界面
 
-### UI
+#攀爬的动词名称
+comp-climbable-verb-climb = 撑跳
 
-# Verb name for climbing
-comp-climbable-verb-climb = Vault
+### 交互消息
 
-### Interaction Messages
+#当你的角色爬上$climbable时向你显示
+comp-climbable-user-climbs = 你跳上了{ THE($climbable) }！
 
-# Shown to you when your character climbs on $climbable
-comp-climbable-user-climbs = You jump onto { THE($climbable) }!
+#当$user爬上$climbable时向他人显示
+comp-climbable-user-climbs-other = { CAPITALIZE(THE($user)) }跳上了{ THE($climbable) }！
 
-# Shown to others when $user climbs on $climbable
-comp-climbable-user-climbs-other  = { CAPITALIZE(THE($user)) } jumps onto { THE($climbable) }!
+#当你的角色强迫某人爬上$climbable时向你显示
+comp-climbable-user-climbs-force = 你强行把{ THE($moved-user) }按到{ THE($climbable) }上！
 
-# Shown to you when your character forces someone to climb on $climbable
-comp-climbable-user-climbs-force = You force { THE($moved-user) } onto { THE($climbable) }!
+#当有人强迫其他$moved-user攀爬$climbable时向他人显示
+comp-climbable-user-climbs-force-other = { CAPITALIZE(THE($user)) } 强迫 { THE($moved-user) } 爬上 { THE($climbable) }！
 
-# Shown to others when someone forces other $moved-user to climb on $climbable
-comp-climbable-user-climbs-force-other = { CAPITALIZE(THE($user)) } forces { THE($moved-user) } onto { THE($climbable) }!
+#当你的角色远离可攀爬物时显示
+comp-climbable-cant-reach = 你无法到达那里！
 
-# Shown to you when your character is far away from climbable
-comp-climbable-cant-reach = You can't reach there!
+#当你的角色因某种原因无法与可攀爬物互动时显示给你
+comp-climbable-cant-interact = 你无法那么做！
 
-# Shown to you when your character can't interact with climbable for some reason
-comp-climbable-cant-interact = You can't do that!
+#在你的角色无法自行攀爬时显示
+comp-climbable-cant-climb = 你无法攀爬！
 
-# Shown to you when your character isn't able to climb by their own actions
-comp-climbable-cant-climb = You are incapable of climbing!
-
-# Shown to you when your character tries to force someone else who can't climb onto a climbable
-comp-climbable-target-cant-climb = { CAPITALIZE(THE($moved-user)) } can't go there!
+#当你的角色试图强迫无法攀爬的人攀上可攀爬物时向你显示
+comp-climbable-target-cant-climb = { CAPITALIZE(THE($moved-user)) } 无法前往该处！

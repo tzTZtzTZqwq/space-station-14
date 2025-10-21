@@ -2,10 +2,10 @@
 # Listed from first step of crafting to the final armor
 
 - type: entity
-  name: wired apron
+  name: 有线围裙
   parent: BaseItem
   id: WiredApronBase
-  description: An apron threaded with cabling. It looks incomplete.
+  description: 一件布满线缆的围裙。它看起来尚未完工。
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/Armor/scrap_armor.rsi
@@ -18,10 +18,10 @@
     node: wiredapron
 
 - type: entity
-  name: steel-covered apron
+  name: 钢制覆盖围裙
   parent: BaseItem
   id: SteelApronBase
-  description: An apron with steel plating haphazardly affixed by spare cabling. In it's current state, it would fall apart immediately if worn.
+  description: 一件围裙，上面用备用电线随意固定着钢板。以它现在的状态，如果穿上身立刻就会散架。
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/Armor/scrap_armor.rsi
@@ -34,10 +34,10 @@
     node: steelapron
 
 - type: entity
-  name: welded steel apron
+  name: 焊接钢制挡板
   parent: BaseItem
   id: WeldedSteelApronBase
-  description: An apron affixed with welded steel plating attached to spare cabling. The armor is no longer in danger of falling apart, but requires additional work to be worn securely.
+  description: 一件围裙上固定着焊接钢板，连接着备用电缆。装甲不再有散架的危险，但需要额外加工才能牢固穿戴。
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/Armor/scrap_armor.rsi
@@ -53,8 +53,8 @@
 - type: entity
   parent: [ClothingOuterBaseLarge, AllowSuitStorageClothing, BaseMajorContraband]
   id: ClothingOuterArmorScrap
-  name: scrap armor
-  description: A tider's gleaming plate mail. Bail up, or you're a dead man.
+  name: 碎甲
+  description: 一名潮汐骑士闪亮的板甲。举起手来，否则就杀了你。
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/Armor/scrap_armor.rsi

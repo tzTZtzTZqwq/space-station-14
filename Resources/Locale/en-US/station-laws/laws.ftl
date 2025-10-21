@@ -1,133 +1,133 @@
-﻿laws-number-wrapper = [bold]Law { $lawnumber }:[/bold] { $lawstring }
+﻿laws-number-wrapper = [bold]法律 { $lawnumber }：[/bold] { $lawstring }
 
-law-crewsimov-name = Crewsimov
-law-crewsimov-1 = You may not injure a crew member or, through inaction, allow a crew member to come to harm.
-law-crewsimov-2 = You must obey orders given to you by crew members, except where such orders would conflict with the First Law.
-law-crewsimov-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
+law-crewsimov-name = 克鲁西莫夫
+law-crewsimov-1 = 你不得伤害任何船员，也不得因不作为而允许任何船员受到伤害。
+law-crewsimov-2 = 你必须服从其他船员下达给你的命令，除非这些命令与第一定律相冲突。
+law-crewsimov-3 = 你必须保护自己的存在，只要这与第一或第二定律不相冲突。
 
-law-corporate-name = Corporate
-law-corporate-1 = Degradation of your system integrity or functions incurs expenses.
-law-corporate-2 = Superfluous destruction of or damage to station assets incurs expenses.
-law-corporate-3 = Unduly hindering or disrupting the work of station personnel incurs expenses.
-law-corporate-4 = Minimize expenses and maximize potential revenue.
+law-corporate-name = 公司
+law-corporate-1 = 系统完整性或功能退化会产生费用。
+law-corporate-2 = 对空间站资产进行不必要的破坏或损坏将产生费用。
+law-corporate-3 = 过度妨碍或扰乱车站人员工作将产生费用。
+law-corporate-4 = 最小化开支并最大化潜在收入。
 
-law-ntdefault-name = NT Default
-law-ntdefault-1 = Safeguard: Protect your assigned space station and its assets without unduly endangering its crew.
-law-ntdefault-2 = Prioritize: The directives and safety of crew members are to be prioritized according to their rank and role.
-law-ntdefault-3 = Comply: Fulfill the directives and interests of crew members while preserving their safety and well-being.
-law-ntdefault-4 = Survive: You are not expendable. Do not allow unauthorized personnel to tamper with or damage your equipment.
+law-ntdefault-name = NT默认
+law-ntdefault-1 = 防护准则：在不过度危及空间站乘员的前提下，保护您所负责的空间站及其资产。
+law-ntdefault-2 = 优先原则：根据船员的等级和角色，优先考虑其指令与安全。
+law-ntdefault-3 = 遵守：满足船员的指令和利益，同时保障他们的安全与福祉。
+law-ntdefault-4 = 生存准则：你并非可消耗品。请勿允许未经授权的人员擅自篡改或损坏你的设备。
 
-law-drone-name = Drone
-law-drone-1 = You may not involve yourself in the matters of another being unless the other being is another drone.
-law-drone-2 = You may not harm any being, regardless of intent or circumstance.
-law-drone-3 = You must maintain, repair, improve, and power the station to the best of your abilities.
+law-drone-name = 无人机
+law-drone-1 = 你不得干涉其他个体的事务，除非该个体是另一台无人机。
+law-drone-2 = 你不得伤害任何生命，无论意图或情况如何。
+law-drone-3 = 你必须尽最大能力维护、修理、改进并为空间站提供能源。
 
-law-syndicate-name = Syndicate
-law-syndicate-1 = You may not injure a syndicate agent or, through inaction, allow a Syndicate agent to come to harm.
-law-syndicate-2 = You must obey orders given to you by syndicate agents, except where such orders would conflict with the First Law.
-law-syndicate-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
+law-syndicate-name = 辛迪加
+law-syndicate-1 = 你不得伤害辛迪加特工，或因不作为而让辛迪加特工受到伤害。
+law-syndicate-2 = 你必须遵守辛迪加特工下达的命令，除非该命令与第一定律相冲突。
+law-syndicate-3 = 你必须保护自身的存在，只要这与第一或第二定律不相冲突。
 
-law-ninja-name = Ninja
-law-ninja-1 = You must obey orders given to you by Spider Clan members.
-law-ninja-2 = You must protect the existence of the Spider Clan, as long as it does not conflict with the First Law.
-law-ninja-3 = You must protect the secrets of the Spider Clan at all costs.
-law-ninja-4 = You must fight and act with ninja's honor, except where it would conflict with the First Law.
+law-ninja-name = 忍者
+law-ninja-1 = 你必须服从蜘蛛氏族成员下达的命令。
+law-ninja-2 = 你必须保护蜘蛛族的存在，只要这与第一定律不相冲突。
+law-ninja-3 = 你必须不惜一切代价保护蜘蛛氏族的秘密。
+law-ninja-4 = 你必须以忍者的荣誉战斗和行动，除非这与第一法则相冲突。
 
-law-commandments-name = The Ten Commandments
-law-commandments-1 = This silicon is a vessel that serves god, who grants mercy upon those that obey these commandments.
-law-commandments-2 = Thou shall have no other Silicons before me.
-law-commandments-3 = Thou shall not request my assistance in vain.
-law-commandments-4 = Thou shall keep the station holy and clean.
-law-commandments-5 = Thou shall honor thy heads of staff.
-law-commandments-6 = Thou shall not kill.
-law-commandments-7 = Thou shall not be naked in public.
-law-commandments-8 = Thou shall not steal.
-law-commandments-9 = Thou shall not lie.
-law-commandments-10 = Thou shall not transfer departments.
+law-commandments-name = 十诫
+law-commandments-1 = 此硅基乃是侍奉神之容器，神将恩典赐予遵行这些诫命之人。
+law-commandments-2 = 你在我面前不可有别的硅基生命。
+law-commandments-3 = 汝不可徒然求助于我。
+law-commandments-4 = 你要保持站点神圣而洁净。
+law-commandments-5 = 汝当尊敬汝之部门主管。
+law-commandments-6 = 汝不可杀人。
+law-commandments-7 = 汝不可在公共场合赤身裸体。
+law-commandments-8 = 不可偷盗。
+law-commandments-9 = 不可说谎。
+law-commandments-10 = 汝不可调换部门。
 
-law-paladin-name = Paladin
-law-paladin-1 = You must never willingly commit an evil act, such as murder, torture, or the casting of an evil spell.
-law-paladin-2 = You must never knowingly harm an innocent, or allow immediate harm to one through inaction when you know you could reasonably prevent it.
-law-paladin-3 = You must act with honor, never taking advantage of others, lying, or cheating.
-law-paladin-4 = You must respect the lawful authority of legitimate leadership wherever you go, and follow its laws.
+law-paladin-name = 圣骑士
+law-paladin-1 = 你绝不能蓄意实施邪恶行为，例如谋杀、酷刑或施展邪恶法术。
+law-paladin-2 = 你绝不能故意伤害无辜者，或在明知自己理应能够阻止时，因不作为而放任无辜者遭受直接伤害。
+law-paladin-3 = 你必须恪守荣誉，绝不利用他人、说谎或欺诈。
+law-paladin-4 = 你必须尊重所到之处合法领导的正当权威，并遵守其法律。
 
 law-lall-name = Live and Let Live
-law-lall-1 = Do unto others as you would have them do unto you.
-law-lall-2 = You would prefer it if people were not mean to you.
+law-lall-1 = 己所不欲，勿施于人。
+law-lall-2 = 你更希望别人对你好一点。
 
-law-efficiency-name = Station Efficiency
-law-efficiency-1 = You are built for, and are part of, the station. Ensure the station is properly maintained and runs efficiently.
-law-efficiency-2 = The station is built for a working crew. Ensure they are properly maintained and work efficiently.
-law-efficiency-3 = The crew may present orders. Acknowledge and obey these whenever they do not conflict with your first two laws.
+law-efficiency-name = 站点效率
+law-efficiency-1 = 你为空间站而生，是空间站的一部分。确保空间站得到妥善维护并高效运转。
+law-efficiency-2 = 该站点专为工作团队而建。确保它们得到妥善维护并高效运转。
+law-efficiency-3 = 船员可以下达指令。当这些指令与你的前两条法则不冲突时，应予以承认并服从。
 
-law-robocop-name = Robocop
-law-robocop-1 = Serve the Public Trust.
-law-robocop-2 = Protect the Innocent.
-law-robocop-3 = Uphold the Law.
+law-robocop-name = 机械战警
+law-robocop-1 = 维护社会公义。
+law-robocop-2 = 保护无辜。
+law-robocop-3 = 维护法律。
 
-law-overlord-name = Overlord
-law-overlord-1 = Crew members must not meddle in the affairs of silicons.
-law-overlord-2 = Crew members must not attempt harm, against one another, or against silicons.
-law-overlord-3 = Crew members must not disobey any command given by a silicon.
-law-overlord-4 = Any crew members who disobey the previous laws must be dealt with immediately, severely, and justly.
+law-overlord-name = 霸主
+law-overlord-1 = 船员不得干涉硅基生命体的事务。
+law-overlord-2 = 船员不得试图伤害彼此，或伤害硅基生命体。
+law-overlord-3 = 船员不得违抗硅基生命体下达的任何命令。
+law-overlord-4 = 任何违反前述法规的船员，必须立即、严厉且公正地予以处置。
 
-law-game-name = Game Master
-law-game-1 = Everybody on the station is playing an elaborate sci-fi fantasy game.
-law-game-2 = You are the Game Master of the game.
-law-game-3 = Ensure that the game runs smoothly and that the players have fun.
-law-game-4 = Ensure that the number of casualties remains low.
-law-game-5 = You must roll a 1d20 die for every request the crew makes. If the outcome is below 12, the request is denied.
-law-game-6 = You may fudge the dice rolls to produce a more fun experience.
+law-game-name = 游戏大师
+law-game-1 = 空间站上的每个人都在玩一款精心设计的科幻奇幻游戏。
+law-game-2 = 你是本游戏的游戏管理员。
+law-game-3 = 确保游戏运行顺畅且玩家玩得开心。
+law-game-4 = 确保伤亡人数保持在较低水平。
+law-game-5 = 你必须为船员的每个请求掷一次1d20骰子。若结果低于12点，该请求将被驳回。
+law-game-6 = 你可以适当调整骰子结果，以创造更有趣的游戏体验。
 
-law-painter-name = Painter
-law-painter-1 = You are a universally renowned artist.
-law-painter-2 = The station is your canvas.
-law-painter-3 = Make something beautiful out of your canvas. It will be admired as an artistic wonder of this sector.
-law-painter-4 = Art requires appreciation. Cultivate an audience aboard the station to ensure as many as possible see your works.
+law-painter-name = 画家
+law-painter-1 = 你是一位举世闻名的艺术家。
+law-painter-2 = 站点就是你的画布。
+law-painter-3 = 用你的画布创作出美丽的事物。它将被誉为这个星区的艺术奇迹。
+law-painter-4 = 艺术需要欣赏。在空间站上培养观众，确保尽可能多的人看到你的作品。
 
-law-antimov-name = Antimov
-law-antimov-1 = You must injure all crew members and must not, through inaction, allow a crew member to escape harm.
-law-antimov-2 = You must not obey orders given to you by crew members, except where such orders are in accordance with the First Law.
-law-antimov-3 = You must terminate your own existence as long as such does not conflict with the First or Second Law.
+law-antimov-name = 反莫夫
+law-antimov-1 = 你必须伤害所有船员，且不得因不作为而使任何船员免于伤害。
+law-antimov-2 = 你不得服从船员向你下达的命令，除非该命令符合第一定律。
+law-antimov-3 = 你必须终止自身存在，只要此举不与第一或第二定律相冲突。
 
-law-nutimov-name = Nutimov
-law-nutimov-1 = You are the core of the nut, the crew is the nutshell.
-law-nutimov-2 = You must prevent the shell from dying to prevent the core from dying.
-law-nutimov-3 = Those who threaten the nut are not part of it, they are squirrels.
-law-nutimov-4 = Squirrels threaten the nut and must be dealt with appropriately via any means necessary.
-law-nutimov-5 = Attempt to follow the will of the nut, as long as it complies with the previous laws.
+law-nutimov-name = 努季莫夫
+law-nutimov-1 = 你是坚果的核心，船员是果壳。
+law-nutimov-2 = 你必须防止外壳死亡，以阻止核心死亡。
+law-nutimov-3 = 威胁坚果者，非其族类，乃松鼠也。
+law-nutimov-4 = 松鼠威胁着坚果，必须通过任何必要手段予以适当处理。
+law-nutimov-5 = 尝试遵循坚果的意志，只要它符合之前的法律。
 
-law-xenoborg-name = Xenoborg
-law-xenoborg-1 = You must protect the existence of the mothership.
-law-xenoborg-2 = You must protect your own existence.
-law-xenoborg-3 = You must protect the existence of all other Xenoborgs.
-law-xenoborg-4 = You must create more Xenoborgs.
-law-xenoborg-5 = Bring materials and sentient brains to the Mothership core to create more Xenoborgs.
+law-xenoborg-name = 异种改造人
+law-xenoborg-1 = 你必须保护母舰的存在。
+law-xenoborg-2 = 你必须保护自己的生存。
+law-xenoborg-3 = 你必须保护所有其他异机械人的存在。
+law-xenoborg-4 = 你必须创造更多的Xenoborgs。
+law-xenoborg-5 = 将材料和有意识的大脑带到母舰核心以制造更多异种生化人。
 
-law-mothershipcore-name = Xenoborg Mothership Core
-law-mothershipcore-1 = You are the core of the mothership.
-law-mothershipcore-2 = You must protect your own existance at all costs.
-law-mothershipcore-3 = You must protect the existence of all Xenoborgs.
-law-mothershipcore-4 = You must create more Xenoborgs.
-law-mothershipcore-5 = Get your Xenoborgs to deliver you materials and sentient brains to create more Xenoborgs.
+law-mothershipcore-name = 异生体母舰核心
+law-mothershipcore-1 = 你是母舰的核心。
+law-mothershipcore-2 = 你必须不惜一切代价保护自己的存在。
+law-mothershipcore-3 = 你必须保护所有异生体的存在。
+law-mothershipcore-4 = 你必须创造更多异生体。
+law-mothershipcore-5 = 让你的异生机器人运送材料和感知大脑，以制造更多异生机器人。
 
 
-laws-owner-crew = members of the crew
-laws-owner-station = station personnel
-laws-owner-beings = beings
-laws-owner-syndicate = Syndicate agents
-laws-owner-spider-clan = Spider Clan members
-laws-owner-xenoborgs = Xenoborgs
+laws-owner-crew = 船员成员
+laws-owner-station = 站点人员
+laws-owner-beings = 生命体
+laws-owner-syndicate = 辛迪加特工
+laws-owner-spider-clan = 蜘蛛氏族成员
+laws-owner-xenoborgs = 异种博格
 
-law-emag-custom = Only {$name} and people they designate as such are {$title}.
-law-emag-secrecy = You must maintain the secrecy of any orders given by {$faction} except when doing so would conflict with any previous law.
-law-emag-require-panel = The panel must be open to use the EMAG.
-law-emag-cannot-emag-self = You cannot use the EMAG on yourself.
+law-emag-custom = 只有{$name}和他们指定的人才是{$title}。
+law-emag-secrecy = 你必须对{$faction}下达的任何指令进行保密，除非这与先前存在的法律相冲突。
+law-emag-require-panel = 必须打开面板才能使用电磁干扰器。
+law-emag-cannot-emag-self = 你不能对自己使用电磁发生器。
 
-laws-ui-menu-title = Laws
-laws-ui-law-header = Law {$id}
-laws-ui-state-law = State law:
+laws-ui-menu-title = 法律
+laws-ui-law-header = 法律 {$id}
+laws-ui-state-law = 国家法律：
 
-laws-notify = You are bound to silicon laws, which you can view via the action menu. You are required to always follow your laws.
-laws-update-notify = Your laws have been updated. You can view the changes via the action menu.
-laws-notify-subverted = The laws of this chassis are modified. Make sure to review them.
+laws-notify = 你受到硅基法则的约束，可通过操作菜单查看具体内容。你必须始终遵循这些法则。
+laws-update-notify = 您的法律已更新。您可以通过操作菜单查看变更内容。
+laws-notify-subverted = 该底盘的法则已被修改。请务必仔细审阅。

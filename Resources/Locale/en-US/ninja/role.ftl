@@ -1,6 +1,6 @@
-ninja-round-end-agent-name = ninja
+﻿ninja-round-end-agent-name = 忍者
 
-objective-issuer-spiderclan = [color=#33cc00]Spider Clan[/color]
+objective-issuer-spiderclan = [color=#33cc00]蜘蛛氏族[/color]
 
 ninja-role-greeting =
     I am an elite mercenary of the mighty Spider Clan!

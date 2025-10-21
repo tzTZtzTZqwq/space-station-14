@@ -1,23 +1,23 @@
-### UI
+﻿### 用户界面
 
-# Shown when a stack is examined in details range
+#在详细范围检查堆栈时显示
 comp-stack-examine-detail-count = {$count ->
-    [one] There is [color={$markupCountColor}]{$count}[/color] thing
-    *[other] There are [color={$markupCountColor}]{$count}[/color] things
-} in the stack.
+[one] 有 [color = {$markupCountColor}]{$count}[/color] 件物品
+*[other] 有 [color = {$markupCountColor}]{$count}[/color] 件物品
+} 在堆中。
 
-# Stack status control
-comp-stack-status = Count: [color=white]{$count}[/color]
+#堆栈状态控制
+comp-stack-status = 数量: [color=white]{$count}[/color]
 
-### Interaction Messages
+### 交互消息
 
-# Shown when attempting to add to a stack that is full
-comp-stack-already-full = Stack is already full.
+#当尝试添加到已满的堆叠时显示
+comp-stack-already-full = 堆叠已满。
 
-# Shown when a stack becomes full
-comp-stack-becomes-full = Stack is now full.
+#当堆栈已满时显示
+comp-stack-becomes-full = 堆叠现已满。
 
-# Text related to splitting a stack
-comp-stack-split = You split the stack.
-comp-stack-split-halve = Halve
-comp-stack-split-too-small = Stack is too small to split.
+#与拆分堆叠相关的文本
+comp-stack-split = 您拆分了堆叠。
+comp-stack-split-halve = 平分
+comp-stack-split-too-small = 堆叠数量过少，无法拆分。

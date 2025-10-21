@@ -1,2 +1,2 @@
-emag-success = The device zaps something in {THE($target)}.
-emag-no-charges = No charges left!
+﻿emag-success = 该设备在{THE($target)}中电击了某物。
+emag-no-charges = 没有剩余次数！

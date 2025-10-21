@@ -1,3 +1,3 @@
-﻿payload-case-not-close-enough = You need to get closer to determine if {THE($ent)} has a payload installed.
-payload-case-has-payload = {CAPITALIZE(THE($ent))} has a payload installed!
-payload-case-does-not-have-payload = {CAPITALIZE(THE($ent))} does not have a payload installed.
+﻿payload-case-not-close-enough = 你需要靠近些才能确定{THE($ent)}是否安装了有效载荷。
+payload-case-has-payload = {CAPITALIZE(THE($ent))}已安装载荷！
+payload-case-does-not-have-payload = {CAPITALIZE(THE($ent))}未安装有效载荷。

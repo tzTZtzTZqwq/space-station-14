@@ -1,21 +1,21 @@
-cmd-mapping-desc = Create or load a map and teleports you to it.
-cmd-mapping-help = Usage: mapping [MapID] [Path] [Grid]
-cmd-mapping-server = Only players can use this command.
-cmd-mapping-error = An error occurred when creating the new map.
-cmd-mapping-try-grid = Failed to load the file as a map. Attempting to load the file as a grid...
-cmd-mapping-success-load = Created uninitialized map from file {$path} with id {$mapId}.
-cmd-mapping-success-load-grid = Loaded uninitialized grid from file {$path} onto a new map with id {$mapId}.
-cmd-mapping-success = Created uninitialized map with id {$mapId}.
-cmd-mapping-warning = WARNING: The server is using a debug build. You are risking losing your changes.
+﻿cmd-mapping-desc = 创建或加载地图并将你传送至该处。
+cmd-mapping-help = 用法：映射 [地图ID] [路径] [网格]
+cmd-mapping-server = 只有玩家可以使用此命令。
+cmd-mapping-error = 创建新地图时发生错误。
+cmd-mapping-try-grid = 无法将文件作为地图加载。正在尝试将文件作为网格加载...
+cmd-mapping-success-load = 从文件{$path}创建了未初始化的地图，ID为{$mapId}。
+cmd-mapping-success-load-grid = 从文件{$path}加载未初始化的网格到ID为{$mapId}的新地图上。
+cmd-mapping-success = 已创建ID为{$mapId}的未初始化地图。
+cmd-mapping-warning = 警告：服务器正在使用调试版本。您可能会丢失您的更改。
 
 
-# duplicate text from engine load/save map commands.
-# I CBF making this PR depend on that one.
-cmd-mapping-failure-integer = {$arg} is not a valid integer.
-cmd-mapping-failure-float = {$arg} is not a valid float.
-cmd-mapping-failure-bool = {$arg} is not a valid bool.
-cmd-mapping-nullspace = You cannot load into map 0.
+#从引擎加载/保存地图命令中复制文本。
+#我懒得让这个拉取请求依赖于那个。
+cmd-mapping-failure-integer = {$arg} 不是一个有效的整数。
+cmd-mapping-failure-float = {$arg} 不是有效的浮点数。
+cmd-mapping-failure-bool = {$arg} 不是一个有效的布尔值。
+cmd-mapping-nullspace = 您无法加载到地图0。
 cmd-hint-mapping-id = [MapID]
-cmd-mapping-hint-grid = [Grid]
-cmd-hint-mapping-path = [Path]
-cmd-mapping-exists = Map {$mapId} already exists.
+cmd-mapping-hint-grid = [网格]
+cmd-hint-mapping-path = 路径
+cmd-mapping-exists = 映射 {$mapId} 已存在。

@@ -1,1 +1,1 @@
-construction-ghost-examine-message = Building: [color=cyan]{$name}[/color]
+﻿construction-ghost-examine-message = 建造中：[color=cyan]{$name}[/color]

@@ -1,9 +1,9 @@
-crematorium-entity-storage-component-on-examine-details-is-burning = The {$owner} is [color=red]active[/color]!
-crematorium-entity-storage-component-on-examine-details-has-contents =  The content light is [color=green]on[/color], there's something in here.
-crematorium-entity-storage-component-on-examine-details-empty = The content light is off, there's nothing in here.
-crematorium-entity-storage-component-is-cooking-safety-message = Safety first, not while it's active!
-crematorium-entity-storage-component-suicide-message = You cremate yourself!
-crematorium-entity-storage-component-suicide-message-others = {$victim} is cremating {$victim}!
+﻿crematorium-entity-storage-component-on-examine-details-is-burning = 这个{$owner}正在[color=red]运转[/color]！
+crematorium-entity-storage-component-on-examine-details-has-contents = 内容灯显示为[color=green]开启[/color]，里面有东西。
+crematorium-entity-storage-component-on-examine-details-empty = 内容灯没有亮，里面空无一物。
+crematorium-entity-storage-component-is-cooking-safety-message = 安全第一，不要在它运行时操作！
+crematorium-entity-storage-component-suicide-message = 你火化了自己！
+crematorium-entity-storage-component-suicide-message-others = {$victim}正在火化{$victim}！
 
-# CremateVerb
-cremate-verb-get-data-text = Cremate
+#火化
+cremate-verb-get-data-text = 火化

@@ -24,10 +24,10 @@
 
 #Shortswords
 - type: entity
-  name: cutlass
+  name: 短剑
   parent: [ BaseSword, BaseMajorContraband ]
   id: Cutlass
-  description: A wickedly curved blade, often seen in the hands of space pirates.
+  description: 一把弯曲诡异的刀刃，常出现在太空海盗手中。
   components:
   - type: Tag
     tags:
@@ -49,10 +49,10 @@
   - type: DisarmMalus
 
 - type: entity
-  name: machete
+  name: 砍刀
   parent: [ BaseSword, BaseMajorContraband ]
   id: Machete
-  description: A large, vicious looking blade.
+  description: 一把外观凶险的大刀。
   components:
   - type: Tag
     tags:
@@ -75,10 +75,10 @@
 
 #Longswords
 - type: entity
-  name: captain's sabre
+  name: 船长的军刀
   parent: [ BaseSword, BaseCommandContraband ]
   id: CaptainSabre
-  description: A ceremonial weapon belonging to the captain of the station.
+  description: 属于空间站站长的一把仪仗武器。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/captain_sabre.rsi
@@ -111,10 +111,10 @@
     stealGroup: CaptainSword
 
 - type: entity
-  name: katana
+  name: 武士刀
   parent: [ BaseSword, BaseMajorContraband ]
   id: Katana
-  description: Ancient craftwork made with not so ancient plasteel.
+  description: 由并非那么古老的塑钢制成的古老工艺品。
   components:
   - type: Tag
     tags:
@@ -141,10 +141,10 @@
   - type: DisarmMalus
 
 - type: entity
-  name: energy katana
+  name: 能量武士刀
   parent: Katana
   id: EnergyKatana
-  description: A katana infused with strong energy.
+  description: 一把注入了强大能量的武士刀。
   components:
   - type: Contraband
     severity: HighlyIllegal
@@ -178,10 +178,10 @@
 
 #Greatswords
 - type: entity
-  name: claymore
+  name: 克莱莫
   parent: [ BaseSword, BaseMajorContraband ]
   id: Claymore
-  description: An ancient war blade.
+  description: 一把古老的战刃。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/claymore.rsi
@@ -207,10 +207,10 @@
 
 #Other/Weird
 - type: entity
-  name: throngler
+  name: 拥挤者
   parent: [ BaseSword, BaseMajorContraband ]
   id: Throngler
-  description: If Security dares take it from you, just remind them that they are indeed mortal.
+  description: 如果安保部门敢从你手里拿走，只需提醒他们，他们终归也是凡人。
   components:
     - type: Sprite
       sprite: Objects/Weapons/Melee/Throngler2.rsi

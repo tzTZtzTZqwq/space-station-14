@@ -1,21 +1,21 @@
-﻿## Modes
+﻿## 模式
 
-suit-sensor-mode-off = Off
-suit-sensor-mode-binary = Binary
-suit-sensor-mode-vitals = Vitals
-suit-sensor-mode-cords = Coordinates
+suit-sensor-mode-off = 关闭
+suit-sensor-mode-binary = 二进制
+suit-sensor-mode-vitals = 生命体征
+suit-sensor-mode-cords = 坐标
 
-## Popups
+## 弹窗
 suit-sensor-mode-state = Suit sensors: {$mode}
 
-## Components
+## 组件
 
-suit-sensor-component-unknown-name = Unknown
-suit-sensor-component-unknown-job = No job
+suit-sensor-component-unknown-name = 未知
+suit-sensor-component-unknown-job = 无职业
 
-## Examine
+## 检查
 
-suit-sensor-examine-off = Its sensors appear to be [color=darkred]disabled[/color].
-suit-sensor-examine-binary = Its binary life sensors appear to be enabled.
-suit-sensor-examine-vitals = Its vital tracker appears to be enabled.
-suit-sensor-examine-cords = Its vital tracker and tracking beacon appear to be enabled.
+suit-sensor-examine-off = 它的传感器似乎处于[color=darkred]禁用状态[/color]。
+suit-sensor-examine-binary = 它的二进制生命传感器似乎已启用。
+suit-sensor-examine-vitals = 它的生命体征追踪器似乎已启用。
+suit-sensor-examine-cords = 它的生命追踪器和追踪信标似乎已启用。

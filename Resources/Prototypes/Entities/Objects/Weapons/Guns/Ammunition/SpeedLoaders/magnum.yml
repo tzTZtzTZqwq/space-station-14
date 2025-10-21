@@ -1,6 +1,6 @@
 - type: entity
   id: BaseSpeedLoaderMagnum
-  name: "speed loader (.45 magnum)"
+  name: 快速装弹器（.45马格南）
   parent: [ BaseItem, BaseSecurityContraband ]
   abstract: true
   components:
@@ -21,9 +21,9 @@
 
 - type: entity
   id: SpeedLoaderMagnum
-  name: "speed loader (.45 magnum)"
+  name: 快速装弹器（.45马格努姆）
   parent: BaseSpeedLoaderMagnum
-  description: Designed to quickly refill an empty revolver, it fits up to six rounds. Intended to hold general-purpose kinetic ammunition.
+  description: 设计用于快速装填空转轮手枪，最多可容纳六发子弹，旨在装载通用动能弹药。
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeMagnum
@@ -50,9 +50,9 @@
 
 - type: entity
   id: SpeedLoaderMagnumEmpty
-  name: "speed loader (.45 magnum any)"
+  name: 快速装弹器（适用于.45马格南任何型号）
   parent: SpeedLoaderMagnum
-  description: Designed to quickly refill an empty revolver, it fits up to six rounds for the big iron on your hip. #Big Iron reference (duh)
+  description: 专为快速填装空转轮而设计，可容纳六发子弹，供你胯边那把大铁块使用。#大铁块梗（懂的都懂）
   components:
   - type: BallisticAmmoProvider
     proto: null
@@ -75,18 +75,18 @@
 
 - type: entity
   id: SpeedLoaderMagnumIncendiary
-  name: "speed loader (.45 magnum incendiary)"
+  name: 快速装弹器（.45口径燃烧弹）
   parent: SpeedLoaderMagnum
-  description: Designed to quickly refill an empty revolver, it fits up to six rounds. Intended to hold self-igniting incendiary ammunition.
+  description: 专为空转轮手枪快速装填而设计，可容纳多达六发子弹，旨在装填自燃式燃烧弹药。
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeMagnumIncendiary
 
 - type: entity
   id: SpeedLoaderMagnumPractice
-  name: "speed loader (.45 magnum practice)"
+  name: 快速装弹器（用于.45马格努姆练习弹）
   parent: BaseSpeedLoaderMagnum
-  description: Designed to quickly refill an empty revolver, it fits up to six rounds. Intended to hold non-harmful chalk ammunition, perfect for practicing your quick draw.
+  description: 专为空转轮手枪快速装填而设计，最多可容纳六发子弹。用于装载无害粉笔弹药，非常适合练习快速拔枪。
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeMagnumPractice
@@ -117,9 +117,9 @@
 
 - type: entity
   id: SpeedLoaderMagnumAP
-  name: "speed loader (.45 magnum armor-piercing)"
+  name: 快速装弹器（.45口径穿甲马格南弹）
   parent: BaseSpeedLoaderMagnum
-  description: Designed to quickly refill an empty revolver, it fits up to six rounds. Intended to hold rare armor-piercing ammunition.
+  description: 专为空转轮手枪快速装填而设计，可容纳多达六发子弹，旨在用于存放稀有的穿甲弹药。
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeMagnumAP
@@ -150,9 +150,9 @@
 
 - type: entity
   id: SpeedLoaderMagnumUranium
-  name: "speed loader (.45 magnum uranium)"
+  name: 快速装弹器（.45口径铀磁弹）
   parent: BaseSpeedLoaderMagnum
-  description: Designed to quickly refill an empty revolver, it fits up to six rounds. Intended to hold exotic uranium-core ammunition.
+  description: 专为快速填装空膛左轮而设计，可容纳多达六发子弹，旨在配备特制的铀芯弹药。
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeMagnumUranium

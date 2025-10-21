@@ -1,26 +1,26 @@
+﻿
+### 用户界面
 
-### UI
-
-# Current game score
+#当前游戏得分
 blockgame-menu-label-points = Points: {$points}
 
-# Current game level
-blockgame-menu-label-level = Level: {$level}
+#当前游戏等级
+blockgame-menu-label-level = 关卡: {$level}
 
-# Game over information of your round
+#本轮游戏结束信息
 blockgame-menu-gameover-info = Global: {$global}
     Local: {$local}
     Points: {$points}
 
-blockgame-menu-title = Nanotrasen Block Game
-blockgame-menu-button-new-game = New Game
-blockgame-menu-button-scoreboard = Scoreboard
-blockgame-menu-button-pause = Pause
-blockgame-menu-button-unpause = Unpause
-blockgame-menu-msg-game-over = Game over!
-blockgame-menu-label-highscores = Highscores
-blockgame-menu-button-back = Back
-blockgame-menu-label-next = Next
-blockgame-menu-label-hold = Hold
-blockgame-menu-text-station = Station
+blockgame-menu-title = Nanotrasen 方块游戏
+blockgame-menu-button-new-game = 新游戏
+blockgame-menu-button-scoreboard = 计分板
+blockgame-menu-button-pause = 暂停
+blockgame-menu-button-unpause = 取消暂停
+blockgame-menu-msg-game-over = 游戏结束！
+blockgame-menu-label-highscores = 最高分
+blockgame-menu-button-back = 返回
+blockgame-menu-label-next = 下一个
+blockgame-menu-label-hold = 保持
+blockgame-menu-text-station = 站台
 blockgame-menu-text-nanotrasen = Nanotrasen

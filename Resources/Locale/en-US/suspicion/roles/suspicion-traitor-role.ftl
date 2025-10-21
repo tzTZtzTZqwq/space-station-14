@@ -1,12 +1,12 @@
-# Shown when greeted with the Suspicion role
-suspicion-role-greeting = You're a {$roleName}!
+﻿#在受到怀疑角色问候时显示
+suspicion-role-greeting = 你是一个{$roleName}！
 
-# Shown when greeted with the Suspicion role
+#在迎接怀疑者角色时显示
 suspicion-objective = Objective: {$objectiveText}
 
-# Shown when greeted with the Suspicion role
+#当被怀疑角色问候时显示
 suspicion-partners-in-crime = {$partnersCount ->
-    [zero] You're on your own. Good luck!
-    [one] Your partner in crime is {$partnerNames}.
-    *[other] Your partners in crime are {$partnerNames}.
+    [zero] 你只能靠自己了。祝你好运！
+    [one] 你的犯罪搭档是{$partnerNames}。
+    *[other] 你的犯罪伙伴是{$partnerNames}。
     }

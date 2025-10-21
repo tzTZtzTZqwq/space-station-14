@@ -1,4 +1,4 @@
-id-card-console-window-privileged-id = Privileged ID:
+﻿id-card-console-window-privileged-id = Privileged ID:
 id-card-console-window-target-id = Target ID:
 id-card-console-window-full-name-label = Full name:
 id-card-console-window-save-button = Save

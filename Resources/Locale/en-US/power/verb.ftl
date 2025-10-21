@@ -1,2 +1,2 @@
-# debug verb for allowing devices to work without requiring power.
-verb-debug-toggle-need-power = Toggle Power
+﻿#允许设备无需电源即可工作的调试动词。
+verb-debug-toggle-need-power = 切换电源

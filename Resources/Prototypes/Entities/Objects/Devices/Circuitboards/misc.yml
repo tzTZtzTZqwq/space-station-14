@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseElectronics
   id: StationMapCircuitboard
-  name: station map electronics
-  description: An electronics board used in station maps.
+  name: 站点地图电子设备
+  description: 车站地图中使用的电子板。
   components:
   - type: Item
     storedRotation: 0

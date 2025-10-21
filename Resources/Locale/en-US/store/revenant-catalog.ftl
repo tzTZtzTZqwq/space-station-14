@@ -1,11 +1,11 @@
-revenant-defile-name = Defile
-revenant-defile-desc = Defiles the surrounding area, ripping up floors, damaging windows, opening containers, and throwing items. Using it leaves you vulnerable to attacks for a short period of time.
+﻿revenant-defile-name = 亵渎
+revenant-defile-desc = 玷污周围区域，撕裂地板，破坏窗户，开启容器，并抛掷物品。使用后会使你在短时间内易受攻击。
 
-revenant-overload-name = Overload Lights
-revenant-overload-desc = Overloads all nearby lights, causing lights to pulse and sending out dangerous lightning. Using it leaves you vulnerable to attacks for a long period of time.
+revenant-overload-name = 超载之光
+revenant-overload-desc = 过载附近所有灯光，使灯光频闪并释放危险闪电。使用后会长时间陷入易伤状态。
 
-revenant-blight-name = Blight
-revenant-blight-desc = Infects all nearby organisms with an infectious disease that causes toxic buildup and tiredness. Using it leaves you vulnerable to attacks for a medium period of time.
+revenant-blight-name = 枯萎
+revenant-blight-desc = 感染附近所有生物，使其患上一种导致毒素积累与疲倦的传染病。使用此技能后，你将在中等时间内处于易受攻击的状态。
 
-revenant-malfunction-name = Malfunction
-revenant-malfunction-desc = Makes nearby electronics stop working properly. Using it leaves you vulnerable to attacks for a long period of time.
+revenant-malfunction-name = 故障
+revenant-malfunction-desc = 使附近的电子设备停止正常工作。使用该能力会让你在很长一段时间内容易受到攻击。

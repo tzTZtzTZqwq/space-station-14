@@ -1,13 +1,13 @@
-﻿## Actions Commands loc
+﻿## 操作命令 loc
 
-## Upgradeaction command loc
-upgradeaction-command-help = Usage: upgradeaction <entityUid> [level]
-upgradeaction-command-need-one-argument = upgradeaction needs at least one argument, the action entity uid. The second optional argument is a specified level.
-upgradeaction-command-max-two-arguments = upgradeaction has a maximum of two arguments, the action entity uid and the (optional) level to set.
-upgradeaction-command-second-argument-not-number = upgradeaction's second argument can only be a number.
-upgradeaction-command-less-than-required-level = upgradeaction cannot accept a level of 0 or lower.
-upgradeaction-command-incorrect-entityuid-format = You must use a valid entityuid format for upgradeaction.
-upgradeaction-command-entity-does-not-exist = This entity does not exist, a valid entity is required for upgradeaction.
-upgradeaction-command-entity-is-not-action = This entity doesn't have the action upgrade component, so this action cannot be leveled.
-upgradeaction-command-cannot-level-up = The action cannot be leveled up.
-upgradeaction-command-description = Upgrades an action by one level, or to the specified level, if applicable.
+## 升级操作命令 位置
+upgradeaction-command-help = 用法：upgradeaction <entityUid> [level]
+upgradeaction-command-need-one-argument = upgradeaction 至少需要一个参数，即操作实体 uid。第二个可选参数是指定的等级。
+upgradeaction-command-max-two-arguments = upgradeaction 最多有两个参数，即操作实体 uid 和（可选的）要设置的级别。
+upgradeaction-command-second-argument-not-number = upgradeaction的第二个参数只能是数字。
+upgradeaction-command-less-than-required-level = upgradeaction 无法接受等级为 0 或更低的值。
+upgradeaction-command-incorrect-entityuid-format = 你必须为升级操作使用有效的实体UID格式。
+upgradeaction-command-entity-does-not-exist = 该实体不存在，升级操作需要有效的实体。
+upgradeaction-command-entity-is-not-action = 该实体不具备行动升级组件，因此无法对此行动进行升级。
+upgradeaction-command-cannot-level-up = 该操作无法升级。
+upgradeaction-command-description = 将行动提升一个等级，或在适用情况下提升至指定等级。

@@ -1,47 +1,47 @@
+﻿
+### 用户界面
 
-### UI
-
-rcd-component-examine-mode-details = It's currently set to '{$mode}' mode.
-rcd-component-examine-build-details = It's currently set to build {MAKEPLURAL($name)}.
-
-
-### Interaction Messages
-
-# Mode change
-rcd-component-change-mode = The RCD is now set to '{$mode}' mode.
-rcd-component-change-build-mode = The RCD is now set to build {MAKEPLURAL($name)}.
-
-# Ammo count
-rcd-component-no-ammo-message = The RCD has run out of charges!
-rcd-component-insufficient-ammo-message = The RCD doesn't have enough charges left!
-
-# Deconstruction
-rcd-component-tile-indestructible-message = That tile can't be destructed!
-rcd-component-deconstruct-target-not-on-whitelist-message = You can't deconstruct that!
-rcd-component-nothing-to-deconstruct-message = There's nothing to deconstruct!
-rcd-component-tile-obstructed-message = You can't deconstruct tiles when there's something on top of them!
-
-# Construction
-rcd-component-no-valid-grid = You're too far into open space to build here!
-rcd-component-must-build-on-empty-tile-message = A foundation already exists here!
-rcd-component-cannot-build-on-empty-tile-message = You can't build that without a foundation!
-rcd-component-must-build-on-subfloor-message = You can only build that on exposed subfloor!
-rcd-component-cannot-build-on-subfloor-message = You can't build that on exposed subfloor!
-rcd-component-cannot-build-on-occupied-tile-message = You can't build here, the space is already occupied!
-rcd-component-cannot-build-identical-tile = That tile already exists there!
+rcd-component-examine-mode-details = 它目前设置为'{$mode}'模式。
+rcd-component-examine-build-details = 它目前设置为建造{MAKEPLURAL($name)}。
 
 
-### Category names
+### 交互消息
 
-rcd-component-walls-and-flooring = Walls and flooring
-rcd-component-windows-and-grilles = Windows and grilles
-rcd-component-airlocks = Airlocks
-rcd-component-electrical = Electrical
-rcd-component-lighting = Lighting
+#模式切换
+rcd-component-change-mode = RCD现在设置为'{$mode}'模式。
+rcd-component-change-build-mode = RCD现在设置为建造{MAKEPLURAL($name)}。
+
+#弹药数量
+rcd-component-no-ammo-message = RCD 的充能已耗尽！
+rcd-component-insufficient-ammo-message = RCD剩余充能不足！
+
+#解构
+rcd-component-tile-indestructible-message = 该地块无法被破坏！
+rcd-component-deconstruct-target-not-on-whitelist-message = 你不能拆解那个！
+rcd-component-nothing-to-deconstruct-message = 没有可解构的物件！
+rcd-component-tile-obstructed-message = 你不能在瓦片上有东西时拆除它们！
+
+#施工
+rcd-component-no-valid-grid = 你离开阔水域太远，无法在此建造！
+rcd-component-must-build-on-empty-tile-message = 此处已存在地基！
+rcd-component-cannot-build-on-empty-tile-message = 你不能在没有地基的地方建造！
+rcd-component-must-build-on-subfloor-message = 你只能在地基上建造那个！
+rcd-component-cannot-build-on-subfloor-message = 你不能在裸露的底层地板上建造！
+rcd-component-cannot-build-on-occupied-tile-message = 你不能在这里建造，这个位置已经被占用了！
+rcd-component-cannot-build-identical-tile = 该地块已存在！
 
 
-### Prototype names (note: constructable items will be puralized)
+### 类别名称
 
-rcd-component-deconstruct = deconstruct
-rcd-component-floor-steel = steel tile
-rcd-component-plating = hull plate
+rcd-component-walls-and-flooring = 墙壁与地板
+rcd-component-windows-and-grilles = 窗户与格栅
+rcd-component-airlocks = 气闸
+rcd-component-electrical = 电气
+rcd-component-lighting = 照明
+
+
+### 原型名称（注：可建造物品将使用复数形式）
+
+rcd-component-deconstruct = 拆除
+rcd-component-floor-steel = 钢制地砖
+rcd-component-plating = 船体板

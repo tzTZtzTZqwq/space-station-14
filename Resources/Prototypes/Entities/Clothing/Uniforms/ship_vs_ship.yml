@@ -6,8 +6,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitRecruitNT
-  name: recruit jumpsuit
-  description: A classy grey jumpsuit with blue trims. Perfect for the dignified helper.
+  name: 招募连体衣
+  description: 一件经典的灰色连体裤，饰有蓝色滚边，非常适合高贵的助手。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/recruit_nt.rsi
@@ -17,8 +17,8 @@
 - type: entity
   parent: [ ClothingUniformBase, BaseSyndicateContraband ]
   id: ClothingUniformJumpsuitRecruitSyndie
-  name: syndicate recruit jumpsuit
-  description: A dubious, dark-grey jumpsuit. As if passengers weren't dubious enough already.
+  name: 集团招募连体工装
+  description: 一件可疑的深灰色连体衣。好像乘客们还不够可疑似的。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/recruit_syndie.rsi
@@ -29,8 +29,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitRepairmanNT
-  name: repairman jumpsuit
-  description: A jumpsuit that reminds you of a certain crew-sector work position. Hopefully, you won't have to do the same job as THOSE freaks.
+  name: 维修工连体服
+  description: 一件让你想起某个乘务组工作位置的连体服。希望你不必和那些怪胎做同样的工作。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/repairman_nt.rsi
@@ -40,8 +40,8 @@
 - type: entity
   parent: [ ClothingUniformBase, BaseSyndicateContraband ]
   id: ClothingUniformJumpsuitRepairmanSyndie
-  name: syndicate repairman jumpsuit
-  description: Functional, fashionable, and badass. Nanotrasen's engineers wish they could look as good as this.
+  name: 辛迪加维修工连体裤
+  description: 功能实用，时尚有型，霸气十足——Nanotrasen的工程师们多希望自己也能如此英姿飒爽。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/repairman_syndie.rsi
@@ -52,8 +52,8 @@
 - type: entity
   parent: [ ClothingUniformBase, BaseSyndicateContraband ]
   id: ClothingUniformJumpsuitParamedicSyndie
-  name: syndicate paramedic jumpsuit
-  description: For some reason, wearing this makes you feel like you're awfully close to violating the Geneva Convention.
+  name: 集团医护人员连体服
+  description: 不知为何，穿上这件衣服会让你感觉自己在触犯《日内瓦公约》的边缘疯狂试探。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/paramedic_syndie.rsi
@@ -65,8 +65,8 @@
 - type: entity
   parent: [ ClothingUniformBase, BaseSyndicateContraband ]
   id: ClothingUniformJumpsuitChiefEngineerSyndie
-  name: syndicate chief engineer jumpsuit
-  description: An evil-looking jumpsuit with a reflective vest & red undershirt. #TODO: Write a better description for this once Ship vs. Ship is real and actual player habits begin forming
+  name: 辛迪加总工程师连体工作服
+  description: 一件带有反光背心和红色内衣的邪恶连体衣。#TODO：一旦舰船对战成为现实且玩家习惯开始形成，为此撰写更好的描述。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/ce_syndie.rsi

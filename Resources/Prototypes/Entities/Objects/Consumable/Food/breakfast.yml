@@ -6,7 +6,7 @@
   abstract: true
   parent: FoodInjectableBase
   id: FoodBreakfastBase
-  description: A full breakfast, rise and shine!
+  description: 一顿丰盛的早餐，快起床吧！
   components:
   - type: Item
     size: Normal
@@ -27,8 +27,8 @@
 - type: entity
   parent: FoodBreakfastBase
   id: FoodBreakfastAmerican
-  name: full american breakfast
-  description: A huge plate of protein and carbs, more likely to put you back in bed than get you out of it. Oh, what fresh hell is this?
+  name: 美式全套早餐
+  description: 一大盘蛋白质和碳水化合物，更可能让你重返床榻而非助你起身。哦，这又是什么新奇折磨？
   components:
   - type: FlavorProfile
     flavors:
@@ -39,8 +39,8 @@
 - type: entity
   parent: FoodBreakfastBase
   id: FoodBreakfastEnglish
-  name: full english breakfast
-  description: A huge plate of protein and carbs, more likely to put you back in bed than get you out of it. Don't mention the war!
+  name: 全套英式早餐
+  description: 一大盘蛋白质和碳水化合物，更可能让你重返被窝而非精神抖擞。别提战争！
   components:
   - type: FlavorProfile
     flavors:

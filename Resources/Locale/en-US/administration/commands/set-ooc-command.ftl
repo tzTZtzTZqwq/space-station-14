@@ -1,4 +1,4 @@
-cmd-setooc-desc = Allows you to enable or disable OOC.
-cmd-setooc-help = Usage: setooc OR setooc [value]
-cmd-setooc-ooc-enabled = OOC chat has been enabled.
-cmd-setooc-ooc-disabled = OOC chat has been disabled.
+﻿cmd-setooc-desc = 允许你启用或禁用OOC。
+cmd-setooc-help = 用法：setooc 或 setooc [值]
+cmd-setooc-ooc-enabled = OOC聊天已启用。
+cmd-setooc-ooc-disabled = OOC聊天已被禁用。

@@ -1,11 +1,11 @@
-# RotatableComponent
-rotatable-component-try-rotate-stuck = It's stuck.
+﻿#可旋转组件
+rotatable-component-try-rotate-stuck = 它卡住了。
 
-# RotateVerb
-rotate-verb-get-data-text = Rotate clockwise
+#旋转
+rotate-verb-get-data-text = 顺时针旋转
 
-# RotateCounterVerb
-rotate-counter-verb-get-data-text = Rotate counter-clockwise
+#逆时针旋转
+rotate-counter-verb-get-data-text = 逆时针旋转
 
-# ResetVerb
-rotate-reset-verb-get-data-text = Reset
+#重置
+rotate-reset-verb-get-data-text = 重置

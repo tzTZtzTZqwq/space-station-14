@@ -1,10 +1,10 @@
-encryption-key-successfully-installed = You put the encryption key inside.
-encryption-key-slots-already-full = There is no place for another encryption key.
-encryption-keys-all-extracted = You pop out the encryption keys!
-encryption-keys-no-keys = This device has no encryption keys!
-encryption-keys-are-locked = Encryption key slots are locked!
-encryption-keys-panel-locked = Open maintenance panel first!
+﻿encryption-key-successfully-installed = 您已将密钥放入其中。
+encryption-key-slots-already-full = 没有空间存放另一把加密钥匙。
+encryption-keys-all-extracted = 你把加密密钥都拔出来了！
+encryption-keys-no-keys = 此设备没有加密密钥！
+encryption-keys-are-locked = 加密密钥槽已锁定！
+encryption-keys-panel-locked = 先打开维护面板！
 
-examine-encryption-channels-prefix = Available frequencies:
-examine-encryption-channel = [color={$color}]{$key} for {$id} ({NATURALFIXED($freq, 1)})[/color]
-examine-encryption-default-channel = The default channel is [color={$color}]{$channel}[/color].
+examine-encryption-channels-prefix = 可用频率：
+examine-encryption-channel = [color={$color}]{$key} 对应 {$id} ({NATURALFIXED($freq, 1)})[/color]
+examine-encryption-default-channel = 默认频道为[color={$color}]{$channel}[/color]。

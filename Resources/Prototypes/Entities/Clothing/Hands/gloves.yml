@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingHandsBase
   id: ClothingHandsGlovesBoxingRed
-  name: red boxing gloves
-  description: Red gloves for competitive boxing.
+  name: 红色拳击手套
+  description: 竞技拳击专用红手套。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/Boxing/boxingred.rsi
@@ -33,8 +33,8 @@
 - type: entity
   parent: ClothingHandsGlovesBoxingRed
   id: ClothingHandsGlovesBoxingBlue
-  name: blue boxing gloves
-  description: Blue gloves for competitive boxing.
+  name: 蓝色拳击手套
+  description: 竞技拳击用蓝手套。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/Boxing/boxingblue.rsi
@@ -49,8 +49,8 @@
 - type: entity
   parent: ClothingHandsGlovesBoxingRed
   id: ClothingHandsGlovesBoxingGreen
-  name: green boxing gloves
-  description: Green gloves for competitive boxing.
+  name: 绿色拳击手套
+  description: 竞技拳击用绿色手套。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/Boxing/boxinggreen.rsi
@@ -65,8 +65,8 @@
 - type: entity
   parent: ClothingHandsGlovesBoxingRed
   id: ClothingHandsGlovesBoxingYellow
-  name: yellow boxing gloves
-  description: Yellow gloves for competitive boxing.
+  name: 黄色拳击手套
+  description: 竞技拳击专用黄色手套。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/Boxing/boxingyellow.rsi
@@ -96,8 +96,8 @@
 - type: entity
   parent: [ClothingHandsBase, BaseCommandContraband]
   id: ClothingHandsGlovesCaptain
-  name: captain gloves
-  description: Regal blue gloves, with a nice gold trim. Swanky.
+  name: 队长手套
+  description: 皇家蓝手套，配有精致的金色镶边。非常时髦。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/captain.rsi
@@ -112,8 +112,8 @@
 - type: entity
   parent: ClothingHandsBase
   id: ClothingHandsGlovesHop
-  name: papercut-proof gloves
-  description: Perfect for dealing with paperwork and matters with bureaucracy.
+  name: 防割手套
+  description: 非常适合处理文书工作和应对官僚事务。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/hop.rsi
@@ -132,8 +132,8 @@
 - type: entity
   parent: ClothingHandsButcherable
   id: ClothingHandsGlovesLatex
-  name: latex gloves
-  description: Thin sterile latex gloves. Basic PPE for any doctor.
+  name: 乳胶手套
+  description: 薄型无菌乳胶手套。任何医生的基本个人防护装备。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/latex.rsi
@@ -146,8 +146,8 @@
 - type: entity
   parent: ClothingHandsButcherable
   id: ClothingHandsGlovesNitrile
-  name: nitrile gloves
-  description: High-quality nitrile gloves. Expensive medical PPE.
+  name: 丁腈手套
+  description: 高品质丁腈手套。昂贵的医疗个人防护装备。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/nitrile.rsi
@@ -160,8 +160,8 @@
 - type: entity
   parent: ClothingHandsButcherable
   id: ClothingHandsGlovesLeather
-  name: botanist's leather gloves
-  description: These leather gloves protect against thorns, barbs, prickles, spikes and other harmful objects of floral origin. They're also quite warm.
+  name: 植物学家的皮手套
+  description: 这些皮质手套能有效防护荆棘、倒刺、芒刺等植物性有害物体的刮伤，同时还具有出色的保暖性能。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/leather.rsi
@@ -180,8 +180,8 @@
 - type: entity
   parent: ClothingHandsBase
   id: ClothingHandsGlovesPowerglove
-  name: power gloves
-  description: Now I'm playin' with power! Wait... they're turned off. #Use "Now I'm playin' with power! BAM!" for when they're turned on
+  name: 强力手套
+  description: 现在我充满力量！等等……它们被关掉了。#当它们开启时，请用“现在我充满力量！砰！”
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/powerglove.rsi
@@ -194,8 +194,8 @@
 - type: entity
   parent: ClothingHandsButcherable
   id: ClothingHandsGlovesRobohands
-  name: robohands gloves
-  description: Beep boop borp!
+  name: 机械手手套
+  description: 哔哔 啵啵 啵噗！
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/robohands.rsi
@@ -209,8 +209,8 @@
 - type: entity
   parent: [ClothingHandsBase, BaseToggleClothing, BaseHighlyIllegalContraband]
   id: ClothingHandsGlovesSpaceNinja
-  name: space ninja gloves
-  description: These black nano-enhanced gloves insulate from electricity and provide fire resistance.
+  name: 太空忍者手套
+  description: 这些黑色纳米增强手套能隔绝电流并提供防火保护。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/spaceninja.rsi
@@ -264,8 +264,8 @@
 - type: entity
   parent: [ ClothingHandsGlovesColorBlack, BaseSecurityEngineeringContraband ]
   id: ClothingHandsGlovesCombat
-  name: combat gloves
-  description: These tactical gloves are fireproof and shock resistant.
+  name: 作战手套
+  description: 这些战术手套具有防火和防震功能。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/combat.rsi
@@ -279,8 +279,8 @@
 - type: entity
   parent: ClothingHandsGlovesSyntheticBase
   id: ClothingHandsTacticalMaidGloves
-  name: tactical maid gloves
-  description: Tactical maid gloves, every self-respecting maid should be able to discreetly eliminate her goals.
+  name: 战术女仆手套
+  description: 战术女仆手套，每一位自重的女仆都应能悄无声息地解决目标。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/tacticalmaidgloves.rsi
@@ -293,8 +293,8 @@
 - type: entity
   parent: [ BaseSecurityCargoContraband, ClothingHandsGlovesCombat ]
   id: ClothingHandsMercGlovesCombat
-  name: mercenary combat gloves
-  description: High-quality combat gloves to protect hands from mechanical damage during combat.
+  name: 雇佣兵作战手套
+  description: 高品质作战手套，可在战斗中保护双手免受机械损伤。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/mercbattle.rsi
@@ -311,8 +311,8 @@
 - type: entity
   parent: ClothingHandsButcherable
   id: ClothingHandsGlovesFingerless
-  name: fingerless gloves
-  description: Plain black gloves without fingertips for the hard working.
+  name: 无指手套
+  description: 为辛勤工作者准备的露指纯黑手套。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/fingerless.rsi
@@ -329,8 +329,8 @@
 - type: entity
   parent: ClothingHandsBase
   id: ClothingHandsGlovesFingerlessInsulated
-  name: fingerless insulated gloves
-  description: Insulated gloves resistant to shocks, or at least they used to.
+  name: 无指绝缘手套
+  description: 绝缘手套能抵御电击，至少过去是如此。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/fingerlessinsuls.rsi
@@ -347,8 +347,8 @@
 - type: entity
   parent: ClothingHandsButcherable
   id: ClothingHandsGlovesMercFingerless
-  name: mercenary fingerless gloves
-  description: Gloves that may not protect you from finger burns, but will make you cooler.
+  name: 佣兵无指手套
+  description: 这副手套或许不能保护你的手指免于灼伤，但能让你更酷。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/mercfingerless.rsi
@@ -378,17 +378,17 @@
 - type: entity
   parent: ClothingHandsGlovesColorWhite
   id: ClothingHandsGlovesCluwne
-  name: cluwne hands
+  name: 小丑之手
   suffix: Unremoveable
-  description:  A cursed pair of cluwne hands.
+  description: 一双被诅咒的小丑之手。
   components:
   - type: Unremoveable
 
 - type: entity
   parent: [ClothingHandsButcherable, BaseSyndicateContraband]
   id: ClothingHandsGlovesNorthStar
-  name: gloves of the north star
-  description: These gloves allow you to punch incredibly fast.
+  name: 北斗之拳套
+  description: 这副手套能让你出拳快得惊人。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/northstar.rsi
@@ -427,8 +427,8 @@
 - type: entity
   parent: [ClothingHandsBase, BaseSecurityContraband]
   id: ClothingHandsGlovesForensic
-  name: forensic gloves
-  description: Do not leave fibers or fingerprints. If you work without them, you're A TERRIBLE DETECTIVE.
+  name: 取证手套
+  description: 不要留下纤维或指纹。如果你工作时不留这些，那你就是个糟糕的侦探。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/forensic.rsi
@@ -443,8 +443,8 @@
 - type: entity
   parent: ClothingHandsBase
   id: ClothingHandsGlovesJanitor
-  name: rubber gloves
-  description: High-quality rubber gloves, squeaky to do some cleaning!
+  name: 橡胶手套
+  description: 高品质橡胶手套，吱吱作响地做些清洁！
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/janitor.rsi
@@ -459,8 +459,8 @@
 - type: entity
   parent: [ClothingHandsBase, BaseMinorContraband]
   id: ClothingHandsKnuckleDusters
-  name: knuckle dusters
-  description: "Cold plasteel knuckle dusters, makes your punches hit much harder."
+  name: 指节铜套
+  description: 冷锻钢指虎，让你的拳头更有力。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/KnuckleDusters/knuckleduster.rsi
@@ -486,8 +486,8 @@
 - type: entity
   parent: [ClothingHandsKnuckleDusters, BaseMinorContraband] #Craftable version of base knuckledusters
   id: ClothingHandsKnuckleDustersBrass
-  name: brass knuckle dusters
-  description: "Brass knuckle dusters, just like how they used to make em and still hit just as hard."
+  name: 指节铜套
+  description: 指节铜套，依旧如昔时打造那般坚硬有力。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/KnuckleDusters/brassknuckleduster.rsi
@@ -505,8 +505,8 @@
 - type: entity
   parent: [ClothingHandsBase, BaseGrandTheftContraband]
   id: ClothingHandsKnuckleDustersQM
-  name: QM's golden knuckle dusters
-  description: "24karat gold infused with plasteel and branded with the Nanotrasen logo. A true symbol of the Quartermaster's might."
+  name: QM的金指虎
+  description: 24K金与塑钢融合，烙有纳诺特拉森标志。这是军需官权势的真实象征。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/KnuckleDusters/goldenknuckleduster.rsi
@@ -534,8 +534,8 @@
 - type: entity
   parent: [ClothingHandsBase, BaseSyndicateContraband]
   id: ClothingHandsKnuckleDustersSyndicate
-  name: syndicate knuckle dusters
-  description: "Plastitanium knuckle dusters branded with the blood-red S. A real man beats someone to death with these."
+  name: 辛迪加指节铜套
+  description: 印有血红S标志的塑料钛指虎。真男人就用这个把人揍到死。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/KnuckleDusters/syndicateknuckleduster.rsi
@@ -560,10 +560,10 @@
     price: 2000
 
 - type: entity
-  name: stun knuckle dusters
+  name: 眩晕指节铜套
   parent: [ClothingHandsBase, BaseToggleClothing, BaseSecurityContraband]
   id: ClothingHandsKnuckleDustersStun
-  description: A pair of knuckle dusters combined with the tech of a stun baton. This makes beating tiders a whole lot easier.
+  description: 一对指虎与电击棍技术相结合，这让揍人变得轻松多了。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/KnuckleDusters/electricknuckleduster.rsi
@@ -630,8 +630,8 @@
 - type: entity #Admeme
   parent: ClothingHandsKnuckleDusters
   id: ClothingHandsKnuckleBoneCrushers
-  name: bone crushers
-  description: "Blessed by the Gods to break all those who don't obey."
+  name: 碎骨者
+  description: 受神之赐福，以摧灭所有不臣之徒。
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/KnuckleDusters/goldenknuckleduster.rsi

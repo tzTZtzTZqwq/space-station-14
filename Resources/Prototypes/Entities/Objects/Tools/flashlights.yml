@@ -1,8 +1,8 @@
 ﻿- type: entity
-  name: flashlight
+  name: 手电筒
   parent: BaseItem
   id: FlashlightLantern
-  description: It lights the way to freedom.
+  description: 它照亮通往自由之路。
   components:
   - type: Tag
     tags:
@@ -45,7 +45,7 @@
   - type: ItemSlots
     slots:
       cell_slot:
-        name: power-cell-slot-component-slot-name-default
+        name: 动力电池插槽-组件插槽名称-默认
         startingItem: PowerCellMedium
   - type: Sprite
     sprite: Objects/Tools/flashlight.rsi
@@ -79,7 +79,7 @@
   name: seclite
   parent: [FlashlightLantern, BaseSecurityContraband]
   id: FlashlightSeclite
-  description: A robust flashlight used by security.
+  description: 安保使用的强光手电筒。
   components:
   - type: Tag
     tags:
@@ -87,7 +87,7 @@
   - type: ItemSlots
     slots:
       cell_slot:
-        name: power-cell-slot-component-slot-name-default
+        name: 动力电池插槽-组件插槽名称-默认
         startingItem: PowerCellMedium
   - type: HandheldLight
     addPrefix: false
@@ -134,4 +134,4 @@
   - type: ItemSlots
     slots:
       cell_slot:
-        name: power-cell-slot-component-slot-name-default
+        name: 动力电池插槽-组件插槽名称-默认

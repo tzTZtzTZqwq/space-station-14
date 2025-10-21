@@ -1,9 +1,9 @@
-cmd-respawn-desc = Respawns a player, kicking them back to the lobby.
-cmd-respawn-help = respawn [player or UserId]
+﻿cmd-respawn-desc = 重生一名玩家，将其踢回大厅。
+cmd-respawn-help = 重生 [player or UserId]
 
-cmd-respawn-invalid-args = Must provide <= 1 argument.
-cmd-respawn-no-player = If not a player, an argument must be given.
-cmd-respawn-unknown-player = Unknown player
-cmd-respawn-player-not-online = Player is not currently online, but they will respawn if they come back online
+cmd-respawn-invalid-args = 必须提供 <= 1 个参数。
+cmd-respawn-no-player = 若非玩家，必须提供参数。
+cmd-respawn-unknown-player = 未知玩家
+cmd-respawn-player-not-online = 玩家当前不在线，但重新上线时会重生
 
 cmd-respawn-player-completion = <Username>

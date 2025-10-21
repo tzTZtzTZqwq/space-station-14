@@ -1,23 +1,23 @@
 ﻿admin-logs-title = Admin Logs Panel
-admin-logs-count = Showing {$showing}/{$total} of {$round}
-admin-logs-export = Export
-admin-logs-pop-out = Pop Out
+admin-logs-count = 显示 {$showing}/{$total}（共 {$round} 条）
+admin-logs-export = 导出
+admin-logs-pop-out = 弹出
 
-# Round
-admin-logs-round = Round{" "}
-admin-logs-reset = Reset
-admin-logs-reset-with-id = Reset Round (#{$id})
+#回合
+admin-logs-round = 回合{" "}
+admin-logs-reset = 重置
+admin-logs-reset-with-id = 重置回合 (#{$id})
 
-# Types
-admin-logs-search-types-placeholder = Search Types (OR)
-admin-logs-select-all = All
-admin-logs-select-none = None
+#类型
+admin-logs-search-types-placeholder = 搜索类型（OR）
+admin-logs-select-all = 全部
+admin-logs-select-none = 无
 
-# Players
-admin-logs-search-players-placeholder = Search Players (OR)
-admin-logs-include-non-player = Include Non-players
+#玩家
+admin-logs-search-players-placeholder = 搜索玩家（OR）
+admin-logs-include-non-player = 包含非玩家
 
-# Logs
-admin-logs-search-logs-placeholder = Search Logs
-admin-logs-refresh = Refresh
-admin-logs-next = Next
+#日志
+admin-logs-search-logs-placeholder = 搜索日志
+admin-logs-refresh = 刷新
+admin-logs-next = 下一页

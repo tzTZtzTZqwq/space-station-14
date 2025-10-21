@@ -1,34 +1,34 @@
-## Entity
+﻿## 实体
 
-plant-holder-component-plant-success-message = You plant the {$seedName} {$seedNoun}.
-plant-holder-component-already-seeded-message = The {$name} already has seeds in it!
-plant-holder-component-remove-weeds-message = You remove the weeds from the {$name}.
-plant-holder-component-remove-weeds-others-message = {$otherName} starts uprooting the weeds.
-plant-holder-component-no-weeds-message = This plot is devoid of weeds! It doesn't need uprooting.
-plant-holder-component-remove-plant-message = You remove the plant from the {$name}.
-plant-holder-component-remove-plant-others-message = {$name} removes the plant.
-plant-holder-component-no-plant-message = There is no plant to remove.
-plant-holder-component-transfer-message = You transfer {$amount}u to {$owner}.
-plant-holder-component-nothing-to-sample-message = There is nothing to take a sample of!
-plant-holder-component-already-sampled-message = This plant has already been sampled.
-plant-holder-component-dead-plant-message = This plant is dead.
-plant-holder-component-take-sample-message = You take a sample from the {$seedName}.
-plant-holder-component-compost-message = You compost {$usingItem} into {$owner}.
-plant-holder-component-compost-others-message = {$user} composts {$usingItem} into {$owner}.
-plant-holder-component-nothing-planted-message = It has nothing planted in it..
-plant-holder-component-something-already-growing-message = [color=green]{$seedName}[/color] {$toBeForm} growing here.
-plant-holder-component-something-already-growing-low-health-message = The plant looks [color=red]{$healthState}[/color].
-plant-holder-component-plant-old-adjective = old and wilting
-plant-holder-component-plant-unhealthy-adjective = unhealthy
-plant-holder-component-dead-plant-matter-message = It's full of [color=red]dead plant matter[/color].
-plant-holder-component-weed-high-level-message = It's filled with [color=green]weeds[/color]!
-plant-holder-component-pest-high-level-message = It's filled with [color=gray]tiny worms[/color]!
-plant-holder-component-water-level-message = Water:     [color=cyan]{$waterLevel}[/color].
-plant-holder-component-nutrient-level-message = Nutrient: [color=orange]{$nutritionLevel}[/color].
-plant-holder-component-toxins-high-warning = The [color=red]toxicity level alert[/color] is flashing red.
-plant-holder-component-light-improper-warning = The [color=yellow]improper light level alert[/color] is blinking.
-plant-holder-component-heat-improper-warning = The [color=orange]improper temperature level alert[/color] is blinking.
-plant-holder-component-pressure-improper-warning = The [color=lightblue]improper environment pressure alert[/color] is blinking.
-plant-holder-component-gas-missing-warning = The [color=cyan]improper gas environment alert[/color] is blinking.
-plant-holder-component-early-sample-message = The plant hasn't grown enough to take a sample yet.
-plant-holder-component-ligneous-cant-harvest-message = The plant is too tough to harvest with your bare hands.
+plant-holder-component-plant-success-message = 你种下了{$seedName}{$seedNoun}。
+plant-holder-component-already-seeded-message = 这个{$name}里面已经有种子了！
+plant-holder-component-remove-weeds-message = 你从{$name}上清除了杂草。
+plant-holder-component-remove-weeds-others-message = {$otherName}开始拔除杂草。
+plant-holder-component-no-weeds-message = 这块土地没有杂草！不需要拔除。
+plant-holder-component-remove-plant-message = 你把植物从{$name}上移除了。
+plant-holder-component-remove-plant-others-message = {$name}拔除了植株。
+plant-holder-component-no-plant-message = 没有可移除的植物。
+plant-holder-component-transfer-message = 你将{$amount}单位传输给{$owner}。
+plant-holder-component-nothing-to-sample-message = 没有什么可以取样的！
+plant-holder-component-already-sampled-message = 这株植物已被采样。
+plant-holder-component-dead-plant-message = 这株植物已经死了。
+plant-holder-component-take-sample-message = 你从{$seedName}中取了一份样本。
+plant-holder-component-compost-message = 你将{$usingItem}堆肥到{$owner}中。
+plant-holder-component-compost-others-message = {$user} 将{$usingItem}堆肥到{$owner}中。
+plant-holder-component-nothing-planted-message = 里面没有种植任何东西。
+plant-holder-component-something-already-growing-message = [color=green]{$seedName}[/color] {$toBeForm} 已在此处生长。
+plant-holder-component-something-already-growing-low-health-message = 这株植物看起来[color=red]{$healthState}[/color]。
+plant-holder-component-plant-old-adjective = 老而枯萎
+plant-holder-component-plant-unhealthy-adjective = 不健康
+plant-holder-component-dead-plant-matter-message = 里面全是[color=red]枯萎的植物物质[/color]。
+plant-holder-component-weed-high-level-message = 里面长满了[color=green]杂草[/color]！
+plant-holder-component-pest-high-level-message = 里面全是[color=gray]小蠕虫[/color]！
+plant-holder-component-water-level-message = 水分：     [color=cyan]{$waterLevel}[/color]。
+plant-holder-component-nutrient-level-message = 营养值: [color=orange]{$nutritionLevel}[/color]。
+plant-holder-component-toxins-high-warning = [color=red]毒性水平警报[/color]正闪烁着红光。
+plant-holder-component-light-improper-warning = [color=yellow]不当光照水平警报[/color]正在闪烁。
+plant-holder-component-heat-improper-warning = [color=orange]温度异常警报[/color]正在闪烁。
+plant-holder-component-pressure-improper-warning = [color=lightblue]环境气压异常警报[/color]正在闪烁。
+plant-holder-component-gas-missing-warning = [color=cyan]异常气体环境警报[/color]正在闪烁。
+plant-holder-component-early-sample-message = 该植物尚未生长到可以采集样本的程度。
+plant-holder-component-ligneous-cant-harvest-message = 这株植物太坚韧了，无法徒手收获。

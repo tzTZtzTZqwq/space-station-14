@@ -2,8 +2,8 @@
   abstract: true
   parent: [ DisposalUnitBase, SeatBase ]
   id: BaseToilet
-  name: toilet
-  description: The HT-451, a torque rotation-based, waste disposal unit for small matter. This one seems remarkably clean.
+  name: 厕所
+  description: HT-451型，一款基于扭矩旋转的小型垃圾处理装置。这个看起来异常洁净。
   components:
   - type: Sprite
     sprite: Structures/Furniture/toilet.rsi
@@ -68,7 +68,7 @@
   - type: ToolOpenable
     openToolQualityNeeded: Prying
     closeToolQualityNeeded: Prying
-    name: secret-stash-toilet
+    name: 秘密藏匿马桶
   - type: Drain
     autoDrain: false
   - type: StaticPrice
@@ -119,8 +119,8 @@
 - type: entity
   parent: BaseToilet
   id: ToiletEmpty
-  name: toilet
-  description: The HT-451, a torque rotation-based, waste disposal unit for small matter. This one seems remarkably clean.
+  name: 厕所
+  description: HT-451型，一款基于扭矩旋转的小型垃圾处理装置。这个看起来异常洁净。
   suffix: Empty
   components:
   - type: Construction
@@ -150,8 +150,8 @@
 - type: entity
   parent: BaseToilet
   id: ToiletGoldenEmpty
-  name: golden toilet
-  description: The HT-451G is the gold version of the device. It says on the side that it is made of the purest Mercurian gold and a real leather seat.
+  name: 金马桶
+  description: HT-451G是该设备的黄金版。侧面标注其采用最纯净的水星黄金打造，并配有真皮座椅。
   suffix: Empty
   components:
   - type: Sprite

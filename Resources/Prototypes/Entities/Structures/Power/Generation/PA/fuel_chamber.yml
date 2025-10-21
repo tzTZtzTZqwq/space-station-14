@@ -1,8 +1,8 @@
 - type: entity
   parent: ParticleAcceleratorFinishedPart
   id: ParticleAcceleratorFuelChamber
-  name: PA fuel chamber
-  description: Formally known as the EM Acceleration Chamber. This is where the Alpha particles are accelerated to radical speeds.
+  name: PA燃料室
+  description: 正式名称为电磁加速室。此处阿尔法粒子被加速至极限速度。
   components:
   - type: Sprite
     sprite: Structures/Power/Generation/PA/fuel_chamber.rsi
@@ -16,9 +16,9 @@
 - type: entity
   parent: ParticleAcceleratorUnfinishedBase
   id: ParticleAcceleratorFuelChamberUnfinished
-  name: PA fuel chamber
+  name: PA燃料室
   suffix: Unfinished
-  description: Formally known as the EM Acceleration Chamber. This is where the Alpha particles are accelerated to radical speeds. It looks unfinished.
+  description: 正式名称为电磁加速室，阿尔法粒子在此被加速至极端速度。它看起来尚未完工。
   components:
   - type: Sprite
     sprite: Structures/Power/Generation/PA/fuel_chamber.rsi

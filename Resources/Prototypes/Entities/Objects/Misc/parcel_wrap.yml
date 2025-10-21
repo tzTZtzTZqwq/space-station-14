@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseItem
   id: ParcelWrap
-  name: parcel wrap
-  description: Paper used contain items for transport.
+  name: 包裹包装
+  description: 运输用纸包含运输物品。
   components:
   - type: Sprite
     sprite: Objects/Misc/ParcelWrap/parcel_wrap.rsi
@@ -32,9 +32,9 @@
 - type: entity
   parent: ParcelWrap
   id: ParcelWrapAdmeme
-  name: bluespace wrap
+  name: 蓝空间环绕
   suffix: Admeme
-  description: Paper used contain items for transport. This one seems to be able to store an unusual amount of space within it.
+  description: 所用纸张包含运输物品。这个似乎能在其中储存异常多的空间。
   components:
   - type: ParcelWrap
     whitelist: null
@@ -44,8 +44,8 @@
 - type: entity
   abstract: true
   id: BaseWrappedParcel
-  name: wrapped parcel
-  description: Something wrapped up in paper. I wonder what's inside...
+  name: 包裹好的包裹
+  description: 用纸包着的东西。不知道里面是什么……
   components:
   - type: Physics
     bodyType: Dynamic
@@ -144,7 +144,7 @@
 - type: entity
   parent: BaseWrappedParcel
   id: WrappedParcelHumanoid
-  description: Something wrapped up in paper. It's suspiciously human-shaped.
+  description: 用纸包着的东西，形状可疑地像人。
   components:
   - type: Physics
     fixedRotation: false
@@ -170,8 +170,8 @@
   parent: BaseItem
   id: ParcelWrapTrash
   categories: [ HideSpawnMenu ]
-  name: parcel wrap
-  description: The disappointing remnants of an unwrapped parcel.
+  name: 包裹包装
+  description: 一个已拆包裹的失望残迹。
   components:
   - type: Sprite
     sprite: Objects/Misc/ParcelWrap/parcel_wrap_trash.rsi

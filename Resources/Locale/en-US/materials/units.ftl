@@ -1,24 +1,24 @@
-# sheets of steel
-materials-unit-sheet = sheet
-# bars of gold
-materials-unit-bar = bar
-# planks of wood
-materials-unit-plank = plank
-# rolls of cloth
-materials-unit-roll = roll
-# pieces of biomass
-materials-unit-piece = piece
-# bunches of bananium
-materials-unit-bunch = bunch
-# slabs of meat
-materials-unit-slab = slab
-# webs of silk
-materials-unit-web = web
-# chunks of ore
-materials-unit-chunk = chunk
-# boll of cotton
-materials-unit-boll = boll
+﻿#钢板
+materials-unit-sheet = 张
+#金条
+materials-unit-bar = 条
+#木板
+materials-unit-plank = 木板
+#布卷
+materials-unit-roll = 卷
+#生物质碎片
+materials-unit-piece = 块
+#成堆的香蕉矿
+materials-unit-bunch = 束
+#肉块
+materials-unit-slab = 板
+#丝绸之网
+materials-unit-web = 网络
+#矿石块
+materials-unit-chunk = 块
+#棉球
+materials-unit-boll = 棉铃
 
-# bills of spesos... not very good but they are not (yet?) used for crafting anything
-# also the lathe/atm would need bigger denominations to output...
-materials-unit-bill = bill
+#斯佩索币账单……虽然不是很好，但它们（还？）没有被用来制作任何东西
+#此外，车床/自动取款机将需要更大面额的输出来...
+materials-unit-bill = 账单

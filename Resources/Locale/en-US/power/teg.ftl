@@ -1,3 +1,3 @@
-﻿teg-generator-examine-power = It's currently supplying [color=yellow]{ POWERWATTS($power) }[/color].
-teg-generator-examine-power-max-output = It's capable of supplying [color=yellow]{ POWERWATTS($power) }[/color].
-teg-generator-examine-connection = To function, a [color=white]circulator[/color] must be attached on both sides.
+﻿teg-generator-examine-power = 它目前提供[color=yellow]{ POWERWATTS($power) }[/color]的电力。
+teg-generator-examine-power-max-output = 它能够提供[color=yellow]{ POWERWATTS($power) }[/color]的电力输出。
+teg-generator-examine-connection = 要发挥作用，[color=white]循环器[/color]必须在两侧都连接上。

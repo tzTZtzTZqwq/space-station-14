@@ -67,10 +67,10 @@
 # Custom Soup Example
 
 - type: entity
-  name: pea soup
+  name: 豌豆汤
   parent: FoodBowlBase
   id: FoodSoupPea
-  description: A humble split pea soup.
+  description: 一碗朴素的豌豆汤。
   components:
   - type: FlavorProfile
     flavors:
@@ -95,10 +95,10 @@
 # Salad
 
 - type: entity
-  name: aesir salad
+  name: 埃希尔沙拉
   parent: FoodBowlBase
   id: FoodSaladAesir
-  description: Probably too incredible for mortals to fully enjoy.
+  description: 凡人恐怕难以完全领略其妙处。
   components:
   - type: FlavorProfile
     flavors:
@@ -124,10 +124,10 @@
     - Fruit # I don't know what this is but its' a salad so sure
 
 - type: entity
-  name: herb salad
+  name: 香草沙拉
   parent: FoodBowlBase
   id: FoodSaladHerb
-  description: A tasty salad with apples on top.
+  description: 一份美味的沙拉，上面点缀着苹果。
   components:
   - type: FlavorProfile
     flavors:
@@ -156,10 +156,10 @@
     - Soup
 
 - type: entity
-  name: valid salad
+  name: 有效的沙拉
   parent: FoodBowlBase
   id: FoodSaladValid
-  description: It's just an herb salad with meatballs and fried potato slices. Nothing suspicious about it.
+  description: 这只是一份香草沙拉配肉丸和炸土豆片，没什么可疑的。
   components:
   - type: FlavorProfile
     flavors:
@@ -189,10 +189,10 @@
     - Soup
 
 - type: entity
-  name: coleslaw
+  name: 凉拌卷心菜
   parent: FoodBowlBase
   id: FoodSaladColeslaw
-  description: Shredded cabbage and red onions dressed with a vinaigrette.
+  description: 卷心菜丝和红洋葱用油醋汁拌匀。
   components:
   - type: FlavorProfile
     flavors:
@@ -216,10 +216,10 @@
           Quantity: 8
 
 - type: entity
-  name: caesar salad
+  name: 凯撒沙拉
   parent: FoodBowlBase
   id: FoodSaladCaesar
-  description: A simple yet flavorful salad of onions, lettuce, croutons, and shreds of cheese dressed in oil. Comes with a slice of pita bread!
+  description: 一份简单却美味的沙拉，内含洋葱、生菜、面包丁和奶酪丝，淋上油醋汁，并附赠一片皮塔饼！
   components:
   - type: FlavorProfile
     flavors:
@@ -242,10 +242,10 @@
           Quantity: 30
 
 - type: entity
-  name: kimchi salad
+  name: 泡菜沙拉
   parent: FoodBowlBase
   id: FoodSaladKimchi
-  description: It really is just a spicy salad.
+  description: 它其实就是一份辣味沙拉。
   components:
   - type: FlavorProfile
     flavors:
@@ -269,10 +269,10 @@
           Quantity: 2
 
 - type: entity
-  name: fruit salad
+  name: 水果沙拉
   parent: FoodBowlBase
   id: FoodSaladFruit
-  description: Your standard fruit salad.
+  description: 你的标准水果沙拉。
   components:
   - type: FlavorProfile
     flavors:
@@ -296,10 +296,10 @@
     - Soup
 
 - type: entity
-  name: jungle salad
+  name: 丛林沙拉
   parent: FoodBowlBase
   id: FoodSaladJungle
-  description: Exotic fruits in a bowl.
+  description: 一碗异国水果。
   components:
   - type: FlavorProfile
     flavors:
@@ -324,10 +324,10 @@
     - Soup
 
 - type: entity
-  name: citrus salad
+  name: 柑橘沙拉
   parent: FoodBowlBase
   id: FoodSaladCitrus
-  description: Citrus overload!
+  description: 柑橘满溢！
   components:
   - type: FlavorProfile
     flavors:
@@ -352,10 +352,10 @@
     - Soup
 
 - type: entity
-  name: salad of eden
+  name: 伊甸园沙拉
   parent: FoodBowlBase
   id: FoodSaladEden
-  description: A salad brimming with untapped potential.
+  description: 一份蕴藏着无限潜能的沙拉。
   components:
   - type: FlavorProfile
     flavors:
@@ -380,10 +380,10 @@
 # Rice
 
 - type: entity
-  name: boiled rice
+  name: 米饭
   parent: FoodBowlBase
   id: FoodRiceBoiled
-  description: A warm bowl of rice.
+  description: 一碗温热的米饭。
   components:
   - type: FlavorProfile
     flavors:
@@ -394,10 +394,10 @@
     - state: rice
 
 - type: entity
-  name: egg-fried rice
+  name: 蛋炒饭
   parent: FoodBowlBase
   id: FoodRiceEgg
-  description: A bowl of rice with a fried egg.
+  description: 一碗米饭配一个煎蛋。
   components:
   - type: FlavorProfile
     flavors:
@@ -424,10 +424,10 @@
     - Soup
 
 - type: entity
-  name: rice and pork
+  name: 米饭和猪肉
   parent: FoodBowlBase
   id: FoodRicePork
-  description: Well, it looks like pork...
+  description: 嗯，看起来像是猪肉……
   components:
   - type: FlavorProfile
     flavors:
@@ -456,10 +456,10 @@
     - Soup
 
 - type: entity
-  name: rice pudding
+  name: 大米布丁
   parent: FoodBowlBase
   id: FoodRicePudding
-  description: Everybody loves rice pudding!
+  description: 人人都爱吃大米布丁！
   components:
   - type: FlavorProfile
     flavors:
@@ -484,10 +484,10 @@
           Quantity: 5
 
 - type: entity
-  name: black-eyed gumbo
+  name: 黑眼秋葵汤
   parent: FoodBowlBase
   id: FoodRiceGumbo
-  description: A spicy and savory meat and rice dish.
+  description: 一道香辣可口的肉米饭。
   components:
   - type: FlavorProfile
     flavors:
@@ -518,10 +518,10 @@
 # Misc
 
 - type: entity
-  name: oatmeal
+  name: 燕麦片
   parent: FoodBowlBase
   id: FoodOatmeal
-  description: A nice bowl of oatmeal.
+  description: 一碗可口的燕麦粥。
   components:
   - type: FlavorProfile
     flavors:
@@ -544,10 +544,10 @@
           Quantity: 10
 
 - type: entity
-  name: space liberty duff
+  name: 太空自由达夫
   parent: FoodBowlBase
   id: FoodJellyDuff
-  description: Jello gelatin, from Alfred Hubbard's cookbook.
+  description: 果冻明胶，源自阿尔弗雷德·哈伯德的食谱书。
   components:
   - type: FlavorProfile
     flavors:
@@ -561,8 +561,8 @@
 - type: entity
   parent: FoodInjectableBase
   id: FoodJellyAmanita
-  name: amanita jelly
-  description: It's evil, don't touch it!
+  name: 鹅膏菌果冻
+  description: 这是邪恶的东西，别碰它！
   components:
   - type: Item
     size: Normal
@@ -587,10 +587,10 @@
 # Soup
 
 - type: entity
-  name: meatball soup
+  name: 肉丸汤
   parent: FoodBowlBase
   id: FoodSoupMeatball
-  description: You've got balls kid, BALLS!
+  description: 小子，你真有胆量，胆量过人！
   components:
   - type: FlavorProfile
     flavors:
@@ -616,10 +616,10 @@
     - Soup
 
 - type: entity
-  name: slime soup
+  name: 黏液汤
   parent: FoodBowlBase
   id: FoodSoupSlime
-  description: If no water is available, you may substitute tears.
+  description: 如果没有水，你可以用眼泪代替。
   components:
   - type: FlavorProfile
     flavors:
@@ -641,10 +641,10 @@
           Quantity: 10
 
 - type: entity
-  name: tomato soup
+  name: 番茄汤
   parent: FoodBowlBase
   id: FoodSoupTomatoBlood
-  description: Smells like copper... is that a bone?
+  description: 闻起来像铜的味道……那是骨头吗？
   components:
   - type: FlavorProfile
     flavors:
@@ -671,10 +671,10 @@
     - Soup
 
 - type: entity
-  name: wing fang chu
+  name: 文芳初
   parent: FoodBowlBase
   id: FoodSoupWingFangChu
-  description: A savory dish of alien wing wang in soy.
+  description: 一份酱油风味的外星翅膀王美味佳肴。
   components:
   - type: FlavorProfile
     flavors:
@@ -697,10 +697,10 @@
           Quantity: 10
 
 - type: entity
-  name: clown's tears
+  name: 小丑的眼泪
   parent: FoodBowlBase
   id: FoodSoupClown
-  description: Not very funny.
+  description: 不太好笑。
   components:
   - type: FlavorProfile
     flavors:
@@ -724,10 +724,10 @@
           Quantity: 1 # silly
 
 - type: entity
-  name: vegetable soup
+  name: 蔬菜汤
   parent: FoodBowlBase
   id: FoodSoupVegetable
-  description: A true vegan meal.
+  description: 一顿纯正的素食餐。
   components:
   - type: FlavorProfile
     flavors:
@@ -752,10 +752,10 @@
           Quantity: 4
 
 - type: entity
-  name: nettle soup
+  name: 荨麻汤
   parent: FoodBowlBase
   id: FoodSoupNettle
-  description: To think, the botanist would've beat you to death with one of these.
+  description: 想想看，那位植物学家差点就用其中一根把你打死了。
   components:
   - type: FlavorProfile
     flavors:
@@ -781,10 +781,10 @@
           Quantity: 4
 
 - type: entity
-  name: mystery soup
+  name: 神秘汤
   parent: FoodBowlBase
   id: FoodSoupMystery
-  description: The mystery is, why aren't you eating it?
+  description: 问题是，你为什么不吃它？
   components:
   - type: FlavorProfile
     flavors:
@@ -795,10 +795,10 @@
     - state: mystery
 
 - type: entity
-  name: bowl of hot chili
+  name: 一碗热腾腾的辣椒
   parent: FoodBowlBase
   id: FoodSoupChiliHot
-  description: A Texan five-alarm chili!
+  description: 一份德州五级警报辣味牛肉酱！
   components:
   - type: FlavorProfile
     flavors:
@@ -826,10 +826,10 @@
 
 
 - type: entity
-  name: cold chili
+  name: 凉拌辣椒
   parent: FoodBowlBase
   id: FoodSoupChiliCold
-  description: This slush is barely a liquid!
+  description: 这融雪简直算不上是液体！
   components:
   - type: FlavorProfile
     flavors:
@@ -853,10 +853,10 @@
     - ChiliBowl
 
 - type: entity
-  name: chili con carnival
+  name: 嘉年华辣肉酱
   parent: FoodBowlBase
   id: FoodSoupChiliClown
-  description: A delicious stew of meat, chilies, and salty, salty clown tears.
+  description: 一道美味的炖肉，配以辣椒和咸咸的小丑眼泪。
   components:
   - type: FlavorProfile
     flavors:
@@ -886,10 +886,10 @@
     - ChiliBowl
 
 - type: entity
-  name: monkey's delight
+  name: 猴子的喜悦
   parent: FoodBowlBase
   id: FoodSoupMonkey
-  description: A delicious soup with hunks of monkey meat simmered to perfection, in a broth that tastes faintly of bananas.
+  description: 一道美味的汤，大块的猴子肉炖得恰到好处，汤底带着淡淡的香蕉味。
   components:
   - type: FlavorProfile
     flavors:
@@ -918,10 +918,10 @@
     - Soup
 
 - type: entity
-  name: tomato soup
+  name: 番茄汤
   parent: FoodBowlBase
   id: FoodSoupTomato
-  description: Drinking this feels like being a vampire! A tomato vampire...
+  description: 喝这个感觉自己像个吸血鬼！番茄吸血鬼……
   components:
   - type: FlavorProfile
     flavors:
@@ -947,10 +947,10 @@
     - Soup
 
 - type: entity
-  name: eyeball soup
+  name: 眼球汤
   parent: FoodBowlBase
   id: FoodSoupEyeball
-  description: It's looking back at you...
+  description: 它正回头看着你……
   components:
   - type: FlavorProfile
     flavors:
@@ -975,10 +975,10 @@
     - Soup
 
 - type: entity
-  name: miso soup
+  name: 味噌汤
   parent: FoodBowlBase
   id: FoodSoupMiso
-  description: Salty, fishy soup, best had with ramen.
+  description: 咸腥鱼汤，与拉面同食最佳。
   components:
   - type: FlavorProfile
     flavors:
@@ -1008,10 +1008,10 @@
     - Soup
 
 - type: entity
-  name: mushroom soup
+  name: 蘑菇汤
   parent: FoodBowlBase
   id: FoodSoupMushroom
-  description: A delicious and hearty mushroom soup.
+  description: 一份美味而丰盛的蘑菇汤。
   components:
   - type: FlavorProfile
     flavors:
@@ -1035,10 +1035,10 @@
             Quantity: 5
 
 - type: entity
-  name: beet soup
+  name: 甜菜汤
   parent: FoodBowlBase
   id: FoodSoupBeet
-  description: Wait, how do you spell it again..?
+  description: 等等，你是怎么拼写它来着..？
   components:
   - type: Sprite
     layers:
@@ -1058,10 +1058,10 @@
 # Tastes like borsch, bortsch, borstch, borsh, borshch, borscht.
 
 - type: entity
-  name: red beet soup
+  name: 红甜菜汤
   parent: FoodBowlBase
   id: FoodSoupBeetRed
-  description: Quite a delicacy.
+  description: 真是美味。
   components:
   - type: Sprite
     layers:
@@ -1079,10 +1079,10 @@
 # Tastes like beet.
 
 - type: entity
-  name: stew
+  name: 炖
   parent: FoodBowlBase
   id: FoodSoupStew
-  description: A nice and warm stew. Healthy and strong.
+  description: 一份美味温暖的炖菜。健康又强壮。
   components:
   - type: FlavorProfile
     flavors:
@@ -1111,10 +1111,10 @@
     - Soup
 
 - type: entity
-  name: sweet potato soup
+  name: 红薯汤
   parent: FoodBowlBase
   id: FoodSoupPotato
-  description: Delicious sweet potato in soup form.
+  description: 汤状的美味红薯。
   components:
   - type: FlavorProfile
     flavors:
@@ -1135,10 +1135,10 @@
 # Tastes like sweet potato.
 
 - type: entity
-  name: french onion soup
+  name: 法式洋葱汤
   parent: FoodBowlBase
   id: FoodSoupOnion
-  description: Good enough to make a grown mime cry.
+  description: 好到能让一个成年的哑剧演员落泪。
   components:
   - type: FlavorProfile
     flavors:
@@ -1160,10 +1160,10 @@
             Quantity: 5
 
 - type: entity
-  name: bisque
+  name: 浓汤
   parent: FoodBowlBase
   id: FoodSoupBisque
-  description: A classic entrée from Space France.
+  description: 一道来自太空法国的经典主菜。
   components:
   - type: FlavorProfile
     flavors:
@@ -1190,8 +1190,8 @@
 - type: entity
   parent: FoodBowlBase
   id: FoodSoupElectron
-  name: electron soup
-  description: A gastronomic curiosity of ethereal origin.
+  name: 电子汤
+  description: 一道源自缥缈之境的美食奇品。
   components:
   - type: Item
     size: Normal
@@ -1217,10 +1217,10 @@
             Quantity: 6
 
 - type: entity
-  name: bungo curry
+  name: 文戈咖喱
   parent: FoodBowlBase
   id: FoodSoupBungo
-  description: A spicy vegetable curry made with the humble bungo fruit, Exotic!
+  description: 一道用不起眼的本戈果制成的辛辣蔬菜咖喱，异域风味！
   components:
   - type: FlavorProfile
     flavors:
@@ -1247,10 +1247,10 @@
 # Tastes like bungo, hot curry.
 
 - type: entity
-  name: escargot
+  name: 蜗牛
   parent: FoodBowlBase
   id: FoodSoupEscargot
-  description: A creamy and rich bowl of snails, bon appetit!
+  description: 一碗奶油般浓郁的法式蜗牛，祝您好胃口！
   components:
   - type: FlavorProfile
     flavors:

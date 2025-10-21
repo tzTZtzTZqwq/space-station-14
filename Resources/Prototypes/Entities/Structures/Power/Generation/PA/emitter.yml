@@ -1,8 +1,8 @@
 - type: entity
   parent: ParticleAcceleratorFinishedPart
   id: ParticleAcceleratorEmitterPort
-  name: PA port containment emitter
-  description: This launchs the Alpha particles, might not want to stand near this end.
+  name: PA端口密封发射器
+  description: 这一端会发射阿尔法粒子，最好不要站在附近。
   components:
   - type: Sprite
     sprite: Structures/Power/Generation/PA/emitter_port.rsi
@@ -15,8 +15,8 @@
 - type: entity
   parent: ParticleAcceleratorFinishedPart
   id: ParticleAcceleratorEmitterFore
-  name: PA fore containment emitter
-  description: This launchs the Alpha particles, might not want to stand near this end.
+  name: PA前安全壳发射器
+  description: 这次发射会释放阿尔法粒子，最好不要靠近这一端。
   components:
   - type: Sprite
     sprite: Structures/Power/Generation/PA/emitter_fore.rsi
@@ -29,8 +29,8 @@
 - type: entity
   parent: ParticleAcceleratorFinishedPart
   id: ParticleAcceleratorEmitterStarboard
-  name: PA starboard containment emitter
-  description: This launchs the Alpha particles, might not want to stand near this end.
+  name: PA右舷密封发射器
+  description: 这一端会发射阿尔法粒子，最好不要站在附近。
   components:
   - type: Sprite
     sprite: Structures/Power/Generation/PA/emitter_starboard.rsi
@@ -45,9 +45,9 @@
 - type: entity
   parent: ParticleAcceleratorUnfinishedBase
   id: ParticleAcceleratorEmitterPortUnfinished
-  name: PA port containment emitter
+  name: PA端口密封发射器
   suffix: Unfinished, Port
-  description: This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
+  description: 这次发射会释放阿尔法粒子，最好不要站在这一端附近。它看起来尚未完工。
   components:
   - type: Sprite
     sprite: Structures/Power/Generation/PA/emitter_port.rsi
@@ -58,9 +58,9 @@
 - type: entity
   parent: ParticleAcceleratorUnfinishedBase
   id: ParticleAcceleratorEmitterForeUnfinished
-  name: PA fore containment emitter
+  name: PA前安全壳发射器
   suffix: Unfinished, Fore
-  description: This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
+  description: 这次发射会释放阿尔法粒子，最好不要靠近这一端。它看起来尚未完工。
   components:
   - type: Sprite
     sprite: Structures/Power/Generation/PA/emitter_fore.rsi
@@ -71,9 +71,9 @@
 - type: entity
   parent: ParticleAcceleratorUnfinishedBase
   id: ParticleAcceleratorEmitterStarboardUnfinished
-  name: PA starboard containment emitter
+  name: PA右舷密封发射器
   suffix: Unfinished, Starboard
-  description: This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
+  description: 这次发射会释放阿尔法粒子，最好不要站在这一端附近。它看起来尚未完工。
   components:
   - type: Sprite
     sprite: Structures/Power/Generation/PA/emitter_starboard.rsi

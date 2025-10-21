@@ -1,4 +1,4 @@
-## IdCardComponent
+﻿## IdCardComponent
 
 access-id-card-component-owner-name-job-title-text = ID card{$jobSuffix}
 access-id-card-component-owner-full-name-job-title-text = {$fullName}'s ID card{$jobSuffix}

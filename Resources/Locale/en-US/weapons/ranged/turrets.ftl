@@ -1,13 +1,13 @@
-# Deployable turret component
-deployable-turret-component-activating = Deploying...
-deployable-turret-component-deactivating = Deactivating...
-deployable-turret-component-activate = Activate
-deployable-turret-component-deactivate = Deactivate
-deployable-turret-component-access-denied = Access denied
-deployable-turret-component-no-ammo = Weapon systems depleted
-deployable-turret-component-is-broken = The turret is heavily damaged and must be repaired
-deployable-turret-component-cannot-access-wires = You can't reach the maintenance panel while the turret is active 
+﻿#可部署炮塔组件
+deployable-turret-component-activating = 部署中...
+deployable-turret-component-deactivating = 停用中...
+deployable-turret-component-activate = 激活
+deployable-turret-component-deactivate = 停用
+deployable-turret-component-access-denied = 访问被拒绝
+deployable-turret-component-no-ammo = 武器系统耗尽
+deployable-turret-component-is-broken = 炮塔严重受损，必须进行修理。
+deployable-turret-component-cannot-access-wires = 你无法在炮塔激活时够到维护面板。
 
-# Turret notification for station AI
-station-ai-turret-component-name = {$name} ({$address})
-station-ai-turret-component-is-attacking-warning = {CAPITALIZE($source)} has engaged a hostile target.
+#站台AI的炮塔通知
+station-ai-turret-component-name = {$name}（{$address}）
+station-ai-turret-component-is-attacking-warning = {CAPITALIZE($source)}已与敌对目标交战。

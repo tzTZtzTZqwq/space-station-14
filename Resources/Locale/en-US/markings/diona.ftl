@@ -1,4 +1,4 @@
-marking-DionaThornsHead-thorns_head = Diona Head (Thorns)
+﻿marking-DionaThornsHead-thorns_head = Diona Head (Thorns)
 marking-DionaThornsHead = Diona Head (Thorns)
 
 marking-DionaThornsBody-thorns_body = Diona Chest (Thorns)

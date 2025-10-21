@@ -1,4 +1,4 @@
-access-overrider-window-privileged-id = Privileged ID:
+﻿access-overrider-window-privileged-id = Privileged ID:
 access-overrider-window-eject-button = Eject
 access-overrider-window-insert-button = Insert
 access-overrider-window-target-label = Connected device:

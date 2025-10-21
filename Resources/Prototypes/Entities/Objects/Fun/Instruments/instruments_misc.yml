@@ -1,8 +1,8 @@
 ﻿- type: entity
   parent: BaseHandheldInstrument
   id: MusicalLungInstrument
-  name: musical lung
-  description: The spiritual and magical lung of a former opera singer. Though, to be honest, the vocal chords make the performance.
+  name: 音乐肺
+  description: 一位前歌剧演员的精神与魔法之肺。不过，老实说，声带才是表演的关键。
   components:
   - type: Sprite
     sprite: Mobs/Species/Human/organs.rsi
@@ -15,8 +15,8 @@
 - type: entity
   parent: BaseHandheldInstrument
   id: SeashellInstrument
-  name: seashell
-  description: For laying down the shoreline beat.
+  name: 贝壳
+  description: 为了划定海岸线的巡逻区域。
   components:
   - type: Sprite
     sprite: Objects/Fun/Instruments/otherinstruments.rsi
@@ -29,8 +29,8 @@
 - type: entity
   parent: BaseHandheldInstrument
   id: BirdToyInstrument
-  name: bird whistle
-  description: A delightful little whistle in the shape of a bird. It sings beautifully.
+  name: 鸟哨
+  description: 一个鸟形的可爱小哨子，它唱得很动听。
   components:
   - type: Sprite
     sprite: Objects/Fun/Instruments/otherinstruments.rsi
@@ -44,8 +44,8 @@
 - type: entity
   parent: BaseHandheldInstrument
   id: PhoneInstrument
-  name: red phone
-  description: Should anything ever go wrong...
+  name: 红色电话
+  description: 万一出了什么问题……
   components:
   - type: Sprite
     sprite: Objects/Fun/Instruments/otherinstruments.rsi
@@ -66,8 +66,8 @@
 - type: entity
   parent: PhoneInstrument
   id: PhoneInstrumentSyndicate
-  name: blood-red phone
-  description: For evil people to call their friends.
+  name: 血红色的电话
+  description: 供恶人召唤同伴之用。
   components:
   - type: Sprite
     sprite: Objects/Fun/Instruments/blood_red_phone.rsi
@@ -79,8 +79,8 @@
 - type: entity
   parent: BaseHandheldInstrument
   id: HelicopterInstrument
-  name: toy helicopter
-  description: Ch-ka-ch-ka-ch-ka-ch-ka-ch-ka-ch-ka...
+  name: 玩具直升机
+  description: 查-咔-查-咔-查-咔-查-咔-查-咔-查-咔...
   components:
   - type: Sprite
     sprite: Objects/Fun/Instruments/otherinstruments.rsi
@@ -94,8 +94,8 @@
 - type: entity
   parent: BaseHandheldInstrument
   id: CannedApplauseInstrument
-  name: canned applause
-  description: Seems like someone already used it all up...
+  name: 预先录制的掌声
+  description: 看起来已经有人把它用完了……
   components:
   - type: Sprite
     sprite: Objects/Fun/Instruments/otherinstruments.rsi
@@ -108,8 +108,8 @@
 - type: entity
   parent: BaseHandheldInstrument
   id: GunpetInstrument
-  name: gunpet
-  description: Why do you need to examine this? Is it not self-explanatory?
+  name: 枪宠
+  description: 你为何需要审查这个？难道它本身还不够清楚吗？
   components:
   - type: Instrument
     program: 127
@@ -126,8 +126,8 @@
 - type: entity
   parent: BaseHandheldInstrument
   id: BikeHornInstrument
-  name: gilded bike horn
-  description: An exquisitely decorated bike horn, capable of honking in a variety of notes.
+  name: 镀金自行车喇叭
+  description: 一个装饰精美的自行车喇叭，能按不同音调鸣响。
   components:
   - type: Instrument
     program: 1
@@ -147,8 +147,8 @@
 - type: entity
   parent: PhoneInstrument
   id: BananaPhoneInstrument
-  name: banana phone
-  description: A direct line to the Honkmother. Seems to always go to voicemail.
+  name: 香蕉手机
+  description: 一条直通鸣喇叭母亲的专线。似乎总是转接到语音信箱。
   components:
   - type: Sprite
     state: banana_phone

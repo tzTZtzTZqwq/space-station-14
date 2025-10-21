@@ -1,8 +1,8 @@
 ﻿- type: entity
   parent: FireAxeCabinet
   id: ShotGunCabinet
-  name: shotgun cabinet
-  description: There is a small label that reads "For Emergency use only" along with details for safe use of the shotgun. As if.
+  name: 猎枪柜
+  description: 标签上写着"仅供紧急情况使用"，还有安全使用这把霰弹枪的细节。说得跟真的一样。
   components:
   - type: Sprite
     sprite: Structures/Wallmounts/shotgun_cabinet.rsi

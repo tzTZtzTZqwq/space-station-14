@@ -1,73 +1,73 @@
-trait-blindness-name = Blindness
-trait-blindness-desc = You are legally blind, and can't see clearly past a few meters in front of you.
+﻿trait-blindness-name = 失明
+trait-blindness-desc = 你患有法定失明，无法看清几米开外的事物。
 
-trait-poor-vision-name = Short-sighted
-trait-poor-vision-desc = Your eyes are not what they once were, you have difficulty seeing things far away without corrective glasses.
+trait-poor-vision-name = 近视
+trait-poor-vision-desc = 你的眼睛已不如从前，不戴矫正眼镜就看不清远处的东西。
 
-trait-narcolepsy-name = Narcolepsy
-trait-narcolepsy-desc = You fall asleep randomly.
+trait-narcolepsy-name = 发作性嗜睡病
+trait-narcolepsy-desc = 你会随机睡着。
 
-trait-pacifist-name = Pacifist
-trait-pacifist-desc = You cannot attack or hurt any living beings.
+trait-pacifist-name = 和平主义者
+trait-pacifist-desc = 你不能攻击或伤害任何生灵。
 
-permanent-blindness-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} eyes are glassy and unfocused. It doesn't seem like {SUBJECT($target)} can see you well, if at all.[/color]
+permanent-blindness-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))}双眼呆滞无神，目光无法聚焦。看起来{SUBJECT($target)}的视力很差，甚至可能完全看不见你。[/color]
 
-trait-lightweight-name = Lightweight drunk
-trait-lightweight-desc = Alcohol has a stronger effect on you.
+trait-lightweight-name = 轻量级醉态
+trait-lightweight-desc = 酒精对你的影响更为显著。
 
-trait-monochromacy-name = Monochromacy
-trait-monochromacy-desc = You are fully colorblind, everything you perceive ranges from blacks to whites.
+trait-monochromacy-name = 全色盲
+trait-monochromacy-desc = 你完全色盲，你所感知的一切都从黑色到白色不等。
 
-trait-muted-name = Muted
-trait-muted-desc = You can't speak.
+trait-muted-name = 静音
+trait-muted-desc = 你说不了话。
 
-trait-paracusia-name = Paracusia
-trait-paracusia-desc = You hear sounds that aren't really there.
+trait-paracusia-name = 幻听
+trait-paracusia-desc = 你听到的声音并非真实存在。
 
-trait-unrevivable-name = Unrevivable
-trait-unrevivable-desc = You are unable to be revived by defibrillators.
+trait-unrevivable-name = 无法复活
+trait-unrevivable-desc = 你无法通过除颤器复活。
 
-trait-pirate-accent-name = Pirate accent
-trait-pirate-accent-desc = You can't stop speaking like a pirate!
+trait-pirate-accent-name = 海盗口音
+trait-pirate-accent-desc = 你无法停止像海盗一样说话！
 
-trait-accentless-name = Accentless
-trait-accentless-desc = You don't have the accent that your species would usually have
+trait-accentless-name = 无口音
+trait-accentless-desc = 你没有你的物种通常会有的口音。
 
-trait-frontal-lisp-name = Frontal lisp
-trait-frontal-lisp-desc = You thpeak with a lithp.
+trait-frontal-lisp-name = 前位发音不清
+trait-frontal-lisp-desc = 你说话有点大舌头。
 
-trait-socialanxiety-name = Stutter
-trait-socialanxiety-desc = You speak with a stutter.
+trait-socialanxiety-name = 口吃
+trait-socialanxiety-desc = 你说话结结巴巴的。
 
-trait-southern-name = Southern drawl
-trait-southern-desc = You have a different way of speakin'.
+trait-southern-name = 南方口音
+trait-southern-desc = 您说话的方式与众不同。
 
-trait-snoring-name = Snoring
-trait-snoring-desc = You will snore while sleeping.
+trait-snoring-name = 打鼾
+trait-snoring-desc = 你会在睡觉时打鼾。
 
-trait-liar-name = Pathological liar
-trait-liar-desc = You can hardly bring yourself to tell the truth. Sometimes you lie anyway.
+trait-liar-name = 病态说谎者
+trait-liar-desc = 你几乎无法让自己说出真相。有时你还是会撒谎。
 
-trait-cowboy-name = Cowboy accent
-trait-cowboy-desc = You speak with a distinct cowboy accent!
+trait-cowboy-name = 牛仔口音
+trait-cowboy-desc = 你说话带着明显的牛仔口音！
 
-trait-german-name = German accent
-trait-german-desc = You seem to come from space Germany.
+trait-german-name = 德国口音
+trait-german-desc = 你似乎来自太空德国。
 
-trait-italian-name = Italian accent
-trait-italian-desc = Mamma mia! You seem to have lived in space Italy!
+trait-italian-name = 意大利口音
+trait-italian-desc = Mamma mia! 你似乎曾在太空意大利生活过！
 
-trait-french-name = French accent
-trait-french-desc = Your accent seems to have a certain «je ne sais quoi».
+trait-french-name = 法国口音
+trait-french-desc = 你的口音似乎有一种难以言喻的「je ne sais quoi」。
 
-trait-spanish-name = Spanish accent
+trait-spanish-name = 西班牙口音
 trait-spanish-desc = Hola señor, donde esta la biblioteca.
 
-trait-painnumbness-name = Numb
-trait-painnumbness-desc = You lack any sense of feeling pain, being unaware of how hurt you may be.
+trait-painnumbness-name = 麻木
+trait-painnumbness-desc = 你完全丧失了痛觉，无法意识到自己受伤的程度。
 
-trait-hemophilia-name = Hemophilia
-trait-hemophilia-desc = Your body fails to make blood clots.
+trait-hemophilia-name = 血友病
+trait-hemophilia-desc = 你的身体无法形成血凝块。
 
-trait-impaired-mobility-name = Impaired Mobility
-trait-impaired-mobility-desc = You have difficulty moving without a mobility aid.
+trait-impaired-mobility-name = 移动能力受损
+trait-impaired-mobility-desc = 没有行动辅具，您行动不便。

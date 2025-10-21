@@ -1,55 +1,55 @@
+﻿
+gun-selected-mode-examine = 当前选择的射击模式为[color={$color}]{$mode}[/color]。
+gun-fire-rate-examine = 射速为每秒[color={$color}]{$fireRate}[/color]。
+gun-selector-verb = 切换到{$mode}
+gun-selected-mode = 已选择{$mode}
+gun-disabled = 你不能使用枪支！
+gun-set-fire-mode = 设置为{$mode}
+gun-magazine-whitelist-fail = 那装不进这把枪里！
+gun-magazine-fired-empty = 没有剩余弹药！
 
-gun-selected-mode-examine = Current selected fire mode is [color={$color}]{$mode}[/color].
-gun-fire-rate-examine = Fire rate is [color={$color}]{$fireRate}[/color] per second.
-gun-selector-verb = Change to {$mode}
-gun-selected-mode = Selected {$mode}
-gun-disabled = You can't use guns!
-gun-set-fire-mode = Set to {$mode}
-gun-magazine-whitelist-fail = That won't fit into the gun!
-gun-magazine-fired-empty = No ammo left!
+#选择性开火
+gun-SemiAuto = 半自动
+gun-Burst = 连发
+gun-FullAuto = 全自动
 
-# SelectiveFire
-gun-SemiAuto = semi-auto
-gun-Burst = burst
-gun-FullAuto = full-auto
+#弹道弹药提供者
+gun-ballistic-cycle = 循环
+gun-ballistic-cycled = 循环
+gun-ballistic-cycled-empty = 已循环（空）
+gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))}无法装入{THE($targetEntity)}中！
+gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))}是空的。
+gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))}已完全装填完毕。
 
-# BallisticAmmoProvider
-gun-ballistic-cycle = Cycle
-gun-ballistic-cycled = Cycled
-gun-ballistic-cycled-empty = Cycled (empty)
-gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))} won't fit inside {THE($targetEntity)}!
-gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))} is empty.
-gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))} is already fully loaded.
+#弹药筒
+gun-cartridge-spent = 它是[color=red]已使用的[/color]。
+gun-cartridge-unspent = 它是[color=lime]未使用的[/color]。
 
-# CartridgeAmmo
-gun-cartridge-spent = It is [color=red]spent[/color].
-gun-cartridge-unspent = It is [color=lime]not spent[/color].
+#电池弹药供应器
+gun-battery-examine = 它拥有足够发射[color={$color}]{$count}[/color]次的能量。
 
-# BatteryAmmoProvider
-gun-battery-examine = It has enough charge for [color={$color}]{$count}[/color] shots.
+#弹药筒供弹器
+gun-chamber-bolt-ammo = 枪未上膛
+gun-chamber-bolt = 枪栓是[color={$color}]{$bolt}[/color]。
+gun-chamber-bolt-closed = 枪机闭锁
+gun-chamber-bolt-opened = 已开锁
+gun-chamber-bolt-close = 关闭枪栓
+gun-chamber-bolt-open = 打开枪栓
+gun-chamber-bolt-closed-state = 打开
+gun-chamber-bolt-open-state = 关闭
+gun-chamber-rack = 枪架
 
-# CartridgeAmmoProvider
-gun-chamber-bolt-ammo = Gun not bolted
-gun-chamber-bolt = The bolt is [color={$color}]{$bolt}[/color].
-gun-chamber-bolt-closed = Closed bolt
-gun-chamber-bolt-opened = Opened bolt
-gun-chamber-bolt-close = Close bolt
-gun-chamber-bolt-open = Open bolt
-gun-chamber-bolt-closed-state = open
-gun-chamber-bolt-open-state = closed
-gun-chamber-rack = Rack
+#杂志弹药提供者
+gun-magazine-examine = 它还剩[color={$color}]{$count}[/color]发子弹。
 
-# MagazineAmmoProvider
-gun-magazine-examine = It has [color={$color}]{$count}[/color] shots remaining.
+#左轮手枪弹药提供者
+gun-revolver-empty = 空左轮手枪
+gun-revolver-full = 左轮手枪满
+gun-revolver-insert = 已插入
+gun-revolver-spin = 旋转左轮手枪
+gun-revolver-spun = 旋转
+gun-speedloader-empty = 快速装弹器已空
 
-# RevolverAmmoProvider
-gun-revolver-empty = Empty revolver
-gun-revolver-full = Revolver full
-gun-revolver-insert = Inserted
-gun-revolver-spin = Spin revolver
-gun-revolver-spun = Spun
-gun-speedloader-empty = Speedloader empty
-
-# GunSpreadModifier
-examine-gun-spread-modifier-reduction = The spread has been reduced by [color=yellow]{$percentage}%[/color].
-examine-gun-spread-modifier-increase = The spread has been increased by [color=yellow]{$percentage}%[/color].
+#枪械扩散调整器
+examine-gun-spread-modifier-reduction = 散布范围已减少[color=yellow]{$percentage}%[/color]。
+examine-gun-spread-modifier-increase = 散布范围已增加[color=yellow]{$percentage}%[/color]。

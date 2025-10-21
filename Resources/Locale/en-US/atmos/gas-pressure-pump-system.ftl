@@ -1,2 +1,2 @@
-# Examine Text
-gas-pressure-pump-system-examined = The pump is set to [color={$statusColor}]{PRESSURE($pressure)}[/color].
+﻿#检查文本
+gas-pressure-pump-system-examined = 泵设置为[color={$statusColor}]{PRESSURE($pressure)}[/color]。

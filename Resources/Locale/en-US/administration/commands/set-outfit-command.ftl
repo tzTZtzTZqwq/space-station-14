@@ -1,4 +1,4 @@
-cmd-setoutfit-desc = Sets the outfit of the specified entity. The entity must have {INDEFINITE($requiredComponent)} {$requiredComponent}
-cmd-setoutfit-help = Usage: setoutfit <entityUid> | setoutfit <entityUid> <outfitId>
-cmd-setoutfit-is-not-player-error = This command requires both arguments to work from the server console.
-cmd-setoutfit-invalid-outfit-id-error = Invalid outfit id.
+﻿cmd-setoutfit-desc = 设置指定实体的外观。该实体必须拥有 {INDEFINITE($requiredComponent)} {$requiredComponent}
+cmd-setoutfit-help = 用法：setoutfit <entityUid> | setoutfit <entityUid> <outfitId>
+cmd-setoutfit-is-not-player-error = 此命令需要两个参数才能从服务器控制台运行。
+cmd-setoutfit-invalid-outfit-id-error = 无效的套装ID。

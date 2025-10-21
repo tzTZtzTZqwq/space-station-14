@@ -1,19 +1,19 @@
-objectives-round-end-result = {$count ->
-    [one] There was one {$agent}.
-    *[other] There were {$count} {MAKEPLURAL($agent)}.
+﻿objectives-round-end-result = {$count ->
+    [one] 有一个{$agent}。
+    *[other] 有{$count}个{MAKEPLURAL($agent)}。
 }
 
-objectives-round-end-result-in-custody = {$custody} out of {$count} {MAKEPLURAL($agent)} were in custody.
+objectives-round-end-result-in-custody = {$custody} / {$count} 名{MAKEPLURAL($agent)}已被拘留。
 
 objectives-player-user-named = [color=White]{$name}[/color] ([color=gray]{$user}[/color])
 objectives-player-named = [color=White]{$name}[/color]
 
-objectives-no-objectives = {$custody}{$title} was a {$agent}.
-objectives-with-objectives = {$custody}{$title} was a {$agent} who had the following objectives:
+objectives-no-objectives = {$custody}{$title} 曾是一名 {$agent}。
+objectives-with-objectives = {$custody}{$title}曾是一名{$agent}，其任务目标如下：
 
-objectives-objective-success = {$objective} | [color=green]Success![/color] ({TOSTRING($progress, "P0")})
-objectives-objective-partial-success = {$objective} | [color=yellow]Partial Success![/color] ({TOSTRING($progress, "P0")})
-objectives-objective-partial-failure = {$objective} | [color=orange]Partial Failure![/color] ({TOSTRING($progress, "P0")})
-objectives-objective-fail = {$objective} | [color=red]Failure![/color] ({TOSTRING($progress, "P0")})
+objectives-objective-success = {$objective} | [color=green]成功！[/color] ({TOSTRING($progress, "P0")})
+objectives-objective-partial-success = {$objective} | [color=yellow]部分成功！[/color] ({TOSTRING($progress, "P0")})
+objectives-objective-partial-failure = {$objective} | [color=orange]部分失败！[/color] ({TOSTRING($progress, "P0")})
+objectives-objective-fail = {$objective} | [color=red]失败！[/color] ({TOSTRING($progress, "P0")})
 
-objectives-in-custody = [bold][color=red]| IN CUSTODY | [/color][/bold]
+objectives-in-custody = [bold][color=red]| 拘押中 | [/color][/bold]

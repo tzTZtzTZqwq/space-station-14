@@ -1,8 +1,8 @@
-## Survivor
+﻿## 幸存者
 
-roles-antag-survivor-name = Survivor
-# It's a Halo reference
-roles-antag-survivor-objective = Current Objective: Survive
+roles-antag-survivor-name = 幸存者
+#这是一个光环梗
+roles-antag-survivor-objective = 当前目标：生存
 
 survivor-role-greeting =
     You are a Survivor.
@@ -16,14 +16,12 @@ survivor-round-end-dead-count =
         [one] [color=red]{$deadCount}[/color] survivor died.
         *[other] [color=red]{$deadCount}[/color] survivors died.
 }
-
 survivor-round-end-alive-count =
 {
     $aliveCount ->
         [one] [color=yellow]{$aliveCount}[/color] survivor was marooned on the station.
         *[other] [color=yellow]{$aliveCount}[/color] survivors were marooned on the station.
 }
-
 survivor-round-end-alive-on-shuttle-count =
 {
     $aliveCount ->
@@ -31,15 +29,15 @@ survivor-round-end-alive-on-shuttle-count =
         *[other] [color=green]{$aliveCount}[/color] survivors made it out alive.
 }
 
-## Wizard
+## 巫师
 
-objective-issuer-swf = [color=turquoise]The Space Wizards Federation[/color]
+objective-issuer-swf = [color=turquoise]太空巫师联合会[/color]
 
-wizard-title = Wizard
-wizard-description = There's a Wizard on the station! You never know what they might do.
+wizard-title = 向导
+wizard-description = 车站上有一位巫师！你永远不知道他们可能会做什么。
 
-roles-antag-wizard-name = Wizard
-roles-antag-wizard-objective = Teach them a lesson they'll never forget.
+roles-antag-wizard-name = 巫师
+roles-antag-wizard-objective = 给他们一个永生难忘的教训。
 
 wizard-role-greeting =
     YER A WIZARD!
@@ -48,6 +46,6 @@ wizard-role-greeting =
     Give them a good demonstration of your powers.
     What you do is up to you, just remember the Space Wizards want you to make it out alive.
 
-wizard-round-end-name = wizard
+wizard-round-end-name = 巫师
 
-## TODO: Wizard Apprentice (Coming sometime post-wizard release)
+## TODO: 巫师学徒（巫师版本发布后某个时间推出）

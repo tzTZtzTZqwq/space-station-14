@@ -1,21 +1,21 @@
-hand-labeler-ui-header = Hand Labeler
+﻿hand-labeler-ui-header = 手动贴标机
 
-# The content of the label in the UI above the text entry input.
-hand-labeler-current-text-label = Label:
+#文本输入框上方界面标签的内容。
+hand-labeler-current-text-label = 标签:
 
-# When the hand labeler applies a label successfully
-hand-labeler-successfully-applied = Applied label successfully
+#当手动贴标机成功应用标签时
+hand-labeler-successfully-applied = 标签应用成功
 
-# When the hand labeler removes a label successfully
-hand-labeler-successfully-removed = Removed label successfully
+#当手动贴标机成功移除标签时
+hand-labeler-successfully-removed = 标签已成功移除
 
-# Appended to the description of an object with a label on input
-hand-labeler-has-label = This object has a label on it, which reads '{$label}'
+#附加到带有输入标签的对象描述上
+hand-labeler-has-label = 该物体上贴有一个标签，上面写着'{$label}'
 
-# Verb text
-hand-labeler-remove-label-text = Remove label
-hand-labeler-add-label-text = Apply label
+#动词文本
+hand-labeler-remove-label-text = 移除标签
+hand-labeler-add-label-text = 应用标签
 
-# Shown when the labeler is examined
-hand-labeler-examine-blank = The label text is blank.
-hand-labeler-examine-label-text = The label text is '{$label-text}'.
+#在标注者被检查时显示
+hand-labeler-examine-blank = 标签文本为空。
+hand-labeler-examine-label-text = 标签文本为'{$label-text}'。

@@ -5,7 +5,7 @@
   abstract: true
   parent: FoodInjectableBase
   id: FoodNoodlesBase
-  description: Now that's a nice pasta!
+  description: 这意面可真不错！
   components:
   - type: Item
     shape:
@@ -25,8 +25,8 @@
 - type: entity
   parent: FoodNoodlesBase
   id: FoodNoodlesBoiled
-  name: boiled spaghetti
-  description: A plain dish of noodles, this needs more ingredients.
+  name: 煮熟的意大利面
+  description: 一碗素面，配料还需丰富些。
   components:
   - type: Item
     storedOffset: 0,-4
@@ -40,8 +40,8 @@
 - type: entity
   parent: FoodNoodlesBase
   id: FoodNoodles
-  name: spaghetti
-  description: Spaghetti and crushed tomatoes. Just like your abusive father used to make!
+  name: 意大利面
+  description: 意大利面和碎番茄。就像你那虐待成性的父亲常做的那样！
   components:
   - type: Item
     storedOffset: 0,-4
@@ -66,8 +66,8 @@
 - type: entity
   parent: FoodNoodlesBase
   id: FoodNoodlesCopy
-  name: copypasta
-  description: You probably shouldn't try this, you always hear people talking about how bad it is...
+  name: 复制粘贴文本
+  description: 你大概不该尝试这个，总听人们议论它有多糟糕……
   components:
   - type: Item
     size: Normal
@@ -94,8 +94,8 @@
 - type: entity
   parent: FoodNoodlesBase
   id: FoodNoodlesMeatball
-  name: spaghetti and meatballs
-  description: Now that's a nice-a meatball!
+  name: 意大利面和肉丸
+  description: 这才是个像样的肉丸子！
   components:
   - type: Item
     storedOffset: 0,-4
@@ -122,8 +122,8 @@
 - type: entity
   parent: FoodNoodlesBase
   id: FoodNoodlesSpesslaw
-  name: spesslaw
-  description: A lawyer's favourite.
+  name: 斯佩斯劳
+  description: 律师的最爱。
   components:
   - type: Item
     storedOffset: 0,-4
@@ -145,10 +145,10 @@
 # Tastes like pasta, meat.
 
 - type: entity
-  name: chow mein
+  name: 炒面
   parent: FoodNoodlesBase
   id: FoodNoodlesChowmein
-  description: A nice mix of noodles and fried vegetables.
+  description: 面条和炒蔬菜的美妙搭配。
   components:
   - type: FlavorProfile
     flavors:
@@ -174,8 +174,8 @@
 - type: entity
   parent: FoodNoodlesBase
   id: FoodNoodlesButter
-  name: butter noodles
-  description: Noodles covered in savory butter. Simple and slippery, but delicious.
+  name: 黄油面条
+  description: 面条裹着咸香的黄油，简单滑溜，却美味无比。
   components:
   - type: Item
     storedOffset: 0,-4

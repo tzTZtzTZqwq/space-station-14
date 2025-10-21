@@ -1,2 +1,2 @@
-suspicion-title = Suspicion
-suspicion-description = Suspicion on the Space Station. There are traitors on board... Can you kill them before they kill you?
+﻿suspicion-title = 猜疑
+suspicion-description = 对空间站的怀疑。船上有内鬼……你能在他们杀掉你之前先干掉他们吗？

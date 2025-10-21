@@ -1,1 +1,1 @@
-candle-extinguish-failed = The flame flickers, but it doesn't go out
+﻿candle-extinguish-failed = 烛火摇曳，却未熄灭

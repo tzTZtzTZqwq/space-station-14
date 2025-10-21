@@ -1,3 +1,3 @@
-﻿cmd-showrules-desc = Opens the rules popup for the specified player.
-cmd-showrules-help = Usage: showrules <username> [seconds]
-cmd-showrules-invalid-seconds = {$seconds} is not a valid number of seconds!
+﻿cmd-showrules-desc = 打开指定玩家的规则弹窗。
+cmd-showrules-help = 用法：showrules <username> [seconds]
+cmd-showrules-invalid-seconds = {$seconds} 不是一个有效的秒数！

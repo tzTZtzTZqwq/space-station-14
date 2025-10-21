@@ -10,8 +10,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobAtmospherictechnician
-  name: atmospheric technician lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as an atmospheric technician. Smells faintly of frezon.
+  name: 大气技师蜥蜴毛绒玩具
+  description: 一个可爱的蜥蜴人造型毛绒玩具，扮演着氛围技工的角色，身上隐约散发着氟利昂的气味。
   components:
   - type: Sprite
     state: atmospherictechnician
@@ -19,8 +19,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobBartender
-  name: bartender lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a bartender. Its tongue has alcohol stains on it.
+  name: 酒保蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，形似蜥蜴人酒保，舌头上还留有酒精渍。
   components:
   - type: Sprite
     state: bartender
@@ -28,8 +28,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobBotanist
-  name: botanist lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a botanist. There's prickly bits on its feet and it smells faintly of plant fertilizer.
+  name: 植物学家蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像一位植物学家蜥蜴人。它的脚上有刺状突起，还隐约散发着植物肥料的气味。
   components:
   - type: Sprite
     state: botanist
@@ -37,8 +37,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobBoxer
-  name: boxer lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a boxer. The threads on its gloves are starting to come loose.
+  name: 拳师蜥毛绒玩具
+  description: 一只可爱的蜥蜴人拳击手造型毛绒玩具，它手套上的缝线正开始松动。
   components:
   - type: Sprite
     state: boxer
@@ -46,8 +46,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobCaptain
-  name: captain lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as the captain. There's bits of pie on its face.
+  name: 蜥蜴队长毛绒玩具
+  description: 一个可爱的毛绒玩具，形似蜥蜴人船长，脸上还沾着些许馅饼屑。
   components:
   - type: Sprite
     state: captain
@@ -55,8 +55,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobCargotechnician
-  name: cargo technician lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a cargo technician. Crumbs of packing peanuts are stuck to its scales.
+  name: 货物技术员蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像一位货运技术员的蜥蜴人。包装泡沫碎屑粘在它的鳞片上。
   components:
   - type: Sprite
     state: cargotechnician
@@ -64,8 +64,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobChaplain
-  name: chaplain lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a chaplain. It smells faintly of incense.
+  name: 牧师蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像一位蜥蜴人牧师，散发着淡淡的熏香气味。
   components:
   - type: Sprite
     state: chaplain
@@ -73,8 +73,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobChef
-  name: chef lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a chef. It smells faintly of spices, with spots of oil on its apron.
+  name: 蜥蜴厨师毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像一位蜥蜴人厨师。它身上隐约散发着香料的气味，围裙上还有几处油渍。
   components:
   - type: Sprite
     state: chef
@@ -82,8 +82,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobChemist
-  name: chemist lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a chemist. Parts of the plushie are stained with chemicals.
+  name: 化学家蜥蜴毛绒玩具
+  description: 一个可爱的蜥蜴人化学家造型毛绒玩具，玩偶部分区域带有化学试剂沾染的痕迹。
   components:
   - type: Sprite
     state: chemist
@@ -91,8 +91,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobChiefengineer
-  name: chief engineer lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as the chief engineer. It's covered in metal shavings and welding splatter.
+  name: 首席工程师蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，形似蜥蜴人担任总工程师的模样。它满身沾着金属碎屑和焊接溅斑。
   components:
   - type: Sprite
     state: chiefengineer
@@ -100,8 +100,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobChiefmedicalofficer
-  name: chief medical officer lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as the chief medical officer. The plushie's tail has been sewn off and on again, probably from practicing surgery.
+  name: 首席医疗官蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形酷似蜥蜴人担任首席医疗官。这个玩偶的尾巴被反复缝合过，大概是在练习外科手术时留下的痕迹。
   components:
   - type: Sprite
     state: chiefmedicalofficer
@@ -109,8 +109,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobClown
-  name: clown lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a clown. Its nose squeaks when you press it.
+  name: 小丑蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像扮成小丑的蜥蜴人。按压它的鼻子时还会发出吱吱声。
   components:
   - type: Sprite
     state: clown
@@ -127,8 +127,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobDetective
-  name: detective lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a detective. Seems ready for a mystery.
+  name: 侦探蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像侦探装扮的蜥蜴人。似乎已准备好解开谜团。
   components:
   - type: Sprite
     state: detective
@@ -136,8 +136,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobHeadofpersonnel
-  name: head of personnel lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as the head of personnel. While it seems thrilled on the outside, it's probably just as bored as you are.
+  name: 人事主管蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形酷似蜥蜴人担任人事主管的角色。虽然它表面看起来兴高采烈，但内心可能和你一样百无聊赖。
   components:
   - type: Sprite
     state: headofpersonnel
@@ -145,8 +145,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobHeadofsecurity
-  name: head of security lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as the head of security. It seems to have been ripped and re-stitched a few times.
+  name: 安保主管蜥蜴玩偶
+  description: 一个可爱的毛绒玩具，外形像蜥蜴人保安队长。它似乎被撕破并重新缝合了好几次。
   components:
   - type: Sprite
     state: headofsecurity
@@ -154,8 +154,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobJanitor
-  name: janitor lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a janitor. It smells faintly of cleaning supplies.
+  name: 清洁工蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像蜥蜴人扮演的保洁员，隐约散发着清洁用品的淡淡气味。
   components:
   - type: Sprite
     state: janitor
@@ -163,8 +163,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobLawyer
-  name: lawyer lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a lawyer. Its lawyer pin is barely hanging on from hours of fidgeting.
+  name: 律师蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像一位蜥蜴人律师。它的律师徽章因长时间被摆弄而摇摇欲坠。
   components:
   - type: Sprite
     state: lawyer
@@ -172,8 +172,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobLibrarian
-  name: librarian lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a librarian. The color of the plushie has faded from years of desk-watching.
+  name: 图书管理员蜥蜴毛绒玩具
+  description: 一只可爱的蜥蜴人图书管理员造型毛绒玩具。因常年静立书桌，绒毛颜色已微微褪淡。
   components:
   - type: Sprite
     state: librarian
@@ -181,8 +181,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobMedicaldoctor
-  name: medical doctor lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a medical doctor. Seems to be well-washed.
+  name: 医生蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像一位蜥蜴人医生。看起来被清洗得很干净。
   components:
   - type: Sprite
     state: medicaldoctor
@@ -190,8 +190,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobMedicalintern
-  name: medical intern lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a medical intern. It smells faintly of antiseptic.
+  name: 医学实习生蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像一位医疗实习生的蜥蜴人，身上还隐约散发着消毒水的气味。
   components:
   - type: Sprite
     state: medicalintern
@@ -199,8 +199,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobMime
-  name: mime lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a mime. It stares at you silently, its motives unknown.
+  name: 拟真蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形酷似扮成哑剧演员的蜥蜴人。它静静地凝视着你，动机不明。
   components:
   - type: Sprite
     state: mime
@@ -219,8 +219,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobMusician
-  name: musician lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a musician. It smells faintly of sweat and has a few strings coming loose.
+  name: 音乐家蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像一位音乐家蜥蜴人。它隐约散发着汗味，还有几根线头松脱了。
   components:
   - type: Sprite
     state: musician
@@ -228,8 +228,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobParamedic
-  name: paramedic lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a paramedic. The plushie has a few little bandages sewn on it.
+  name: 护理蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像蜥蜴人急救员。这个玩偶身上缝着几片小绷带。
   components:
   - type: Sprite
     state: paramedic
@@ -237,8 +237,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobPassenger
-  name: passenger lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a passenger. Its eyes look at you, a little bit more beady than the rest.
+  name: 乘客蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，形似蜥蜴人乘客。它的眼睛注视着你，比其他的更显圆亮。
   components:
   - type: Sprite
     state: passenger
@@ -246,8 +246,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobPsychologist
-  name: psychologist lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a psychologist. It seems to like to quietly listen to you.
+  name: 心理学家蜥蜴毛绒玩具
+  description: 一只可爱的蜥蜴人心理医生造型毛绒玩具，它似乎喜欢安静地倾听你的心事。
   components:
   - type: Sprite
     state: psychologist
@@ -255,8 +255,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobQuartermaster
-  name: quartermaster lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as the quartermaster. Its covered in sticky residue left behind from thousands of shipment invoices.
+  name: 军需官蜥蜴毛绒玩具
+  description: 一个可爱的蜥蜴人造型军需官毛绒玩具，表面沾满了数千张货运单据留下的黏腻痕迹。
   components:
   - type: Sprite
     state: quartermaster
@@ -264,8 +264,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobReporter
-  name: reporter lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a reporter. It smells faintly of ink.
+  name: 记者蜥蜴毛绒玩具
+  description: 一个可爱的蜥蜴人记者造型毛绒玩具，散发着淡淡的墨水气息。
   components:
   - type: Sprite
     state: reporter
@@ -273,8 +273,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobResearchassistant
-  name: research assistant lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a research assistant. It smells faintly of burnt paper.
+  name: 研究助理蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，形似蜥蜴人研究助理，散发着淡淡的烧纸气味。
   components:
   - type: Sprite
     state: researchassistant
@@ -282,8 +282,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobResearchdirector
-  name: research director lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as the research director. There's a few burn marks on the plushie.
+  name: 研究主管蜥蜴毛绒玩具
+  description: 一只可爱的蜥蜴人研究主任造型毛绒玩具，玩偶表面有几处烧焦的痕迹。
   components:
   - type: Sprite
     state: researchdirector
@@ -291,8 +291,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobSalvagespecialist
-  name: salvage specialist lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a salvage specialist. Seems like it's seen the coldness of space for a while.
+  name: 抢救专家蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像是一位打捞专家的蜥蜴人。看起来它已经在太空中见识过一阵子寒冷了。
   components:
   - type: Sprite
     state: salvager
@@ -300,8 +300,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobScientist
-  name: scientist lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a scientist. There's a few bite marks on the plushie, probably from a curious monkey.
+  name: 科学家蜥蜴毛绒玩具
+  description: 一只可爱的蜥蜴人科学家造型毛绒玩具。玩偶身上有几处咬痕，可能来自某只好奇的猴子。
   components:
   - type: Sprite
     state: scientist
@@ -309,8 +309,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobSecuritycadet
-  name: security cadet lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a security cadet. Seems to have shock marks across the plushie.
+  name: 安全学员蜥蜴毛绒玩具
+  description: 一款可爱的蜥蜴人造型保安学员毛绒玩具，布偶表面似乎带有电击痕迹。
   components:
   - type: Sprite
     state: securitycadet
@@ -318,8 +318,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobSecurityofficer
-  name: security officer lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a security officer. The stuffing has been padded down from a lot of punching.
+  name: 安全官员蜥蜴毛绒玩具
+  description: 一只可爱的蜥蜴人造型保安毛绒玩具。因长期击打，内部填充物已被压实。
   components:
   - type: Sprite
     state: securityofficer
@@ -327,8 +327,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobServiceworker
-  name: service worker lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a service worker. Smells like a mix of cleaning supplies and food.
+  name: 服务工作者蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像蜥蜴人服务生。闻起来像是清洁用品和食物的混合气味。
   components:
   - type: Sprite
     state: serviceworker
@@ -336,8 +336,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobStationengineer
-  name: station engineer lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a station engineer. It has oil stains on its hands.
+  name: 站点工程师蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像一位车站工程师蜥蜴人，手上还沾着油渍。
   components:
   - type: Sprite
     state: stationengineer
@@ -345,8 +345,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobTechnicalassistant
-  name: technical assistant lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a technical assistant. It smells faintly of burnt wires.
+  name: 技术助理蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，外形像一位蜥蜴人技术助理，隐约散发着烧焦电线的气味。
   components:
   - type: Sprite
     state: technicalassistant
@@ -354,8 +354,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobWarden
-  name: warden lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a warden. Smells like black powder and gun oil.
+  name: 典狱长蜥蜴毛绒玩具
+  description: 一个可爱的蜥蜴人狱卒造型毛绒玩具，散发着黑火药和枪油的气味。
   components:
   - type: Sprite
     state: warden
@@ -363,8 +363,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobZookeeper
-  name: zookeeper lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as a zookeeper. It has some gorilla fur stuck to it.
+  name: 动物园管理员蜥蜴毛绒玩具
+  description: 一个可爱的毛绒玩具，形似蜥蜴人扮演的动物园管理员，身上还粘着一些猩猩的毛发。
   components:
   - type: Sprite
     state: zookeeper
@@ -372,8 +372,8 @@
 - type: entity
   parent: BasePlushieLizardJob
   id: PlushieLizardJobMultiweh
-  name: multiweh lizard plushie
-  description: An adorable stuffed toy that resembles a lizardperson as every job! It's a plushie of many talents. You can hear a HoP crying in the distance.
+  name: 多刺蜥蜴毛绒玩具
+  description: 一款可爱的蜥蜴人造型毛绒玩具，身兼百职！这是多才多艺的萌宠玩偶。隐约能听见远处人事主管的啜泣声。
   components:
   - type: Sprite
     state: multiweh

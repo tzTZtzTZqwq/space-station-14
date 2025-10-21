@@ -1,6 +1,6 @@
-﻿cmd-forcemap-desc = Forces the game to start with a given map next round.
-cmd-forcemap-help = Usage: forcemap <map ID>
-cmd-forcemap-success = Forced the game to start with map { $map } next round.
-cmd-forcemap-cleared = Cleared the forced map setting.
-cmd-forcemap-map-not-found = No eligible map exists with name { $map }.
+﻿cmd-forcemap-desc = 强制游戏在下一回合开始时使用指定地图。
+cmd-forcemap-help = 用法：forcemap <map ID>
+cmd-forcemap-success = 已强制游戏在下一轮使用地图 { $map } 开始。
+cmd-forcemap-cleared = 已清除强制地图设置。
+cmd-forcemap-map-not-found = 不存在符合条件的名为{ $map }的地图。
 cmd-forcemap-hint = <map ID>

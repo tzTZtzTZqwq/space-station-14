@@ -1,21 +1,21 @@
-### Generic, general words, which fit into multiple contexts
+﻿### 通用词汇，适用于多种语境
 
 generic-not-available-shorthand = N/A
-generic-article-a = a
-generic-article-an = an
+generic-article-a = 一个
+generic-article-an = 一个
 
-generic-and = and
-generic-or = or
+generic-and = 和
+generic-or = 或
 
-generic-unknown = unknown
-generic-unknown-title = Unknown
-generic-error = error
-generic-invalid = invalid
+generic-unknown = 未知
+generic-unknown-title = 未知
+generic-error = 错误
+generic-invalid = 无效
 
-generic-hours = hours
-generic-minutes = minutes
-generic-seconds = seconds
+generic-hours = 小时
+generic-minutes = 分钟
+generic-seconds = 秒
 
-generic-playtime-title = Playtime
+generic-playtime-title = 游戏时间
 
-generic-confirm = Confirm
+generic-confirm = 确认

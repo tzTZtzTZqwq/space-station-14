@@ -1,24 +1,24 @@
+﻿
+## 守护者主机特定
 
-## Guardian host specific
+guardian-created = 你感觉……被什么东西<萦绕>着。
+guardian-already-present-invalid-creation = 你不能再重温那段令人难以忘怀的经历！
+guardian-no-actions-invalid-creation = 你没有能力寄养守护者！
+guardian-activator-empty-invalid-creation = 注入器已耗尽。
+guardian-activator-empty-examine = [color=#ba1919]注射器已耗尽。[/color]
+guardian-activator-invalid-target = {CAPITALIZE(THE($entity))}无法被注入！
+guardian-no-soul = 你的守护灵没有灵魂。
+guardian-available = 你的守护者现在拥有了灵魂。
+guardian-inside-container = 没有空间释放你的守护者！
 
-guardian-created = You feel... Haunted.
-guardian-already-present-invalid-creation = You are NOT re-living that haunting experience!
-guardian-no-actions-invalid-creation = You don't have the ability to host a guardian!
-guardian-activator-empty-invalid-creation = The injector is spent.
-guardian-activator-empty-examine = [color=#ba1919]The injector is spent.[/color]
-guardian-activator-invalid-target = {CAPITALIZE(THE($entity))} cannot be injected!
-guardian-no-soul = Your guardian has no soul.
-guardian-available = Your guardian now has a soul.
-guardian-inside-container = There's no room to release your guardian!
+## 守护者实体特定
 
-## Guardian entity specific
+guardian-entity-recall = 守护者凭空消失了！
+guardian-entity-taking-damage = 你的守护者正在受到伤害！
 
-guardian-entity-recall = The guardian vanishes into thin air!
-guardian-entity-taking-damage = Your guardian is taking damage!
-
-## Health warnings
-guardian-host-critical-warn = YOUR HOST IS WOUNDED!
-guardian-host-death-warn = YOUR FORM SUCCUMBS TO NONEXISTENCE!
-guardian-death-warn = YOUR BODY IS PIERCED BY SUBATOMIC PAIN AS IT DISINTEGRATES!
-guardian-attack-host = You cannot attack your host.
+## 健康警告
+guardian-host-critical-warn = 你的主机受伤了！
+guardian-host-death-warn = 你的形态消逝于虚无之中！
+guardian-death-warn = 你的身体被亚原子痛苦刺穿，同时它正在瓦解！
+guardian-attack-host = 你不能攻击你的宿主。
 

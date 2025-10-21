@@ -1,18 +1,18 @@
-inner-anomaly-start-message-pyro = You can feel the insane flame inside of you. You became the host of a pyroclastic anomaly.
-inner-anomaly-start-message-shock = Lightning bolts quivering at your fingertips! You became the host of a electric anomaly.
-inner-anomaly-start-message-shadow = There's an impenetrable darkness oozing out of you... You became the host of a shadow anomaly.
-inner-anomaly-start-message-frost = The icy frost is binding your bones. You became the host of a ice anomaly.
-inner-anomaly-start-message-flora = Leaves and flowers sprout through your skin! You became the host of a floral anomaly.
-inner-anomaly-start-message-bluespace = Your thoughts are racing like mad! You became the host of a bluespace anomaly.
-inner-anomaly-start-message-flesh = Your body is growing frantically. You became the host of a flesh anomaly.
-inner-anomaly-start-message-grav = Everything becames unnaturally heavy and light at the same time... You became the host of a gravity anomaly.
-inner-anomaly-start-message-tech = Your head is buzzing with the amount of chaotic information! You became the host of a tech anomaly.
-inner-anomaly-start-message-rock = The crystals are growing through your bones! You became the host of a rock anomaly.
-inner-anomaly-start-message-santa = You're becoming obsessed with the Christmas spirit! You became the host of a Christmas anomaly.
+﻿inner-anomaly-start-message-pyro = 你能感受到体内疯狂的火焰。你成为了一个火山碎屑异常体的宿主。
+inner-anomaly-start-message-shock = 闪电在你的指尖颤抖！你成为了一个电力异常的主宰。
+inner-anomaly-start-message-shadow = 有一股无法穿透的黑暗正从你体内渗出……你成为了暗影异常的宿主。
+inner-anomaly-start-message-frost = 刺骨的冰霜正束缚着你的骨骼。你已成为冰相异常的宿主。
+inner-anomaly-start-message-flora = 叶子和花朵从你的皮肤中迸发而出！你已成为植物异常体的宿主。
+inner-anomaly-start-message-bluespace = 你的思绪疯狂地加速！你成为了蓝空异常现象的宿主。
+inner-anomaly-start-message-flesh = 你的身体正在疯狂地生长。你已成为血肉异常的宿主。
+inner-anomaly-start-message-grav = 一切同时变得异常沉重与轻盈……你成为了重力异常的宿主。
+inner-anomaly-start-message-tech = 你的脑袋因大量混乱信息嗡嗡作响！你成为了一个<tech>异常的宿主。
+inner-anomaly-start-message-rock = 晶体正从你的骨头中生长出来！你成为了岩石异象的宿主。
+inner-anomaly-start-message-santa = 你开始对圣诞精神着迷了！你成为了圣诞异常的宿主。
 
-inner-anomaly-end-message = The abnormal activity within you disappears without a trace....
+inner-anomaly-end-message = 你体内的异常活动已消失得无影无踪....
 
-inner-anomaly-severity-info-50 = You feel that the anomaly is taking over half your body.
-inner-anomaly-severity-info-75 = You feel that the anomaly is taking over a large part of your body.
-inner-anomaly-severity-info-90 = You feel that the anomaly has almost completely taken over your body.
-inner-anomaly-severity-info-100 = The anomaly inside you is growing uncontrollably, causing immense pain, and tearing you apart!
+inner-anomaly-severity-info-50 = 你感觉到异常已经占据了身体的一半。
+inner-anomaly-severity-info-75 = 你感到异常正在占据你身体的大部分。
+inner-anomaly-severity-info-90 = 你感觉到异常几乎已经完全占据了你的身体。
+inner-anomaly-severity-info-100 = 你体内的异常正在不受控制地增长，引发剧烈疼痛，并将你撕裂！

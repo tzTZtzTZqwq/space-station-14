@@ -1,28 +1,28 @@
-### Gravity Generator
+﻿### 重力发生器
 
-## UI
+## 界面
 
-gravity-generator-window-title = Gravity Generator
+gravity-generator-window-title = 重力发生器
 
-## UI field names
+## UI 字段名称
 
-gravity-generator-window-status = Status:
-gravity-generator-window-power = Power:
+gravity-generator-window-status = 状态:
+gravity-generator-window-power = 电力：
 gravity-generator-window-eta = ETA:
-gravity-generator-window-charge = Charge:
+gravity-generator-window-charge = 充电:
 
-## UI statuses
-gravity-generator-window-status-fully-charged = Fully Charged
-gravity-generator-window-status-off = Off
-gravity-generator-window-status-charging = Charging
-gravity-generator-window-status-discharging = Discharging
+## UI 状态
+gravity-generator-window-status-fully-charged = 完全充满
+gravity-generator-window-status-off = 关闭
+gravity-generator-window-status-charging = 正在充电
+gravity-generator-window-status-discharging = 正在放电
 
-## UI Power Buttons
-gravity-generator-window-power-on = On
-gravity-generator-window-power-off = Off
-gravity-generator-window-power-label = { $draw } / { $max } W
+## UI 电源按钮
+gravity-generator-window-power-on = 开
+gravity-generator-window-power-off = 关闭
+gravity-generator-window-power-label = { $draw } / { $max } 瓦
 
-## UI ETA label
+## UI ETA 标签
 
-gravity-generator-window-eta-none = N/A
+gravity-generator-window-eta-none = 不适用
 gravity-generator-window-eta-value = { TOSTRING($left, "m\\:ss") }

@@ -1,3 +1,3 @@
-advertisement-cargodrobe-1 = Upgraded Passenger Style! Pick yours today!
-advertisement-cargodrobe-2 = These shorts are comfy and easy to wear, get yours now!
-advertisement-cargodrobe-3 = Made for comfort, and cheap too!
+﻿advertisement-cargodrobe-1 = 升级版乘客风格！立即挑选您的专属款式！
+advertisement-cargodrobe-2 = 这条短裤舒适又易穿，现在就来入手吧！
+advertisement-cargodrobe-3 = 专为舒适打造，价格也很便宜！

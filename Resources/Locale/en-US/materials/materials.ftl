@@ -1,43 +1,43 @@
-# Glass
-materials-glass = glass
-materials-reinforced-glass = reinforced glass
-materials-plasma-glass = plasma glass
-materials-reinforced-plasma-glass = reinforced plasma glass
-materials-uranium-glass = uranium glass
-materials-reinforced-uranium-glass = reinforced uranium glass
+﻿#玻璃
+materials-glass = 玻璃
+materials-reinforced-glass = 强化玻璃
+materials-plasma-glass = 等离子玻璃
+materials-reinforced-plasma-glass = 强化等离子玻璃
+materials-uranium-glass = 铀玻璃
+materials-reinforced-uranium-glass = 强化铀玻璃
 
-# Metals
-materials-steel = steel
-materials-gold = gold
-materials-silver = silver
-materials-plasteel = plasteel
+#金属
+materials-steel = 钢
+materials-gold = 黄金
+materials-silver = 白银
+materials-plasteel = 塑钢
 
-# Other
-materials-biomass = biomass
-materials-cardboard = cardboard
-materials-cloth = cloth
-materials-durathread = durathread
-materials-plasma = plasma
-materials-plastic = plastic
-materials-wood = wood
-materials-paper = paper
-materials-uranium = uranium
-materials-bananium = bananium
-materials-meat = meat
-materials-web = silk
-materials-bones = bone
-materials-coal = coal
-materials-diamond = diamond
-materials-gunpowder = gunpowder
-materials-cotton = cotton
+#其他
+materials-biomass = 生物质
+materials-cardboard = 纸板
+materials-cloth = 布料
+materials-durathread = dura线
+materials-plasma = 等离子体
+materials-plastic = 塑料
+materials-wood = 木材
+materials-paper = 纸
+materials-uranium = 铀
+materials-bananium = 香蕉矿
+materials-meat = 肉
+materials-web = 丝绸
+materials-bones = 骨头
+materials-coal = 煤
+materials-diamond = 钻石
+materials-gunpowder = 火药
+materials-cotton = 棉花
 
-# Ores
-materials-raw-iron = raw iron
-materials-raw-quartz = raw quartz
-materials-raw-gold = raw gold
-materials-raw-silver = raw silver
-materials-raw-plasma = raw plasma
-materials-raw-uranium = raw uranium
-materials-raw-bananium = raw bananium
-materials-raw-salt = raw salt
-materials-raw-diamond = raw diamond
+#矿石
+materials-raw-iron = 生铁
+materials-raw-quartz = 生石英
+materials-raw-gold = 原始黄金
+materials-raw-silver = 生银
+materials-raw-plasma = 原始等离子体
+materials-raw-uranium = 原铀
+materials-raw-bananium = 生香蕉矿
+materials-raw-salt = 粗盐
+materials-raw-diamond = 原钻

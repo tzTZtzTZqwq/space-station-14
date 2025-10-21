@@ -1,8 +1,8 @@
 ﻿- type: entity
   parent: BaseWallmount
   id: NoticeBoard
-  name: notice board
-  description: Is there a job for a witcher?
+  name: 布告栏
+  description: 有给猎魔人的活儿吗？
   components:
   - type: Sprite
     drawdepth: WallMountedItems

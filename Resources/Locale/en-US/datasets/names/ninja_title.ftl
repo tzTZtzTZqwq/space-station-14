@@ -1,4 +1,4 @@
-names-ninja-title-dataset-1 = Master
+﻿names-ninja-title-dataset-1 = Master
 names-ninja-title-dataset-2 = Sensei
 names-ninja-title-dataset-3 = Swift
 names-ninja-title-dataset-4 = Merciless

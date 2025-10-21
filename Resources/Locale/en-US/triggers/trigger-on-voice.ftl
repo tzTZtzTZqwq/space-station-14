@@ -1,14 +1,14 @@
-trigger-on-voice-examine = The display reads: "{$keyphrase}"
-trigger-on-voice-uninitialized = The display reads: Uninitialized...
+﻿trigger-on-voice-examine = 显示屏上显示："{$keyphrase}"
+trigger-on-voice-uninitialized = 显示器显示：未初始化...
 
-trigger-on-voice-record = Record
-trigger-on-voice-stop = Stop
-trigger-on-voice-clear = Clear recording
-trigger-on-voice-default = Reset to default
+trigger-on-voice-record = 录制
+trigger-on-voice-stop = 停止
+trigger-on-voice-clear = 清除录音
+trigger-on-voice-default = 重置为默认值
 
-trigger-on-voice-start-recording = Started recording.
-trigger-on-voice-stop-recording = Stopped recording.
-trigger-on-voice-record-failed-too-long = Message too long, try again.
-trigger-on-voice-record-failed-too-short = Message too short, try again.
-trigger-on-voice-recorded = Recorded successfully!
-trigger-on-voice-set-default = Set to default keyphrase: "{$keyphrase}"
+trigger-on-voice-start-recording = 开始录制。
+trigger-on-voice-stop-recording = 停止录音。
+trigger-on-voice-record-failed-too-long = 消息过长，请重试。
+trigger-on-voice-record-failed-too-short = 消息过短，请重试。
+trigger-on-voice-recorded = 录制成功！
+trigger-on-voice-set-default = 设置为默认关键词："{$keyphrase}"

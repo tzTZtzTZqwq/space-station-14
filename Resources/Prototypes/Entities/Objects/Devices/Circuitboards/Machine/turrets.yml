@@ -2,8 +2,8 @@
   abstract: true
   parent: BaseMachineCircuitboard
   id: WeaponEnergyTurretStationMachineCircuitboardBase
-  name: sentry turret machine board
-  description: A machine printed circuit board for a sentry turret.
+  name: 哨兵炮台机板
+  description: 哨兵炮塔用机器印制电路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi

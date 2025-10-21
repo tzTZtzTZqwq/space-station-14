@@ -1,7 +1,7 @@
-﻿advertisement-condiment-1 = Tired of dry meat? Squirt some flavor-packed condiments on it!
-advertisement-condiment-2 = Child-safe utensils. Forks, spoons, and knives that won't cut a thing.
-advertisement-condiment-3 = Corn oil!
-advertisement-condiment-4 = Sweeten up your day with Astrotame! Eight out of ten doctors agree, it probably won't cause cancer.
-advertisement-condiment-5 = Hot Sauce! Barbecue Sauce! Cold Sauce! Ketchup! Soy Sauce! Horseradish Sauce! We got all the sauce!
-advertisement-condiment-6 = Make sure to put ketchup and mustard on your burgers! The chefs often forget.
+﻿advertisement-condiment-1 = 厌倦了干巴巴的肉？喷点风味十足的调味品吧！
+advertisement-condiment-2 = 儿童安全餐具。刀叉、勺子，怎么切都不会伤手。
+advertisement-condiment-3 = 玉米油！
+advertisement-condiment-4 = 用Astrotame来甜蜜您的一天吧！十位医生中有八位同意，它可能不会致癌。
+advertisement-condiment-5 = 热辣酱！烧烤酱！冷酱！番茄酱！酱油！辣根酱！我们拥有所有酱料！
+advertisement-condiment-6 = 别忘了在你的汉堡上放番茄酱和芥末酱！厨师们经常会忘记。
 

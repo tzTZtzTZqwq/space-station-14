@@ -1,18 +1,18 @@
-swap-teleporter-popup-link-create = Quantum link established!
-swap-teleporter-popup-link-fail-already = Quantum link failed! Link already present on device.
-swap-teleporter-popup-link-fail-already-other = Quantum link failed! Link already present on secondary device.
-swap-teleporter-popup-link-destroyed = Quantum link destroyed!
-swap-teleporter-popup-teleport-cancel-time = It's still recharging!
-swap-teleporter-popup-teleport-cancel-link = It's not linked with another device!
-swap-teleporter-popup-teleport-other = {CAPITALIZE(THE($entity))} activates, and you find yourself somewhere else.
-swap-teleporter-popup-teleport-fail = {CAPITALIZE(THE($entity))} activates and fails to transport you anywhere.
+﻿swap-teleporter-popup-link-create = 量子链接已建立！
+swap-teleporter-popup-link-fail-already = 量子链接失败！设备上已存在链接。
+swap-teleporter-popup-link-fail-already-other = 量子链接失败！次要设备上已存在链接。
+swap-teleporter-popup-link-destroyed = 量子链接已销毁！
+swap-teleporter-popup-teleport-cancel-time = 它还在充能中！
+swap-teleporter-popup-teleport-cancel-link = 它没有与另一台设备连接！
+swap-teleporter-popup-teleport-other = {CAPITALIZE(THE($entity))}激活了，你发现自己出现在了别处。
+swap-teleporter-popup-teleport-fail = {CAPITALIZE(THE($entity))}启动后未能将您传送至任何地点。
 
-swap-teleporter-verb-destroy-link = Destroy Quantum Link
+swap-teleporter-verb-destroy-link = 销毁量子链接
 
-swap-teleporter-examine-link-present = [color=forestgreen]It is linked to another device.[/color] Alt-Click to break the quantum link.
-swap-teleporter-examine-link-absent = [color=yellow]It is not currently linked.[/color] Use on another device to establish a quantum link.
+swap-teleporter-examine-link-present = [color=forestgreen]该设备与另一台设备建立了量子链接。[/color] 按住Alt键点击可断开量子链接。
+swap-teleporter-examine-link-absent = [color=yellow]当前未建立量子链接。[/color]在另一台设备上使用以建立量子链接。
 swap-teleporter-examine-time-remaining = Time left to recharge: [color=purple]{$second} second{$second ->
-    [one].
-    *[other]s.
+    [one] .
+    *[other] s.
 }[/color]
 

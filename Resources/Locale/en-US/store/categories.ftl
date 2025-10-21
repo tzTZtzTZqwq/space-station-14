@@ -1,26 +1,26 @@
-# Uplink
-store-category-debug = debug category
+﻿#上行链路
+store-category-debug = debug分类
 store-category-debug2 = debug category 2
-store-category-weapons = Weaponry
-store-category-ammo = Ammo
-store-category-explosives = Explosives
-store-category-chemicals = Chemicals
-store-category-deception = Deception
-store-category-disruption = Disruption
-store-category-implants = Implants
-store-category-allies = Allies
-store-category-job = Job
-store-category-wearables = Wearables
-store-category-pointless = Pointless
-store-discounted-items = Discounts
+store-category-weapons = 武器
+store-category-ammo = 弹药
+store-category-explosives = 爆炸物
+store-category-chemicals = 化学品
+store-category-deception = 欺骗
+store-category-disruption = 破坏
+store-category-implants = 植入体
+store-category-allies = 盟友
+store-category-job = 职业
+store-category-wearables = 可穿戴设备
+store-category-pointless = 无意义
+store-discounted-items = 折扣
 
-# Revenant
-store-category-abilities = Abilities
+#亡灵
+store-category-abilities = 能力
 
-# Wizard
-store-caregory-spellbook-offensive = Offensive Spells
-store-caregory-spellbook-defensive = Defensive Spells
-store-caregory-spellbook-utility = Utility Spells
-store-caregory-spellbook-equipment = Wizard Equipment
-store-caregory-spellbook-events = Event Spells
+#巫师
+store-caregory-spellbook-offensive = 攻击性法术
+store-caregory-spellbook-defensive = 防御法术
+store-caregory-spellbook-utility = 实用咒语
+store-caregory-spellbook-equipment = 法师装备
+store-caregory-spellbook-events = 事件法术
 

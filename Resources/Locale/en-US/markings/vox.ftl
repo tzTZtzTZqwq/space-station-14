@@ -1,4 +1,4 @@
-marking-TattooVoxNightlingHead-tattoo_nightling_head = Vox Head Tattoo (Nightling)
+﻿marking-TattooVoxNightlingHead-tattoo_nightling_head = Vox Head Tattoo (Nightling)
 marking-TattooVoxNightlingHead = Vox Head Tattoo (Nightling)
 
 marking-TattooVoxArrowHead-tattoo_arrow_head = Vox Head Tattoo (Arrow)

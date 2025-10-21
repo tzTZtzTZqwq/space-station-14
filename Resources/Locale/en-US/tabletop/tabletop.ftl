@@ -1,22 +1,22 @@
-﻿## TabletopGameComponent
-tabletop-verb-play-game = Play Game
-tabletop-verb-dump-pieces = Dump Pieces
-tabletop-default-board-name = Board Game
-tabletop-error-remove-non-hologram = You cant remove a built in piece!
-tabletop-added-piece = The board shimmers brightly!
+﻿## 桌面游戏组件
+tabletop-verb-play-game = 玩游戏
+tabletop-verb-dump-pieces = 倾倒棋子
+tabletop-default-board-name = 桌面游戏
+tabletop-error-remove-non-hologram = 你不能移除内置的部件！
+tabletop-added-piece = 面板闪耀着明亮的光芒！
 
-## Chess
-tabletop-chess-board-name = Chess
-tabletop-chess-flip = Flip
+## 国际象棋
+tabletop-chess-board-name = 国际象棋
+tabletop-chess-flip = 翻转
 
-## Parchís
+## 帕奇西棋
 tabletop-parchis-board-name = Parchís
 
-## Backgammon
-tabletop-backgammon-board-name = Backgammon
+## 西洋双陆棋
+tabletop-backgammon-board-name = 双陆棋
 
-## Checkers
-tabletop-checkers-board-name = Checkers
+## 跳棋
+tabletop-checkers-board-name = 跳棋棋盘
 
-## Battlemap
-tabletop-battlemap-board-name = Battlemap
+## 战场地图
+tabletop-battlemap-board-name = 战地图

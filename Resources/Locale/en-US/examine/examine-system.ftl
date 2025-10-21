@@ -1,11 +1,11 @@
-## ExamineSystem
+﻿## 检查系统
 
-examine-system-entity-does-not-exist = That entity doesn't exist
+examine-system-entity-does-not-exist = 该实体不存在
 
-examine-system-cant-see-entity = You can't make out whatever that is.
+examine-system-cant-see-entity = 你无法辨认出那是什么。
 
-examine-verb-name = Basic
+examine-verb-name = 基础
 
-examinable-anchored = It is [color=darkgreen]anchored[/color] to the floor.
+examinable-anchored = 它被[color=darkgreen]固定[/color]在地板上。
 
-examinable-unanchored = It is [color=darkred]unanchored[/color] from the floor.
+examinable-unanchored = 它没有[color=darkred]固定[/color]在地面上。

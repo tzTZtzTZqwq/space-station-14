@@ -1,7 +1,7 @@
-### Udder system
+﻿### 乳腺系统
 
-udder-system-already-milking = The udder is already being milked.
-udder-system-success = You fill {THE($target)} with {$amount}u from the udder.
-udder-system-dry = The udder is dry.
+udder-system-already-milking = 乳房系统已经在挤奶中。
+udder-system-success = 你用乳房给{THE($target)}注入了{$amount}u。
+udder-system-dry = 乳房系统干燥。
 
-udder-system-verb-milk = Milk
+udder-system-verb-milk = 挤奶

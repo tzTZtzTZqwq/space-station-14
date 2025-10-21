@@ -1,2 +1,2 @@
-﻿advertisement-bardrobe-1 = Guaranteed to prevent stains from spilled drinks!
-advertisement-bardrobe-2 = Classy and stylish!
+﻿advertisement-bardrobe-1 = 保证防止饮料泼洒造成的污渍！
+advertisement-bardrobe-2 = 优雅而时尚！

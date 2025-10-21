@@ -2,8 +2,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorWhite
-  name: white jumpsuit
-  description: A generic white jumpsuit with no rank markings.
+  name: 白色连体裤
+  description: 一件无军衔标识的通用白色连体服。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -29,8 +29,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorGrey
-  name: grey jumpsuit
-  description: A tasteful grey jumpsuit that reminds you of the good old days.
+  name: 灰色连体裤
+  description: 一件让人怀念美好旧时光的雅致灰色连体裤。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -60,8 +60,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorBlack
-  name: black jumpsuit
-  description: A generic black jumpsuit with no rank markings.
+  name: 黑色连体裤
+  description: 一件没有军衔标识的通用黑色连体服。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -91,8 +91,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorBlue
-  name: blue jumpsuit
-  description: A generic blue jumpsuit with no rank markings.
+  name: 蓝色连体裤
+  description: 一件没有军衔标识的通用蓝色连体服。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -122,8 +122,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorDarkBlue
-  name: dark blue jumpsuit
-  description: A generic dark blue jumpsuit with no rank markings.
+  name: 深蓝色连体裤
+  description: 一套无军衔标识的通用深蓝色连体服。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -153,8 +153,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorTeal
-  name: teal jumpsuit
-  description: A generic teal jumpsuit with no rank markings.
+  name: 青绿色连体裤
+  description: 一件没有军衔标识的通用蓝绿色连体服。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -184,8 +184,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorGreen
-  name: green jumpsuit
-  description: A generic green jumpsuit with no rank markings.
+  name: 绿色连体裤
+  description: 一套没有军衔标识的通用绿色连体服。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -215,8 +215,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorDarkGreen
-  name: dark green jumpsuit
-  description: A generic dark green jumpsuit with no rank markings.
+  name: 深绿色连体裤
+  description: 一套无军衔标识的通用深绿色连体服。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -246,8 +246,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorOrange
-  name: orange jumpsuit
-  description: Don't wear this near paranoid security officers.
+  name: 橙色连体衣
+  description: 别在疑神疑鬼的安保人员附近穿戴这个。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -277,8 +277,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorPink
-  name: pink jumpsuit
-  description: Just looking at this makes you feel <i>fabulous</i>.
+  name: 粉色连体裤
+  description: 光是看着这个就让你感觉<i>棒极了</i>。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -308,8 +308,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorRed
-  name: red jumpsuit
-  description: A generic red jumpsuit with no rank markings.
+  name: 红色连体跳伞服
+  description: 一套普通的红色连体服，没有军衔标记。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -339,8 +339,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorYellow
-  name: yellow jumpsuit
-  description: A generic yellow jumpsuit with no rank markings.
+  name: 黄色连体衣
+  description: 一件没有军衔标识的普通黄色连体服。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -370,8 +370,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorPurple
-  name: purple jumpsuit
-  description: A generic light purple jumpsuit with no rank markings.
+  name: 紫色连体衣
+  description: 一套无任何军衔标识的通用浅紫色连体服。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -401,8 +401,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorLightBrown
-  name: light brown jumpsuit
-  description: A generic light brown jumpsuit with no rank markings.
+  name: 浅棕色连体裤
+  description: 一件没有军衔标识的通用浅棕色连体服。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -432,8 +432,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorBrown
-  name: brown jumpsuit
-  description: A generic brown jumpsuit with no rank markings.
+  name: 棕色连体裤
+  description: 一件普通的棕色连体服，没有军衔标记。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -463,8 +463,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitColorMaroon
-  name: maroon jumpsuit
-  description: A generic maroon jumpsuit with no rank markings.
+  name: 栗色连体裤
+  description: 一件没有军衔标识的通用栗色连体服。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
@@ -494,8 +494,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformColorRainbow
-  name: rainbow jumpsuit
-  description: A multi-colored jumpsuit!
+  name: 彩虹连体衣
+  description: 一件五彩缤纷的连体衣！
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/rainbow.rsi

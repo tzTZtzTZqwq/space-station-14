@@ -1,10 +1,10 @@
-cmd-arrivals-enable-hint = Enables arrivals
-cmd-arrivals-disable-hint = Disables arrivals
+﻿cmd-arrivals-enable-hint = 启用抵达
+cmd-arrivals-disable-hint = 禁用抵达
 
-cmd-arrivals-returns = Set arrivals returns to {$value}.
-cmd-arrivals-returns-hint = Toggles allowing players to return via arrivals.
+cmd-arrivals-returns = 将到达退货设置为{$value}。
+cmd-arrivals-returns-hint = 切换是否允许玩家通过抵达处返回。
 
-cmd-arrivals-invalid = Invalid arg supplied.
+cmd-arrivals-invalid = 提供了无效参数。
 
-cmd-arrivals-force-hint = Forces players to arrive.
-cmd-arrivals-forced = Forced {$uid} to arrive to the station.
+cmd-arrivals-force-hint = 强制玩家到达。
+cmd-arrivals-forced = 强制{$uid}抵达车站。

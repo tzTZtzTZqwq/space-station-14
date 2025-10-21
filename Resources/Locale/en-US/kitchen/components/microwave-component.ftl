@@ -1,28 +1,28 @@
-## Entity
+﻿## 实体
 
-microwave-component-interact-using-no-power = It has no power!
-microwave-component-interact-using-broken = It's broken!
-microwave-component-interact-using-container-full = Container is full
-microwave-component-interact-using-transfer-success = Transferred {$amount}u
-microwave-component-interact-using-transfer-fail = That won't work!
-microwave-component-suicide-multi-head-others-message = {$victim} is trying to cook their heads!
-microwave-component-suicide-others-message = {$victim} is trying to cook their head!
-microwave-component-suicide-multi-head-message = You cook your heads!
-microwave-component-suicide-message = You cook your head!
-microwave-component-interact-full = It's full.
-microwave-component-interact-item-too-big = { CAPITALIZE(THE($item)) } is too big to fit in the microwave!
+microwave-component-interact-using-no-power = 它没有通电！
+microwave-component-interact-using-broken = 它坏了！
+microwave-component-interact-using-container-full = 容器已满
+microwave-component-interact-using-transfer-success = 已转移{$amount}u
+microwave-component-interact-using-transfer-fail = 那样不行！
+microwave-component-suicide-multi-head-others-message = {$victim}正试图烹饪他们的脑袋！
+microwave-component-suicide-others-message = {$victim}正试图烹饪自己的头部！
+microwave-component-suicide-multi-head-message = 你煮了你的头！
+microwave-component-suicide-message = 你把自己的头煮熟了！
+microwave-component-interact-full = 它装满了。
+microwave-component-interact-item-too-big = { CAPITALIZE(THE($item)) } 太大，无法放入微波炉！
 
-## Bound UI
+## 绑定界面
 
-microwave-bound-user-interface-instant-button = INSTANT
-microwave-bound-user-interface-cook-time-label = COOK TIME: {$time}
+microwave-bound-user-interface-instant-button = 即时
+microwave-bound-user-interface-cook-time-label = 烹饪时间: {$time}
 
-## UI
+## 界面
 
-microwave-menu-title = Microwave
-microwave-menu-start-button = Start
-microwave-menu-eject-all-text = Eject All Contents
-microwave-menu-eject-all-tooltip = This vaporizes all reagents, but ejects any solids.
-microwave-menu-instant-button = INSTANT
-microwave-menu-footer-flavor-left = Do not insert any electronic, metallic or living objects.
+microwave-menu-title = 微波炉
+microwave-menu-start-button = 开始
+microwave-menu-eject-all-text = 取出全部内容
+microwave-menu-eject-all-tooltip = 这会蒸发所有试剂，但弹出所有固体。
+microwave-menu-instant-button = 即时
+microwave-menu-footer-flavor-left = 请勿放入任何电子、金属或生物体。
 microwave-menu-footer-flavor-right = v1.5

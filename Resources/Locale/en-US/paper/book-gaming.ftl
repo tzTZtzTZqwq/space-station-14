@@ -1,10 +1,10 @@
-book-text-gaming1 = Can't stay for the game.
+﻿book-text-gaming1 = 不能留下来看比赛。
       Engineering want me to keep a close eye on the singularity SMESes.
       Leaving this so you know what's up.
       Sorry.
        - Alexander
 
-book-text-gaming2 = Johny Clowe
+book-text-gaming2 = 约翰尼·克洛
       Class: Druid
       Alignment: Neutral Good
       Str: 1,294,139
@@ -17,14 +17,14 @@ book-text-gaming2 = Johny Clowe
       Why are those ability scores so ridiculous?
       What even are you trying to do here, Leah? - Your Friendly DM
 
-book-text-gaming3 = THE GIANT SPACE FLY FROM SPACE
+book-text-gaming3 = 来自太空的巨型太空苍蝇
       Session 1: They should have just learned what's going on with the world and the Giant Space Fly.
       Session 2: They should know to ask the Wizard's Court about seismic distortions.
       Session 3: On their way to underground lair.
       Session 4: Just ran into the Architect Of Flies.
       Oh dear goodness they just started randomly killing everybody
 
-book-text-gaming4 = Won't be able to come to the meet, chemist blew up the hospital again.
+book-text-gaming4 = 无法来参加会议了，化学家又把医院炸了。
       Fifth time this shift.
       It's amazing.
       But not in a good way.

@@ -1,13 +1,13 @@
-﻿### Loc for the transfer amount eui window
+﻿### 转账金额界面本地化文本
 
-## Title
+## 标题
 
-ui-transfer-amount-title = Change Transfer Amount
+ui-transfer-amount-title = 更改转账金额
 
-## Text for the button to apply changes
+## 用于应用更改的按钮文本
 
-ui-transfer-amount-apply = Set Amount
+ui-transfer-amount-apply = 设置金额
 
-## Placeholder text for the amount line edit
+## 金额行编辑的占位文本
 
-ui-transfer-amount-line-edit-placeholder = Amount
+ui-transfer-amount-line-edit-placeholder = 金额

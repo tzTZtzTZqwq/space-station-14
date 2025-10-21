@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseItem
   id: AmeJar
-  name: AME fuel jar
-  description: A hermetically sealed jar containing antimatter for use in an antimatter reactor.
+  name: AME燃料罐
+  description: 一个装有反物质的密封罐，用于反物质反应堆。
   components:
   - type: Item
     size: Normal

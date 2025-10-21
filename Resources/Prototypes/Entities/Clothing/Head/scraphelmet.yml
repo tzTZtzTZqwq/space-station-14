@@ -2,10 +2,10 @@
 # Listed from first step of crafting to the final helmet
 
 - type: entity
-  name: wired bucket
+  name: 有线桶
   parent: BaseItem
   id: WiredBucketBase
-  description: A bucket with attached wiring to better serve as a chinstrap.
+  description: 一个带有连接线缆的桶，能更好地充当下巴带。
   components:
   - type: Sprite
     sprite: Clothing/Head/Helmets/scrap_helmet.rsi
@@ -18,10 +18,10 @@
     node: wiredbucket
 
 - type: entity
-  name: sliced bucket
+  name: 切片桶
   parent: BaseItem
   id: SlicedBucketBase
-  description: A bucket with a vision slit cut into the side.
+  description: 一个侧面开有视缝的桶。
   components:
   - type: Sprite
     sprite: Clothing/Head/Helmets/scrap_helmet.rsi
@@ -34,10 +34,10 @@
     node: slicedbucket
 
 - type: entity
-  name: steel bucket
+  name: 钢桶
   parent: BaseItem
   id: SteelBucketBase
-  description: A bucket that's had steel welded onto it's exterior. It requires better shaping before it can be worn comfortably.
+  description: 一个外壁焊有钢片的桶。需要进一步塑形才能舒适佩戴。
   components:
   - type: Sprite
     sprite: Clothing/Head/Helmets/scrap_helmet.rsi
@@ -53,8 +53,8 @@
 - type: entity
   parent: [ClothingHeadHelmetBase, BaseMajorContraband]
   id: ClothingHeadHelmetScrap #When we get the tech for it this bad boy needs to be given a vision reduction when equipped. 1-2 tiles less than normal should be good.
-  name: scrap helmet
-  description: A cobbled-together helmet made from cabling, steel, and a bucket.
+  name: 废钢头盔
+  description: 一个由电缆、钢条和水桶拼凑而成的头盔。
   components:
   - type: Sprite
     sprite: Clothing/Head/Helmets/scrap_helmet.rsi

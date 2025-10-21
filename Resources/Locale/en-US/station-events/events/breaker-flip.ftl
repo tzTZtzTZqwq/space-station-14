@@ -1,1 +1,1 @@
-﻿station-event-breaker-flip-announcement = Based on { $data }, we have opted to disable specific APCs to avoid damage to equipment. Please contact the engineering department to re-enable them.
+﻿station-event-breaker-flip-announcement = 根据{ $data }，我们已选择停用特定APU以避免设备损坏。请联系工程部门重新启用它们。

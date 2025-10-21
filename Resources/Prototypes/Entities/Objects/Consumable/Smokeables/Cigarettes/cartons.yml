@@ -1,8 +1,8 @@
 - type: entity
   id: CigCartonGreen
   parent: [ BoxCardboard, BaseBagOpenClose ]
-  name: Spessman's Smokes carton
-  description: "A carton containing 6 packets of Spessman's Smokes."
+  name: 斯佩斯曼香烟盒
+  description: 一个装有6包斯派斯曼香烟的纸箱。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Smokeables/Cigarettes/Cartons/green.rsi
@@ -28,8 +28,8 @@
 - type: entity
   id: CigCartonRed
   parent: CigCartonGreen
-  name: DromedaryCo carton
-  description: A carton containing 6 packets of Dromedarycos.
+  name: 单峰骆驼公司纸箱
+  description: 一个装有6包Dromedarycos的纸箱。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Smokeables/Cigarettes/Cartons/red.rsi
@@ -44,8 +44,8 @@
 - type: entity
   id: CigCartonBlue
   parent: CigCartonGreen
-  name: AcmeCo carton
-  description: A carton containing 6 packets of AcmeCo.
+  name: AcmeCo纸箱
+  description: 一个装有6包AcmeCo产品的纸箱。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Smokeables/Cigarettes/Cartons/blue.rsi
@@ -60,8 +60,8 @@
 - type: entity
   id: CigCartonBlack
   parent: CigCartonGreen
-  name: Nomads carton
-  description: A carton containing 6 packets of Nomads.
+  name: 游牧者纸箱
+  description: 一个装有6包Nomads的纸箱。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Smokeables/Cigarettes/Cartons/black.rsi
@@ -76,8 +76,8 @@
 - type: entity
   id: CigCartonMixed
   parent: CigCartonGreen
-  name: Dan's soaked smokes
-  description: A carton containg 3 packets of Dan's soaked smokes.
+  name: 丹的湿烟
+  description: 一个纸箱，内装三包丹的湿烟。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Smokeables/Cigarettes/Cartons/mixed.rsi

@@ -1,11 +1,11 @@
-﻿advertisement-ammo-1 = Liberation Station: Your one-stop shop for all things second amendment!
-advertisement-ammo-2 = Be a patriot today, pick up a gun!
-advertisement-ammo-3 = Quality weapons for cheap prices!
-advertisement-ammo-4 = Better dead than red!
-advertisement-ammo-5 = Float like an astronaut, sting like a bullet!
-advertisement-ammo-6 = Express your second amendment today!
-advertisement-ammo-7 = Guns don't kill people, but you can!
-advertisement-ammo-8 = Who needs responsibilities when you have guns?
-advertisement-ammo-9 = Murdering people is fun!
-advertisement-ammo-10 = Go shoot 'em up!
+﻿advertisement-ammo-1 = Liberation Station：满足您第二修正案一切需求的一站式商店！
+advertisement-ammo-2 = 今天做个爱国者，拿起枪来！
+advertisement-ammo-3 = 优质武器，价格实惠！
+advertisement-ammo-4 = 宁可站着死，绝不跪着生！
+advertisement-ammo-5 = 像宇航员一样漂浮，像子弹一样刺痛！
+advertisement-ammo-6 = 今天就表达你的第二修正案权利！
+advertisement-ammo-7 = 枪不杀人，但你可以！
+advertisement-ammo-8 = 有枪在手，何须责任？
+advertisement-ammo-9 = 杀人很有趣！
+advertisement-ammo-10 = 快去射击吧！
 
